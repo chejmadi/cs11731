@@ -313,16 +313,14 @@ class NMT(nn.Module):
                     context = context[0][parents] # Get correct context to pass on
                     attn_vctr = attn_vctr[parents] # Keep correct attention vector for unk replacement
                     # Create copies of the above to delete in case EOS appears in the for loop
-                    attn_vctr_tmp = copy.deepcopy(attn_vctr)
-                    context_tmp = copy.deepcopy(context)
-                    hidden_tmp = copy.deepcopy(hidden)
-                    log_probs_new = copy.deepcopy(log_probs)
+
                     # Now add the words to the corresponding sentences 
                     # First, keep only the sentences that remain:
                     sentences = [copy.deepcopy(sentences[parents[0][0][i]]) for i in parents[0][0]]
                     sentences_tmp = copy.deepcopy(sentences)
                     completed_sentences = 0 # Keep a track of how many EOS tokens have appeared
-                    for i in range(beam_size):
+                    for i in range(beam_size):                    
+
                         if tokens[0][0][i].item() == 3: # Unk replacement
                             sentences[i].append(src_sent[torch.argmax(attn_vctr[i]).item()]) 
                         else:
@@ -332,24 +330,9 @@ class NMT(nn.Module):
                             hypo.append(copy.deepcopy(sentences[i]))
                             sentences_tmp.pop(i) 
                             final_scores.append(log_probs[0][0][i].item())
-                            log_probs_new = log_probs_new
-                            completed_sentences += 1
-
-
-
-
-
-
-
-
-
-                
-
-                
-
-                
-
-                
+                            log_probs_new = torch.from_numpy(np.delete(log_probs_new.numpy(), i, 2))
+                            context_tmp = torch.from_numpy()
+                            completed_sentences += 1                
                 
         return hypotheses
 
