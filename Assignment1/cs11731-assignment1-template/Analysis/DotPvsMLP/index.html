@@ -1,0 +1,1126 @@
+<html>
+<head>
+<link rel="stylesheet" href="compare_mt.css">
+</head>
+<script>
+
+function showhide(elem) {
+  var x = document.getElementById(elem);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+</script>
+<body>
+<h1>compare-mt Analysis Report</h1>
+ <h2>Aggregate Scores</h2>
+<table border="1">
+<caption> BLEU </caption><tr> <th>  </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> BLEU </th>
+  <td> 24.2216 </td>
+  <td> 24.9533 </td> </tr>
+</table>
+ <br/><button onclick="showhide('001_latex')">Show/Hide LaTeX</button> <br/><pre id="001_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & MLP & DotProd \\ \hline \hline
+BLEU & 24.2216 & 24.9533 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table001}
+\end{table}</pre><img src="001-score-bleu.png" alt="Score Comparison"> <br/><button onclick="showhide('001-score-bleu_latex')">Show/Hide LaTeX</button> <br/><pre id="001-score-bleu_latex" style="display:none">\begin{figure}[h]
+  \centering
+  \includegraphics{001-score-bleu.pdf}
+  \caption{Score Comparison}
+  \label{fig:001-score-bleu}
+\end{figure}</pre>
+<table border="1">
+<caption> length ratio </caption><tr> <th>  </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> length ratio </th>
+  <td> 0.9755 (ref=131141, out=127928) </td>
+  <td> 0.9749 (ref=131141, out=127844) </td> </tr>
+</table>
+ <br/><button onclick="showhide('002_latex')">Show/Hide LaTeX</button> <br/><pre id="002_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & MLP & DotProd \\ \hline \hline
+length ratio & 0.9755 (ref=131141, out=127928) & 0.9749 (ref=131141, out=127844) \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table002}
+\end{table}</pre><img src="002-score-lengthrat.png" alt="Score Comparison"> <br/><button onclick="showhide('002-score-lengthrat_latex')">Show/Hide LaTeX</button> <br/><pre id="002-score-lengthrat_latex" style="display:none">\begin{figure}[h]
+  \centering
+  \includegraphics{002-score-lengthrat.pdf}
+  \caption{Score Comparison}
+  \label{fig:002-score-lengthrat}
+\end{figure}</pre>
+<h2>Word Accuracies</h2>
+<table border="1">
+<caption> word fmeas by frequency bucket </caption><tr> <th> frequency </th>
+  <th> MLP </th>
+  <th> DotProd </th>
+  <th> Examples </th> </tr><tr> <th> <1 </th>
+  <td> 0.0000 </td>
+  <td> 0.0000 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket0">Examples</a> </td> </tr><tr> <th> 1 </th>
+  <td> 0.3105 </td>
+  <td> 0.3197 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket1">Examples</a> </td> </tr><tr> <th> 2 </th>
+  <td> 0.3657 </td>
+  <td> 0.3839 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket2">Examples</a> </td> </tr><tr> <th> 3 </th>
+  <td> 0.4045 </td>
+  <td> 0.4163 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket3">Examples</a> </td> </tr><tr> <th> 4 </th>
+  <td> 0.3920 </td>
+  <td> 0.4117 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket4">Examples</a> </td> </tr><tr> <th> [5,10) </th>
+  <td> 0.4661 </td>
+  <td> 0.4824 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket5">Examples</a> </td> </tr><tr> <th> [10,100) </th>
+  <td> 0.5201 </td>
+  <td> 0.5305 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket6">Examples</a> </td> </tr><tr> <th> [100,1000) </th>
+  <td> 0.5459 </td>
+  <td> 0.5524 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket7">Examples</a> </td> </tr><tr> <th> >=1000 </th>
+  <td> 0.7175 </td>
+  <td> 0.7253 </td>
+  <td> <a href="003-wordacc-frequency.html#bucket8">Examples</a> </td> </tr>
+</table>
+ <br/><button onclick="showhide('123_latex')">Show/Hide LaTeX</button> <br/><pre id="123_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||ccc}
+frequency & MLP & DotProd \\ \hline \hline
+\textless1 & 0.0000 & 0.0000 \\
+1 & 0.3105 & 0.3197 \\
+2 & 0.3657 & 0.3839 \\
+3 & 0.4045 & 0.4163 \\
+4 & 0.3920 & 0.4117 \\
+{[}5,10) & 0.4661 & 0.4824 \\
+{[}10,100) & 0.5201 & 0.5305 \\
+{[}100,1000) & 0.5459 & 0.5524 \\
+\textgreater=1000 & 0.7175 & 0.7253 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table123}
+\end{table}</pre><img src="003-wordacc-frequency-fmeas.png" alt="Word Accuracy Analysis"> <br/><button onclick="showhide('003-wordacc-frequency-fmeas_latex')">Show/Hide LaTeX</button> <br/><pre id="003-wordacc-frequency-fmeas_latex" style="display:none">\begin{figure}[h]
+  \centering
+  \includegraphics{003-wordacc-frequency-fmeas.pdf}
+  \caption{Word Accuracy Analysis}
+  \label{fig:003-wordacc-frequency-fmeas}
+\end{figure}</pre>
+<h2>Sentence Buckets</h2>
+<table border="1">
+<caption> bucket type: length, statistic type: BLEU </caption><tr> <th> length </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> <10 </th>
+  <td> 26.9669 </td>
+  <td> 29.0569 </td> </tr><tr> <th> [10,20) </th>
+  <td> 26.9942 </td>
+  <td> 27.3504 </td> </tr><tr> <th> [20,30) </th>
+  <td> 24.9298 </td>
+  <td> 25.4309 </td> </tr><tr> <th> [30,40) </th>
+  <td> 22.2545 </td>
+  <td> 23.2253 </td> </tr><tr> <th> [40,50) </th>
+  <td> 21.4263 </td>
+  <td> 22.1937 </td> </tr><tr> <th> [50,60) </th>
+  <td> 19.9463 </td>
+  <td> 21.3035 </td> </tr><tr> <th> >=60 </th>
+  <td> 15.3189 </td>
+  <td> 16.6857 </td> </tr>
+</table>
+ <br/><button onclick="showhide('124_latex')">Show/Hide LaTeX</button> <br/><pre id="124_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+length & MLP & DotProd \\ \hline \hline
+\textless10 & 26.9669 & 29.0569 \\
+{[}10,20) & 26.9942 & 27.3504 \\
+{[}20,30) & 24.9298 & 25.4309 \\
+{[}30,40) & 22.2545 & 23.2253 \\
+{[}40,50) & 21.4263 & 22.1937 \\
+{[}50,60) & 19.9463 & 21.3035 \\
+\textgreater=60 & 15.3189 & 16.6857 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table124}
+\end{table}</pre><img src="004-sent-length-bleu.png" alt="Sentence Bucket Analysis"> <br/><button onclick="showhide('004-sent-length-bleu_latex')">Show/Hide LaTeX</button> <br/><pre id="004-sent-length-bleu_latex" style="display:none">\begin{figure}[h]
+  \centering
+  \includegraphics{004-sent-length-bleu.pdf}
+  \caption{Sentence Bucket Analysis}
+  \label{fig:004-sent-length-bleu}
+\end{figure}</pre>
+<table border="1">
+<caption> bucket type: len(output)-len(reference), statistic type: count </caption><tr> <th> lengthdiff </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> <-20 </th>
+  <td> 20 </td>
+  <td> 24 </td> </tr><tr> <th> [-20,-10) </th>
+  <td> 82 </td>
+  <td> 72 </td> </tr><tr> <th> [-10,-5) </th>
+  <td> 415 </td>
+  <td> 436 </td> </tr><tr> <th> -5 </th>
+  <td> 232 </td>
+  <td> 229 </td> </tr><tr> <th> -4 </th>
+  <td> 350 </td>
+  <td> 333 </td> </tr><tr> <th> -3 </th>
+  <td> 521 </td>
+  <td> 480 </td> </tr><tr> <th> -2 </th>
+  <td> 702 </td>
+  <td> 667 </td> </tr><tr> <th> -1 </th>
+  <td> 968 </td>
+  <td> 1014 </td> </tr><tr> <th> 0 </th>
+  <td> 1228 </td>
+  <td> 1258 </td> </tr><tr> <th> 1 </th>
+  <td> 728 </td>
+  <td> 692 </td> </tr><tr> <th> 2 </th>
+  <td> 462 </td>
+  <td> 509 </td> </tr><tr> <th> 3 </th>
+  <td> 300 </td>
+  <td> 303 </td> </tr><tr> <th> 4 </th>
+  <td> 232 </td>
+  <td> 217 </td> </tr><tr> <th> 5 </th>
+  <td> 150 </td>
+  <td> 158 </td> </tr><tr> <th> [6,11) </th>
+  <td> 261 </td>
+  <td> 253 </td> </tr><tr> <th> [11,21) </th>
+  <td> 70 </td>
+  <td> 84 </td> </tr><tr> <th> >=21 </th>
+  <td> 29 </td>
+  <td> 21 </td> </tr>
+</table>
+ <br/><button onclick="showhide('125_latex')">Show/Hide LaTeX</button> <br/><pre id="125_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+lengthdiff & MLP & DotProd \\ \hline \hline
+\textless-20 & 20 & 24 \\
+{[}-20,-10) & 82 & 72 \\
+{[}-10,-5) & 415 & 436 \\
+-5 & 232 & 229 \\
+-4 & 350 & 333 \\
+-3 & 521 & 480 \\
+-2 & 702 & 667 \\
+-1 & 968 & 1014 \\
+0 & 1228 & 1258 \\
+1 & 728 & 692 \\
+2 & 462 & 509 \\
+3 & 300 & 303 \\
+4 & 232 & 217 \\
+5 & 150 & 158 \\
+{[}6,11) & 261 & 253 \\
+{[}11,21) & 70 & 84 \\
+\textgreater=21 & 29 & 21 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table125}
+\end{table}</pre><img src="005-sent-lengthdiff-count.png" alt="Sentence Bucket Analysis"> <br/><button onclick="showhide('005-sent-lengthdiff-count_latex')">Show/Hide LaTeX</button> <br/><pre id="005-sent-lengthdiff-count_latex" style="display:none">\begin{figure}[h]
+  \centering
+  \includegraphics{005-sent-lengthdiff-count.pdf}
+  \caption{Sentence Bucket Analysis}
+  \label{fig:005-sent-lengthdiff-count}
+\end{figure}</pre>
+<table border="1">
+<caption> bucket type: sentence-level BLEU, statistic type: count </caption><tr> <th> sentbleu </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> <10.0 </th>
+  <td> 370 </td>
+  <td> 337 </td> </tr><tr> <th> [10.0,20.0) </th>
+  <td> 1909 </td>
+  <td> 1860 </td> </tr><tr> <th> [20.0,30.0) </th>
+  <td> 1655 </td>
+  <td> 1682 </td> </tr><tr> <th> [30.0,40.0) </th>
+  <td> 1195 </td>
+  <td> 1198 </td> </tr><tr> <th> [40.0,50.0) </th>
+  <td> 665 </td>
+  <td> 674 </td> </tr><tr> <th> [50.0,60.0) </th>
+  <td> 419 </td>
+  <td> 436 </td> </tr><tr> <th> [60.0,70.0) </th>
+  <td> 202 </td>
+  <td> 202 </td> </tr><tr> <th> [70.0,80.0) </th>
+  <td> 106 </td>
+  <td> 118 </td> </tr><tr> <th> [80.0,90.0) </th>
+  <td> 85 </td>
+  <td> 89 </td> </tr><tr> <th> >=90.0 </th>
+  <td> 144 </td>
+  <td> 154 </td> </tr>
+</table>
+ <br/><button onclick="showhide('126_latex')">Show/Hide LaTeX</button> <br/><pre id="126_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+sentbleu & MLP & DotProd \\ \hline \hline
+\textless10.0 & 370 & 337 \\
+{[}10.0,20.0) & 1909 & 1860 \\
+{[}20.0,30.0) & 1655 & 1682 \\
+{[}30.0,40.0) & 1195 & 1198 \\
+{[}40.0,50.0) & 665 & 674 \\
+{[}50.0,60.0) & 419 & 436 \\
+{[}60.0,70.0) & 202 & 202 \\
+{[}70.0,80.0) & 106 & 118 \\
+{[}80.0,90.0) & 85 & 89 \\
+\textgreater=90.0 & 144 & 154 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table126}
+\end{table}</pre><img src="006-sent-sentbleu-count.png" alt="Sentence Bucket Analysis"> <br/><button onclick="showhide('006-sent-sentbleu-count_latex')">Show/Hide LaTeX</button> <br/><pre id="006-sent-sentbleu-count_latex" style="display:none">\begin{figure}[h]
+  \centering
+  \includegraphics{006-sent-sentbleu-count.pdf}
+  \caption{Sentence Bucket Analysis}
+  \label{fig:006-sent-sentbleu-count}
+\end{figure}</pre>
+<h2>Characteristic N-grams</h2>
+<p> min_ngram_length=1, max_ngram_length=4 </p><p> report_length=50, alpha=1.0, compare_type=match </p><table border="1">
+<caption> 50 n-grams where MLP>DotProd in match </caption><tr> <th> n-gram </th>
+  <th> match </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> &apos;s a lot of </th>
+  <td> 0.8750 </td>
+  <td> 6 </td>
+  <td> 0 </td> </tr><tr> <th> will never </th>
+  <td> 0.8333 </td>
+  <td> 4 </td>
+  <td> 0 </td> </tr><tr> <th> fellows </th>
+  <td> 0.8333 </td>
+  <td> 4 </td>
+  <td> 0 </td> </tr><tr> <th> in two different </th>
+  <td> 0.8333 </td>
+  <td> 4 </td>
+  <td> 0 </td> </tr><tr> <th> can look at </th>
+  <td> 0.8333 </td>
+  <td> 4 </td>
+  <td> 0 </td> </tr><tr> <th> can look </th>
+  <td> 0.8333 </td>
+  <td> 4 </td>
+  <td> 0 </td> </tr><tr> <th> notre dame </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> the words </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> abundance </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> &apos;s a lot </th>
+  <td> 0.8000 </td>
+  <td> 7 </td>
+  <td> 1 </td> </tr><tr> <th> them and </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> how many choices </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> there are no </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> suppose </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> gamers </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> many choices </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> human spirit </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> believed that </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> like me </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> meaning . </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> are no </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> aspects </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> ruined </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> study of </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> might have </th>
+  <td> 0.8000 </td>
+  <td> 7 </td>
+  <td> 1 </td> </tr><tr> <th> , we have to </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> dame </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> know how many choices </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> sacred </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> our culture </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> or &quot; </th>
+  <td> 0.8000 </td>
+  <td> 3 </td>
+  <td> 0 </td> </tr><tr> <th> i &apos;ll </th>
+  <td> 0.7857 </td>
+  <td> 10 </td>
+  <td> 2 </td> </tr><tr> <th> store </th>
+  <td> 0.7778 </td>
+  <td> 6 </td>
+  <td> 1 </td> </tr><tr> <th> there &apos;s a lot </th>
+  <td> 0.7778 </td>
+  <td> 6 </td>
+  <td> 1 </td> </tr><tr> <th> are the people who </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> three billion new </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> many ways </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> your car </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> until you </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> make any </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> any sense </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> talk , </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> termites , </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> have you </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> , &quot; they </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> might know </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> experts in </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> play games </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr><tr> <th> meaning </th>
+  <td> 0.7500 </td>
+  <td> 8 </td>
+  <td> 2 </td> </tr><tr> <th> the health care </th>
+  <td> 0.7500 </td>
+  <td> 2 </td>
+  <td> 0 </td> </tr>
+</table>
+ <br/><button onclick="showhide('127_latex')">Show/Hide LaTeX</button> <br/><pre id="127_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||ccc}
+n-gram & match & MLP & DotProd \\ \hline \hline
+&apos;s a lot of & 0.8750 & 6 & 0 \\
+will never & 0.8333 & 4 & 0 \\
+fellows & 0.8333 & 4 & 0 \\
+in two different & 0.8333 & 4 & 0 \\
+can look at & 0.8333 & 4 & 0 \\
+can look & 0.8333 & 4 & 0 \\
+notre dame & 0.8000 & 3 & 0 \\
+the words & 0.8000 & 3 & 0 \\
+abundance & 0.8000 & 3 & 0 \\
+&apos;s a lot & 0.8000 & 7 & 1 \\
+them and & 0.8000 & 3 & 0 \\
+how many choices & 0.8000 & 3 & 0 \\
+there are no & 0.8000 & 3 & 0 \\
+suppose & 0.8000 & 3 & 0 \\
+gamers & 0.8000 & 3 & 0 \\
+many choices & 0.8000 & 3 & 0 \\
+human spirit & 0.8000 & 3 & 0 \\
+believed that & 0.8000 & 3 & 0 \\
+like me & 0.8000 & 3 & 0 \\
+meaning . & 0.8000 & 3 & 0 \\
+are no & 0.8000 & 3 & 0 \\
+aspects & 0.8000 & 3 & 0 \\
+ruined & 0.8000 & 3 & 0 \\
+study of & 0.8000 & 3 & 0 \\
+might have & 0.8000 & 7 & 1 \\
+, we have to & 0.8000 & 3 & 0 \\
+dame & 0.8000 & 3 & 0 \\
+know how many choices & 0.8000 & 3 & 0 \\
+sacred & 0.8000 & 3 & 0 \\
+our culture & 0.8000 & 3 & 0 \\
+or &quot; & 0.8000 & 3 & 0 \\
+i &apos;ll & 0.7857 & 10 & 2 \\
+store & 0.7778 & 6 & 1 \\
+there &apos;s a lot & 0.7778 & 6 & 1 \\
+are the people who & 0.7500 & 2 & 0 \\
+three billion new & 0.7500 & 2 & 0 \\
+many ways & 0.7500 & 2 & 0 \\
+your car & 0.7500 & 2 & 0 \\
+until you & 0.7500 & 2 & 0 \\
+make any & 0.7500 & 2 & 0 \\
+any sense & 0.7500 & 2 & 0 \\
+talk , & 0.7500 & 2 & 0 \\
+termites , & 0.7500 & 2 & 0 \\
+have you & 0.7500 & 2 & 0 \\
+, &quot; they & 0.7500 & 2 & 0 \\
+might know & 0.7500 & 2 & 0 \\
+experts in & 0.7500 & 2 & 0 \\
+play games & 0.7500 & 2 & 0 \\
+meaning & 0.7500 & 8 & 2 \\
+the health care & 0.7500 & 2 & 0 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table127}
+\end{table}</pre><table border="1">
+<caption> 50 n-grams where DotProd>MLP in match </caption><tr> <th> n-gram </th>
+  <th> match </th>
+  <th> MLP </th>
+  <th> DotProd </th> </tr><tr> <th> there is </th>
+  <td> 0.0714 </td>
+  <td> 0 </td>
+  <td> 12 </td> </tr><tr> <th> movie . </th>
+  <td> 0.1429 </td>
+  <td> 0 </td>
+  <td> 5 </td> </tr><tr> <th> there is a </th>
+  <td> 0.1429 </td>
+  <td> 0 </td>
+  <td> 5 </td> </tr><tr> <th> land </th>
+  <td> 0.1429 </td>
+  <td> 0 </td>
+  <td> 5 </td> </tr><tr> <th> we &apos;re doing </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> the one </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> victim </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> founding fathers </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> not necessarily </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> possibilities </th>
+  <td> 0.1667 </td>
+  <td> 1 </td>
+  <td> 9 </td> </tr><tr> <th> child , </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> goes </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> intelligent </th>
+  <td> 0.1667 </td>
+  <td> 0 </td>
+  <td> 4 </td> </tr><tr> <th> self </th>
+  <td> 0.1739 </td>
+  <td> 3 </td>
+  <td> 18 </td> </tr><tr> <th> a child </th>
+  <td> 0.1818 </td>
+  <td> 1 </td>
+  <td> 8 </td> </tr><tr> <th> the best part </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> an idea </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> safely </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> best part </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> sound and </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> is possible </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> once </th>
+  <td> 0.2000 </td>
+  <td> 1 </td>
+  <td> 7 </td> </tr><tr> <th> intuitive , </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> how about </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> you just </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> in games </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> self and the </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> show that </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> reactors </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> victim is </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> my flesh </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> notes are </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> &apos;s not necessarily </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> is possible , </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> may have </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> very happy </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> depending on </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> there is no </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> the founding fathers </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> further </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> little more </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> , &quot; she </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> me is </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> from one </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> an extreme </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> depending </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> is ? </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> flesh </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr><tr> <th> and he &apos;s </th>
+  <td> 0.2000 </td>
+  <td> 1 </td>
+  <td> 7 </td> </tr><tr> <th> and so , </th>
+  <td> 0.2000 </td>
+  <td> 0 </td>
+  <td> 3 </td> </tr>
+</table>
+ <br/><button onclick="showhide('128_latex')">Show/Hide LaTeX</button> <br/><pre id="128_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||ccc}
+n-gram & match & MLP & DotProd \\ \hline \hline
+there is & 0.0714 & 0 & 12 \\
+movie . & 0.1429 & 0 & 5 \\
+there is a & 0.1429 & 0 & 5 \\
+land & 0.1429 & 0 & 5 \\
+we &apos;re doing & 0.1667 & 0 & 4 \\
+the one & 0.1667 & 0 & 4 \\
+victim & 0.1667 & 0 & 4 \\
+founding fathers & 0.1667 & 0 & 4 \\
+not necessarily & 0.1667 & 0 & 4 \\
+possibilities & 0.1667 & 1 & 9 \\
+child , & 0.1667 & 0 & 4 \\
+goes & 0.1667 & 0 & 4 \\
+intelligent & 0.1667 & 0 & 4 \\
+self & 0.1739 & 3 & 18 \\
+a child & 0.1818 & 1 & 8 \\
+the best part & 0.2000 & 0 & 3 \\
+an idea & 0.2000 & 0 & 3 \\
+safely & 0.2000 & 0 & 3 \\
+best part & 0.2000 & 0 & 3 \\
+sound and & 0.2000 & 0 & 3 \\
+is possible & 0.2000 & 0 & 3 \\
+once & 0.2000 & 1 & 7 \\
+intuitive , & 0.2000 & 0 & 3 \\
+how about & 0.2000 & 0 & 3 \\
+you just & 0.2000 & 0 & 3 \\
+in games & 0.2000 & 0 & 3 \\
+self and the & 0.2000 & 0 & 3 \\
+show that & 0.2000 & 0 & 3 \\
+reactors & 0.2000 & 0 & 3 \\
+victim is & 0.2000 & 0 & 3 \\
+my flesh & 0.2000 & 0 & 3 \\
+notes are & 0.2000 & 0 & 3 \\
+&apos;s not necessarily & 0.2000 & 0 & 3 \\
+is possible , & 0.2000 & 0 & 3 \\
+may have & 0.2000 & 0 & 3 \\
+very happy & 0.2000 & 0 & 3 \\
+depending on & 0.2000 & 0 & 3 \\
+there is no & 0.2000 & 0 & 3 \\
+the founding fathers & 0.2000 & 0 & 3 \\
+further & 0.2000 & 0 & 3 \\
+little more & 0.2000 & 0 & 3 \\
+, &quot; she & 0.2000 & 0 & 3 \\
+me is & 0.2000 & 0 & 3 \\
+from one & 0.2000 & 0 & 3 \\
+an extreme & 0.2000 & 0 & 3 \\
+depending & 0.2000 & 0 & 3 \\
+is ? & 0.2000 & 0 & 3 \\
+flesh & 0.2000 & 0 & 3 \\
+and he &apos;s & 0.2000 & 1 & 7 \\
+and so , & 0.2000 & 0 & 3 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table128}
+\end{table}</pre>
+<h2>Sentence Examples</h2>
+<h4> 10 sentences where MLP>DotProd at sentence-level BLEU </h4><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> what creates the illusion ? </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> what creates the illusion ? </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> what does it created that ? </td>
+  <td> 24.4462 </td> </tr>
+</table>
+ <br/><button onclick="showhide('129_latex')">Show/Hide LaTeX</button> <br/><pre id="129_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & what creates the illusion ? &  \\
+MLP & what creates the illusion ? & 100.0000 \\
+DotProd & what does it created that ? & 24.4462 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table129}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> and this picture was taken by atlas . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> and this picture was taken by atlas . </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> and this image was taken from atlas atlas . </td>
+  <td> 27.3012 </td> </tr>
+</table>
+ <br/><button onclick="showhide('130_latex')">Show/Hide LaTeX</button> <br/><pre id="130_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & and this picture was taken by atlas . &  \\
+MLP & and this picture was taken by atlas . & 100.0000 \\
+DotProd & and this image was taken from atlas atlas . & 27.3012 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table130}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> but it gets worse . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> but it gets worse . </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> but it &apos;s going to worse . </td>
+  <td> 30.7394 </td> </tr>
+</table>
+ <br/><button onclick="showhide('131_latex')">Show/Hide LaTeX</button> <br/><pre id="131_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & but it gets worse . &  \\
+MLP & but it gets worse . & 100.0000 \\
+DotProd & but it &apos;s going to worse . & 30.7394 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table131}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> because you can train that . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> you can train that . </td>
+  <td> 81.8731 </td> </tr><tr> <th> DotProd </th>
+  <td> that &apos;s what you &apos;re going to train . </td>
+  <td> 17.7474 </td> </tr>
+</table>
+ <br/><button onclick="showhide('132_latex')">Show/Hide LaTeX</button> <br/><pre id="132_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & because you can train that . &  \\
+MLP & you can train that . & 81.8731 \\
+DotProd & that &apos;s what you &apos;re going to train . & 17.7474 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table132}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> you have not changed the story . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> you have not changed the story . </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> they don &apos;t have the story . </td>
+  <td> 36.5555 </td> </tr>
+</table>
+ <br/><button onclick="showhide('133_latex')">Show/Hide LaTeX</button> <br/><pre id="133_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & you have not changed the story . &  \\
+MLP & you have not changed the story . & 100.0000 \\
+DotProd & they don &apos;t have the story . & 36.5555 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table133}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> there &apos;s no normal . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> there &apos;s no normal . </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> there is no normal normal . </td>
+  <td> 36.5555 </td> </tr>
+</table>
+ <br/><button onclick="showhide('134_latex')">Show/Hide LaTeX</button> <br/><pre id="134_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & there &apos;s no normal . &  \\
+MLP & there &apos;s no normal . & 100.0000 \\
+DotProd & there is no normal normal . & 36.5555 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table134}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> if you want to go far , go together . &quot; </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> if you want to go far , go together . &quot; </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> if you want to come back , you get together . &quot; </td>
+  <td> 39.8329 </td> </tr>
+</table>
+ <br/><button onclick="showhide('135_latex')">Show/Hide LaTeX</button> <br/><pre id="135_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & if you want to go far , go together . &quot; &  \\
+MLP & if you want to go far , go together . &quot; & 100.0000 \\
+DotProd & if you want to come back , you get together . &quot; & 39.8329 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table135}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> it turns out to be really difficult . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> it turns out to be really difficult . </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> it turns out it &apos;s really difficult . </td>
+  <td> 43.1670 </td> </tr>
+</table>
+ <br/><button onclick="showhide('136_latex')">Show/Hide LaTeX</button> <br/><pre id="136_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & it turns out to be really difficult . &  \\
+MLP & it turns out to be really difficult . & 100.0000 \\
+DotProd & it turns out it &apos;s really difficult . & 43.1670 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table136}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> pretty good , right ? </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> pretty good , right ? </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> pretty good , isn &apos;t ? </td>
+  <td> 43.4721 </td> </tr>
+</table>
+ <br/><button onclick="showhide('137_latex')">Show/Hide LaTeX</button> <br/><pre id="137_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & pretty good , right ? &  \\
+MLP & pretty good , right ? & 100.0000 \\
+DotProd & pretty good , isn &apos;t ? & 43.4721 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table137}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> italy wins . yeah . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> italy wins . yeah . </td>
+  <td> 100.0000 </td> </tr><tr> <th> DotProd </th>
+  <td> italy . yeah . yeah . </td>
+  <td> 43.4721 </td> </tr>
+</table>
+ <br/><button onclick="showhide('138_latex')">Show/Hide LaTeX</button> <br/><pre id="138_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & italy wins . yeah . &  \\
+MLP & italy wins . yeah . & 100.0000 \\
+DotProd & italy . yeah . yeah . & 43.4721 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table138}
+\end{table}</pre><h4> 10 sentences where DotProd>MLP at sentence-level BLEU </h4><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> isn &apos;t that sad ? </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> it &apos;s not sad ? </td>
+  <td> 35.9304 </td> </tr><tr> <th> DotProd </th>
+  <td> isn &apos;t that sad ? </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('139_latex')">Show/Hide LaTeX</button> <br/><pre id="139_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & isn &apos;t that sad ? &  \\
+MLP & it &apos;s not sad ? & 35.9304 \\
+DotProd & isn &apos;t that sad ? & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table139}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> that &apos;s our present . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> this is our present present . </td>
+  <td> 34.5721 </td> </tr><tr> <th> DotProd </th>
+  <td> that &apos;s our present . </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('140_latex')">Show/Hide LaTeX</button> <br/><pre id="140_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & that &apos;s our present . &  \\
+MLP & this is our present present . & 34.5721 \\
+DotProd & that &apos;s our present . & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table140}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> here you see the city . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> this is the city here . </td>
+  <td> 33.0316 </td> </tr><tr> <th> DotProd </th>
+  <td> here you see the city . </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('141_latex')">Show/Hide LaTeX</button> <br/><pre id="141_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & here you see the city . &  \\
+MLP & this is the city here . & 33.0316 \\
+DotProd & here you see the city . & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table141}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> thank you very much . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> thank you . </td>
+  <td> 32.8044 </td> </tr><tr> <th> DotProd </th>
+  <td> thank you very much . </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('142_latex')">Show/Hide LaTeX</button> <br/><pre id="142_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & thank you very much . &  \\
+MLP & thank you . & 32.8044 \\
+DotProd & thank you very much . & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table142}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> they have similar principles . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> the similar principle . </td>
+  <td> 30.9679 </td> </tr><tr> <th> DotProd </th>
+  <td> they have similar principles . </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('143_latex')">Show/Hide LaTeX</button> <br/><pre id="143_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & they have similar principles . &  \\
+MLP & the similar principle . & 30.9679 \\
+DotProd & they have similar principles . & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table143}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> how about fitness ? </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> how would it be ? </td>
+  <td> 30.2138 </td> </tr><tr> <th> DotProd </th>
+  <td> how about fitness ? </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('144_latex')">Show/Hide LaTeX</button> <br/><pre id="144_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & how about fitness ? &  \\
+MLP & how would it be ? & 30.2138 \\
+DotProd & how about fitness ? & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table144}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> so where do we go ? </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> so where are we going to go ? </td>
+  <td> 27.7762 </td> </tr><tr> <th> DotProd </th>
+  <td> so where do we go ? </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('145_latex')">Show/Hide LaTeX</button> <br/><pre id="145_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & so where do we go ? &  \\
+MLP & so where are we going to go ? & 27.7762 \\
+DotProd & so where do we go ? & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table145}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> our magazines are read by millions . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> our magazines are going to read from millions of millions . </td>
+  <td> 26.2025 </td> </tr><tr> <th> DotProd </th>
+  <td> our magazines are read by millions . </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('146_latex')">Show/Hide LaTeX</button> <br/><pre id="146_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & our magazines are read by millions . &  \\
+MLP & our magazines are going to read from millions of millions . & 26.2025 \\
+DotProd & our magazines are read by millions . & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table146}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> thank you . thank you . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> thank you . thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank </td>
+  <td> 6.2683 </td> </tr><tr> <th> DotProd </th>
+  <td> thank you . thank you ! </td>
+  <td> 80.9107 </td> </tr>
+</table>
+ <br/><button onclick="showhide('147_latex')">Show/Hide LaTeX</button> <br/><pre id="147_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & thank you . thank you . &  \\
+MLP & thank you . thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank you ! thank & 6.2683 \\
+DotProd & thank you . thank you ! & 80.9107 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table147}
+\end{table}</pre><table border="1">
+<tr> <th>  </th>
+  <th> Output </th>
+  <th> sentbleu </th> </tr><tr> <th> Ref </th>
+  <td> if you burn natural gas , no . </td>
+  <td>  </td> </tr><tr> <th> MLP </th>
+  <td> if they burn gas : no . </td>
+  <td> 25.2015 </td> </tr><tr> <th> DotProd </th>
+  <td> if you burn natural gas , no . </td>
+  <td> 100.0000 </td> </tr>
+</table>
+ <br/><button onclick="showhide('148_latex')">Show/Hide LaTeX</button> <br/><pre id="148_latex" style="display:none">\begin{table}[t]
+  \centering
+  \begin{tabular}{c||cc}
+ & Output & sentbleu \\ \hline \hline
+Ref & if you burn natural gas , no . &  \\
+MLP & if they burn gas : no . & 25.2015 \\
+DotProd & if you burn natural gas , no . & 100.0000 \\
+  \end{tabular}
+  \caption{Caption}
+  \label{tab:table148}
+\end{table}</pre> 
+</body>
+</html>
