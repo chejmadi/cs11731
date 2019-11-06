@@ -1,0 +1,34 @@
+Landbou en bosbou kontrolelys vir inspekteurs
+Handelsnaam: _____________________________________________________________________________________
+Naam van werkgewer: ________________________________________________________________________________
+Woon adres: _______________________________________________________________Kode:  __________
+Pos adres: __________________________________________________________________Kode:______ __________
+Kontak persoon: ___________________________________________________Posbenaming: __________________
+Telefoon: ______________________________________ Faks: ___________________________________________
+Totale aantal werkers: _____________________ Vroulik: _____________________ Manlik: ______________________
+Naam van inspekteur: _____________________________________________________________________________
+Aanstellings regulasie Ja Nee NVT*
+Art. 17 (1)of (6) Gesondheid en Veiligheidsverteenwoordigers
+Art. 19(1) Gesondheid en Veiligheidskomitees
+GSR 3(4) Eerstehulp persoon
+GMR 2 Bevoegde persoon in terme van masjinerie
+Dokumente om te bewaar
+GAR 4 Afskrif van hierdie Wet
+GSR 3 (4)(1) Noodhulp Sertifikate
+Art.20(2) Notules van  die Gesondheid en Veiligheidskomitee
+Art. 8 Assessering van risiko`s in die werkplek
+RHBA 8(1) Mediese waarnemingsrekords
+GAR 9 (1) Voorvalle register, insluitend vergiftigings
+HCS 9 Lug monitor verslae
+NIHLR 6(1)(a) Assessering van potensiële blootstelling aan geraas
+EIR 3 (2) Elektriese Sertifikaat vir Voldoening
+DMR 18(5) Toetsing van masjinerie
+DMR 18(11) Opleiding van operateurs
+Risiko materiaal in werkplek 
+HCS 3(j) Is werkers opgelei in veiligheidsprosedure in die werkplek vir elke risiko produk wat gebruik word?
+HCS 3(k) Weet werkers wat om te doen in die geval van `n uitstorting?
+HCS 9A(2) Is `n veiligheidsdatalys beskikbaar vir elke kontrole produk?
+HCS 11(6)(a) Is wasgeriewe beskikbaar vir werkers wat plaagdoders meng, laai en aanwend?
+GSR(9) Is storte of tuinslange beskikbaar sodat werkers onmiddellik kan was nadat hulle blootgestel was aan chemikalië wat hulle oë of vel kan aantas?
+HCS 14(c) Is stowwe wat werkers mag benadeel met tekens of simbole gemerk?
+HCS 15 Word chemiese middels korrek geberg, hanteer en verwyder?

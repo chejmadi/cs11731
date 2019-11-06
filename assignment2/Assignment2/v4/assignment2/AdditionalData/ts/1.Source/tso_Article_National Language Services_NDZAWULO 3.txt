@@ -1,0 +1,44 @@
+Minongonoko yo maketa ya xikalu xintsongo xa murimi ?
+Ku ava swifuwo ku ya hi mintlawa
+Ku hlawula swifuwo leswi nga ta xavisiwa.
+Loko u pulana ku xavisa swifuwo tivutisi swivutiso leswi landzelaka: ?Hikwalaho ka yini ndzi lava ku xavisa swifuwo swa mina sweswi??
+Xikombiso, swivangelo swo xavisa swifuwo swa mina ku nga va swo fana na leswi:
+Swifuwo swi lulamile ku yisiwa makete naswona swi nonile ku ringanela ku dlayiwa.
+Swi na malembe laya ringaneleke leswaku swi nga xaviwa hi lava phamelaka swifuwo leswaku swi nyuhela ku endlela ku dlayiwa.
+Swifuwo a swi na ntswalo ngopfu-ngopfu swa xisati leswi nga dyuhala no tlhela swi nga ha veleki.
+A ka ha ri na furu yo ringanela epurasini ku phamela swifuwo.
+Hlawula swifuwo leswi nga sivaka swin?wana kutani u xavisa leswi saleke swi nga si dyuhala kumbe swi durha ku swi hlayisa.
+Swihlawulekisi swo ava
+Swihlawulekisi swo ava swi hlamuseriwa ku ya hi malembe, ku nyuhela, ku yevula, ku onhaka na rimbewu. U nga langutela nxavo wa kahle eka xifuwo lexi nga le ka xiyimo xa kahle xa rihanyo, hi ku tsakela mintlawa ya le xikarhi ka A na B, xi nga ondzangi kumbe ku nyuhela no tsheniwa. AB yi kuma mali ya le hansi naswona C yi kuma ya le hansi swinene.
+Ku yevula na xiyimo xo nyika minkutlunyo
+Ku yevula i ndlela leyi ntsumbu wu nga xiswona no hlamusela mpimanyiso exikarhi ka nyama na rhambu. Xiyimo xo nyika minkutlunyo xi endliwa hi ku ringanyeta ku nyuhela ka xifuwo.
+Ku nyuhela
+Ku nyuhela ka nyama ya homu, nyama ya nyimpfu, nyimpfu na nyama ya mbuti ku aviwa ku ya hi tikhodi ku sukela eka 0 ku fika eka 6.
+Vukhale na ntlawa
+Ntlawa wu hlamuseriwa hi ku langutisa meno
+Ku onhaka
+Ku onhaka ka ntsumbu loku humelelaka, xikombiso loko yi ri karhi yi tleketliwa ku nga aviwa hi:
+Switsongo (Ntlawa wa 1)
+Xikarhi (Ntlawa wa 2)
+Swinene (Ntlawa wa 3)
+Rimbewu
+Rimbewu ra xiharhi i ra nkoka ntsena eka nkuzi na mintsumbu ya tinyimpfu eka mintlawa ya vukhale eka AB, B na C.
+Swifaniso:
+Ringeta mpimo wa mafurha ehansi ka dzovo eka ndhawu ya xisuti exikarhi ka nyonga na rhambu ro hetelela.
+Khodi ya 1: Ku pavalala swinene
+Khodi ya 2: Pavalala
+Khodi ya 3: Xikarhi
+Khodi ya 4: Rhandzawula
+Khodi ya 5: Rhandzawula swinene
+Ntlawa: Ringanyeta vukhale bya homu hi ku langutisa meno ya yona.
+Ntlawa wa A: hansi ka 2 wa malembe hi vukhale (meno ya xirhodyana)
+Ntlawa wa AB: 2 ku fika eka 21/2 wa malembe hi vukhale (1 ku fika eka 2 wa meno ya xigidana laya heleleke)
+Ntlawa wa B: 21/2 ku fika eka 3 wa malembe (swi vuriwa 4 wa meno naswona ku na 3 ku fika eka 6 wa meno ya xigidana laya heleleke)
+Ntlawa wa C: 4 wa malembe hi vukhale (swi vuriwa nomu lowu heleleke lowu nga na ku tlula 6 wa meno ya xigidana laya heleleke)
+Ntlawa wa C: 4 wa malembe hi vukhale (swi vuriwa nomu lowu heleleke lowu nga na ku tlula 6 wa meno ya xigidana laya heleleke)
+Ntlawa wa A: ehansi ka lembe rin?we hi vukhale (meno ya xirhodyana)
+Ntlawa wa AB: 1 ku fika eka 11/2 wa malembe hi vukhale (1 kumbe 2 wa meno ya xigidana laya heleleke)
+Ntlawa wa B: 2 wa malembe hi vukhale (swi vuriwa 4 wa meno)
+Ntlawa wa B: 21/2 wa malembe hi vukhale (swi vuriwa 6 wa meno)
+Ntlawa wa C: 21/2 wa malembe hi vukhale (swi vuriwa nomu lowu heleleke)
+Ntlawa wa C: meno yo tshoveka no bola ya swifuwo leswi nga dyuhala

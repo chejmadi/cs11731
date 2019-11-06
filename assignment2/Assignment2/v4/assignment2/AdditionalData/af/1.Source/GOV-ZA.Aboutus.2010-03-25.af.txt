@@ -1,0 +1,51 @@
+Omtrent die webtuiste
+Oogmerke en doel met die webtuiste
+Omvang van die inligting op die webtuiste
+Ander kenmerke van die webtuiste
+Hoe gereeld gaan die inligting bygewerk word?
+Eienaarskap ten opsigte van die inligting
+Formaat van dokumente
+Hulp nodig met probleme wat op die webtuiste ervaar word?
+Terme en voorwaardes vir gebruik
+Oogmerke en doel met die webtuiste
+Die doel van die webtuiste vir Suid-Afrikaanse Regeringsdienste is om 'n enkele bron van inligting te bied oor dienste wat deur die Suid-Afrikaanse regering verskaf word. Die oogmerk is om die dispariteit te verminder wat tussen die bemagtigdes en die ontmagtigdes, oftewel die eerste en tweede ekonomieë, bestaan. Die webtuiste is 'n kritiese ingryp wat daarop gerig is om seker te maak dat landsburgers met die regering in interaksie sal kan tree.
+Die bedoelde gebruikers van die webtuiste is Suid-Afrikaanse burgers in alle dele van die land, huidige of voornemende Suid-Afrikaanse sakeondernemings of organisasies, en burgers en organisasies van ander lande wat dienste deur die Suid-Afrikaanse regering nodig het.
+n Kritiese sektor van gebruikers is al die tussengangers, soos die Veeldoelige Gemeenskapsentra , Gemeenskapontwikkelingswerkers en die Batho Pele Gateway-inbelsentrum, wat diegene wat nie in staat is om regstreeks toegang tot die Internet te kry nie, sal help om die webtuiste te gebruik.
+Omvang van die inligting op die webtuiste
+Inligting oor regeringsdienste
+Die webtuiste bevat inligting oor regeringsdienste wat op die nasionale regeringsvlak aangebied word.
+Dienste-inligting is ooreenkomstig drie tipes dienste in kategorieë ingedeel:
+Dienste vir mense: dienste vir Suid-Afrikaanse burgers wat volgens lewensgebeure gerangskik is
+Dienste vir organisasies: dienste wat met organisasies en sakeondernemings verband hou
+Dienste vir buitelandse burgers: inligting wat spesifiek bedoel is vir burgers van ander lande wat toepaslike dienste van die Suid-Afrikaanse regering nodig het.
+Elk van hierdie kategorieë is verder op so 'n wyse gestruktureer dat dit aanpas by die volgorde van lewensgebeure . Hierdie lewensgebeure is verder in kategorieë volgens lewensfases ingedeel.
+Inligting ten opsigte van elke diens is volgens sewe sleutelareas gerangskik, naamlik beskrywing, stappe om te volg, wetlike raamwerk, diensstandaard; koste, vorms om in te vul, en kontakbesonderhede.
+Verbandhoudende inligting
+Hierdie afdeling van die webtuiste, wat in die regterkantste navigasiebalk vertoon word, bevat skakels na die webtuistes wat aan daardie lewensgebeurtenis verwant is.
+Hierdie weergawe van die webtuiste maak voorsiening vir elf tale, naamlik Engels, Afrikaans, isiXhosa, isiZulu, Sepedi, Sesotho, Setswana, Ndebele, Tsonga, Venda en Siswati. Ten einde toegang tot die inligting op die webtuiste uit te brei, word daar in die vooruitsig gestel dat die inligting uiteindelik in al elf amptelike tale beskikbaar sal wees. Vertaling van die inligting in die oorblywende amptelike tale sal na verwagting teen Maart 2007 afgehandel wees.
+Dienste-inligting word oorspronklik in Engels opgestel, waarna dit in die ander tale vertaal word. Dienste-inligting word in die ander tale geplaas nadat dit vertaal is.
+Ander kenmerke van die webtuiste
+Gebruik die Kontak ons bladsy om kommentaar te lewer oor of navraag te doen na die Regeringsdienste-webtuiste.
+Die www.gov.za skakel voorsien toegang tot die Suid-Afrikaanse Regering Aanlyn tuisbladsy, wat toegang verskaf tot die webtuiste en die Regeringsinligting-webtuiste .
+Die werfkaart verskaf 'n visuele voorstelling van die struktuur van die webtuiste. Dit word hierargies aangebied, en verdeel die webtuiste se inligting in steeds meer spesifieke onderwerpareas. Dit stel jou dus in staat om jouself ooreenkomstig die inhoudstruktuur van die webtuiste te oriënteer.
+Die tuisbladsy verskaf 'n lys van die mees besoekte dienste. Hierdie inskrywings bied toegang tot die vyf dienste wat die meeste deur gebruikers besoek is. Die lysting word aangepas in ooreenstemming met die statistiek vir die bladsye wat besoek is.
+n Soekvenstertjie is beskikbaar op alle bladsye op die webtuiste. Wanneer 'n soekterm ingesleutel word, sal die volledige webtuiste vir die bepaalde woord deursoek word.
+Skakels na eksterne webtuistes word aangedui deur die woorde 'buiteskakel - maak 'n nuwe venster oop', wat in 'n venstertjie sal verskyn wanneer jou merker oor die skakel beweeg word. Die webtuiste sal 'n nuwe deurblaai-venster oopmaak.
+Hoe gereeld gaan die inligting bygewerk word?
+Die webtuiste sal op 'n voortdurende basis bygewerk word. Ons beleid is om inligting te verskaf soos en wanneer dit beskikbaar word. Die ontwikkelaars van die Regeringsdienste-webtuiste kan egter nie die resentheid waarborg van inligting wat gepubliseer word op ander webtuistes waarheen daar skakels verskaf word nie. Sien Terme en Voorwaardes, par. 4.3.
+Eienaarskap ten opsigte van die inligting
+Regeringsdepartemente neem self eienaarskap van hul inligting op die webtuiste. Hierdie funksie is toegewys aan departementele kontakbestuurders wat verantwoordelik is vir die inligting wat op die webtuiste gepubliseer word.
+Regeringskommunikasie is verantwoordelik vir die oorkoepelende bestuur en koördinering van die webtuiste se inhoud.
+Formaat van dokumente
+Die vernaamste formaat vir inligting op die webtuiste is HTML. Die PDF-weergawes van dokumente word egter verskaf om die oorspronklike uitleg daarvan te behou.
+Soms neem dit lank om PDF-dokumente oop te maak. In daardie geval beveel ons aan dat jy dit na jou rekenaar aflaai en liewer van daar af oopmaak.
+Wenke vir wanneer jy dokumente na jou rekenaar wil aflaai:
+Gebruik jou muis om regs te klik op die dokument wat jy graag wil aflaai.
+In die tuimel-kieslys wat verskyn, kies 'Save Target As'.
+In die 'Save As' venstertjie, kies die plek op jou hardeskyf waar jy die dokument wil stoor en klik op die 'Save' knoppie. Die lêer sal afgelaai word na die plek wat jy aangedui het.
+Maak jou Acrobat Reader toepassing oop en maak daarna die dokumente wat jy afgelaai het oop.
+Gebruik jou muis, en skuif en klik op die skakel na die dokument wat jy wil stoor.
+In die 'Save As' venstertjie, kies die plek op jou hardeskyf waar jy die dokument wil stoor en klik op die 'Save' knoppie. Die lêer sal afgelaai word na die plek wat jy aangedui het.
+Maak jou Acrobat Reader toepassing oop en maak daarna ook die dokumente wat jy afgelaai het oop.
+Hulp nodig met probleme wat op die webtuiste ervaar word?
+Kontak ons asseblief indien jy enige probleme met die webtuiste ondervind.

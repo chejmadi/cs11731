@@ -1,0 +1,150 @@
+Gears (Maize)											Afrikaans
+
+
+
+Verstaan ratverhoudings
+
+
+
+Instructions:
+
+Folio strap: Meganisasie
+
+Byline: Inligting verkry vanaf die Landbou Kontrakteurskursus
+
+Photos: 	Ratte en verhoudings
+
+Rat
+
+Aandrywingsrat
+
+Aangedryfderat
+
+Aandryfrat
+
+Ratwiel
+
+
+
+	
+
+Verskeie masjinerie maak gebruik van ratte. ‘n Baie goeie voorbeeld is ‘n fiets wat ratte het om makliker te ry, veral teen opdraandes uit. Fietse het normaalweg ‘n groot ratwiel waaraan ‘n aandrywings rat geheg is en ‘n keuse van verskillende groottes ratwiele op die agterwiel. Wanneer die aandrywings rat draai, word die ratwiele aan die agterkant deur die ketting getrek.
+
+Kyk na die ratwiel met die aandryfrat en vergelyk dit met die ratwiele in die middel van die agterwiel. Wat merk jy op?
+
+Die meeste mense het al met ‘n fiets teen ‘n opdraande gery. Hoe steiler die opdraande, hoe moeiliker is dit om te trap en daarom sal ‘n fietsryer ratte verander om dit makliker te maak. Wanneer die fietsryer ratte verander, sal die ketting beweeg van ‘n klein rat na ‘n groter rat, met meer tande, wat dit makliker sal maak om die pedaal te trap. Hoe meer tande die agterste rat het, hoe makliker is dit om teen die opdraande te trap, alhoewel die fiets stadiger sal beweeg.
+
+Wat gebeur wanneer ‘n fietsryer ratte verander teen ‘n opdraande vanaf ‘n groter na ‘n kleiner ratwiel? Sal dit moeiliker of makliker wees om te trap? 
+
+
+Ratverhouding (Snelheidsverhouding)
+
+Die rede waarom fietsryers makliker teen ‘n opdraande ry wanneer ratte verander word, word genoem ratverhouding (snelheidsverhouding). Ratverhoudings kan bereken word en voorbeelde word hieronder bespreek. Ratverhouding word basies bepaal deur die aantal tande op elke ratwiel. Die ketting word geïgnoreer en nie gebruik in die berekening nie.
+
+
+
+VOORBEELD:
+
+Indien die aandryfrat een omwenteling ondergaan, hoeveel kere sal die ratwiel omwentel?
+
+
+
+AANTAL TANDE OP PEDAALRAT      = 60 TANDE = 2 (DIE RATWIEL WENTEL TWEE KEER)
+
+AANTAL TANDE OP RAT		        30 TANDE
+
+
+
+Die rateverhouding is		          1	       	 :	     2
+
+ 					PEDAALRAT		RATWIEL
+
+Die voorbeeld hierbo toon aan dat elke keer wanneer die aandryfrat omwentel, sal die ratwiel op die agterwiel twee maal omwentel, wat dit makliker sal maak om teen die opdraande te trap.
+
+Probeer die volgende vrae:
+
+Indien die pedaalrat een maal omwentel, hoeveel keer sal die ratwiel omwentel?
+
+
+
+AANTAL TANDE OP PEDAALRAT      = _________ = 
+
+AANTAL TANDE OP RAT		        
+
+
+
+Die rateverhouding is		          1	       	 :	     
+
+ 					PEDAALRAT		RATWIEL
+
+
+
+
+
+Indien die aandryfrat een maal omwentel, hoeveel keer sal die ratwiel omwentel?
+
+
+
+AANTAL TANDE OP PEDAALRAT      = _________ = 
+
+AANTAL TANDE OP RAT		        
+
+
+
+Die rateverhouding is		          1	       	 :	     
+
+ 					PEDAALRAT		RATWIEL
+
+
+
+Indien die pedaalrat een maal omwentel, hoeveel keer sal die ratwiel omwentel?
+
+
+
+AANTAL TANDE OP PEDAALRAT      = _________ = 
+
+AANTAL TANDE OP RAT		        
+
+
+
+Die rateverhouding is		          1	       	 :	     
+
+ 					PEDAALRAT		RATWIEL
+
+
+
+Wat is die invloed van ratverhouding op spoed?
+Die ratverhouding dui aan hoe vinnig een rat roteer in verhouding met ‘n ander.
+
+
+Indien die insetrat (10 tande) roteer teen 5 rpms, en gekoppel is aan die uitsetrat (50 tande) sal ons uitsetrat roteer teen 1 rpms. 
+
+Hoekom?
+Ons ratverhouding is 50:10... of 5:1
+
+Indien die kleiner rat een maal roteer, sal die groot rat 1/5 roteer. Die neem 5 omwentelinge van die klein rat tot = 1 omwenteling vir die groot rat. Die groot rat roteer dus teen 1/5 van die spoed = 1 rpm. 
+
+Wat sal gebeur wanneer ons ratverhouding 1:3 is?
+In hierdie geval is ons insetrat 3 maal groter as ons uitsetrat.
+
+
+Indien ons insetrat roteer teen 20 rpms, sal elke rotasie gevolglik 3 rotasies van die uitsetrat gee. Die uitset sal wees 60 rpms.
+
+Die Drywer en die Aangedryfde
+
+Die drywer is die rat wat direkte krag het. In die voorbeeld van die fiets trap die persoon wat op die fiets ry die pedale. Die groot rat waaraan die pedale geheg is, is die drywer (het die krag) en die kleiner rat op die agterwiel is die aangedryfde. Dis nie altyd noodwendig dat die groter een of die kleiner een die drywer is nie – grootte is nie belangrik nie. Wat belangrik is, is watter een eerste krag gee. 
+
+
+
+Onthou wanneer daar ‘n aantal ratte is wat deur kettings saamgevoeg word en aangeheg is aan dieselfde as, is daar ‘n ander rat wat die drywer vir die volgende opeenvolging van ratte sal wees. 
+
+
+
+Wanneer na die opeenvolging van ratte gekyk word, is dit belangrik om te kyk na die groottes van die ratte. Die ratte beïnvloed die spoed waarteen die dryfas draai. Die omwentelingspoed van die dryfas bepaal hoe vinnig die saadmeganisme draai, wat weer bepaal hoeveel saad geplant word. Hoe vinniger die dryfas draai, hoe meer saad sal geplant word. 
+
+
+
+Indien jy tydens kalibrasie vind dat te veel saad geplant word, moet jy weet dat die aandryfas te vinnig draai en verstel moet word om stadiger te draai. Die enigste manier om dit te doen is om die grootte van die ratte wat betrokke is by die dryfas te verander. 
+
+
+

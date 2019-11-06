@@ -1,0 +1,803 @@
+SAPD 531
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUID-AFRIKAANSE POLISIEDIENS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Versoek om ’n vuurwapen deur ’n wapensmid te laat verander
+SAPD 531
+
+INSTRUKSIES: VERSOEK OM ’N VUURWAPEN DEUR ’N WAPENSMID TE LAAT VERANDER
+
+ALGEMENE INSTRUKSIES
+
+‘n Versoek om ‘n vuurwapen deur ‘n wapensmid te laat verander moet in onuitwisbare swart ink ingevul word. 
+Die versoek moet gestempel word met die amptelike datumstempel van die polisiestasie waar die aansoek ontvang is. 
+
+Die polisiestasie waar die versoek op rekenaar vasgelê word, moet in Afdeling A invul. 
+Die polisiestasie waar die versoek ontvang word, moet Afdeling B invul. 
+Die Sentrale Vuurwapenregister (SVWR) moet Afdeling C invul. 
+Die versoeker moet Afdelings D, E, G en H invul. 
+Die wapensmid moet Afdelings F en G invul. 
+Indien ‘n tolk gebruik is moet hy/sy Afdeling I invul. 
+Indien ‘n genomineerde/gemagtigde persoon gebruik is, moet hy/sy Afdeling J invul. 
+Die Aangewese Vuurwapenbeampte/Stasiekommissaris moet Afdeling K voltooi. 
+‘n Persoon is skuldig aan ‘n oortreding ingevolge die Wet op Beheer van Vuurwapens, 2000 (Wet No 60 van 2000) indien hy/sy enige inligting wat hy/sy weet vals is op hierdie versoek verstrek. 
+
+AFDELING A: VIR AMPTELIKE GEBRUIK DEUR DIE POLISIESTASIE WAAR DIE VERSOEK VASGELê WORD
+
+Versoekverwysingsnommer 
+
+Die verwysingsnommer wat die stelsel vir die versoek genereer nadat dit op rekenaar vasgelê is moet in paragraaf A 1 aangeteken word. 
+
+AFDELING B: VIR AMPTELIKE GEBRUIK DEUR DIE POLISIESTASIE WAAR DIE AANSOEK ONTVANG IS
+
+Provinsie 
+
+Die naam van die provinsie waar die polisiestasie geleë is (byvoor-beeld, Gauteng), moet in paragraaf B 1 aangeteken word. 
+
+Area 
+
+Die naam van die area waar die polisiestasie geleë is (byvoorbeeld, Pretoria), moet in paragraaf B 2 aangeteken word. 
+
+Polisiestasie 
+
+Die naam van die polisiestasie waar die versoek ontvang is (byvoorbeeld, Brooklyn), moet in paragraaf B 3 aangeteken word. 
+
+Komponentkode 
+
+Die komponentkode van die polisiestasie waar die versoek ontvang is (byvoorbeeld, 47), moet in paragraaf B 4 aangeteken word. 
+
+Nommer in register vir algemene vuurwapentransaksies 
+
+Die jaarlikse reeksnommer in die register vir algemene vuurwapentransaksies wat aan die versoek toegeken word (byvoorbeeld, 135/2002), moet in paragraaf B 5 aangeteken word. 
+
+AFDELING C: VIR AMPTELIKE GEBRUIK DEUR DIE SENTRALE
+
+VUURWAPENREGISTER (SVWR)
+
+Uitstaande/Bykomende inligting verlang 
+
+Indien die beampte by die SVWR bykomende inligting van die polisiestasie of die versoeker aanvra, moet die verlangde inligting in paragraaf C 1 aangeteken word. 
+
+Persal-nommer 
+
+Die SAPD Persal-nommer van die beampte by die SVWR wat die uitstaande of bykomende inligting aangevra het, moet in paragraaf C 2 aangeteken word. 
+
+
+
+
+
+Datum 
+
+Die datum waarop die uitstaande of bykomende inligting deur die beampte by die SVWR aangevra is, moet in paragraaf C 3 aangeteken word. 
+
+Handtekening van polisiebeampte 
+
+Die handtekening van die beampte by die SVWR wat die uitstaande of bykomende inligting aangevra het, moet in paragraaf C 4 aangebring word. 
+
+Naam in drukskrif 
+
+Die voorletters en van (in drukskrif) van die beampte by die SVWR wat die uitstaande of bykomende inligting aangevra het, moet in paragraaf C 5 aangeteken word. 
+
+Verandering goedgekeur (Merk met ‘n X) 
+
+Indien die versoek om ‘n vuurwapen deur ‘n wapensmid te laat verander goedgekeur word, moet die beampte by die SVWR wat die versoek goedgekeur het, paragraaf C 6 met ‘n X merk. 
+
+Persal-nommer 
+
+Die SAPD Persal-nommer van die beampte by die SVWR wat die versoek goedgekeur het, moet in paragraaf C 7 aangeteken word. 
+
+Datum 
+
+Die datum waarop die versoek deur die beampte by die SVWR goedgekeur is, moet in paragraaf C 8 aangeteken word. 
+
+Handtekening van SVWR-beampte 
+
+Die handtekening van die beampte by die SVWR wat die versoek goedgekeur het, moet in paragraaf C 9 aangebring word. 
+
+Beamptekode 
+
+Die beamptekode is ‘n kode wat toegeken word aan elke beampte by die SVWR wat versoeke om vuurwapens te laat verander oorweeg. Die kode van die beampte by die SVWR wat die verandering goedgekeur het, moet in paragraaf C 10 aangeteken word. 
+
+Naam in drukskrif 
+
+Die voorletters en van (in drukskrif) van die beampte by die SVWR wat die versoek goedgekeur het, moet in paragraaf C 10 aangeteken word. 
+
+Verandering geweier (Merk met ‘n X) 
+
+Indien die versoek om ‘n vuurwapen deur ‘n wapensmid te laat verander geweier word, moet die beampte by die SVWR wat die versoek geweier het, paragraaf C 6 met ‘n X merk. 
+
+Rede(s) vir weiering 
+
+Indien ‘n versoek geweier word, moet die beampte by die SVWR wat die versoek geweier het, die rede(s) vir weiering in paragraaf C 13 aanteken. 
+
+Persal-nommer 
+
+Die SAPD Persal-nommer van die beampte by die SVWR wat die versoek geweier het, moet in paragraaf C 14 aangeteken word. 
+
+Datum 
+
+Die datum waarop die versoek deur die beampte by die SVWR 
+I
+
+
+geweier is, moet in paragraaf C 15 aangeteken word.
+
+Handtekening van SVWR-beampte 
+
+Die handtekening van die beampte by die SVWR wat die versoek geweier het, moet in paragraaf C 16 aangebring word. 
+
+Beamptekode 
+
+Die beamptekode is ‘n kode wat toegeken word aan elke beampte by die SVWR wat versoeke om vuurwapens te laat verander oorweeg. Die kode van die beampte by die SVWR wat die verandering geweier het, moet in paragraaf C 17 aangeteken word. 
+
+Naam in drukskrif 
+
+Die voorletters en van (in drukskrif) van die beampte by die SVWR wat die versoek geweier het, moet in paragraaf C 18 aangeteken word. 
+
+AFDELING D: SOORT VERSOEK OM VUURWAPEN TE WYSIG
+
+(Merk met ‘n X)
+
+Die toepaslike versoek moet met ‘n X in paragraaf D 1, 2, 3, 4 of 5 aangedui word, byvoorbeeld:
+
+Verander die kaliber van ‘n
+X
+vuurwapen
+
+
+Rede(s) vir die versoek om die vuurwapen deur ‘n wapensmid te laat verander 
+
+Die rede(s) vir die versoek om ‘n vuurwapen deur ‘n wapensmid te laat verander, moet in paragraaf D 6 aangeteken word. 
+
+Datum van versoek 
+
+Die datum waarop die verandering versoek word, moet in paragraaf D 7 aangedui word. 
+
+BESONDERHEDE VAN VUURWAPEN(S) WAT VERANDER MOET WORD 
+
+Soort lisensie 
+
+Die soort lisensie vir die toepaslike vuurwapen moet in paragraaf D 9 aangeteken word. 
+
+Lisensienommer 
+
+Die lisensienommer van die toepaslike vuurwapen moet in paragraaf D 10 aangeteken word. 
+
+Vervaldatum 
+
+Die datum waarop die lisensie van die toepaslike vuurwapen verval, moet in paragraaf D 11 aangedui word. 
+
+Kaliber 
+
+Die kaliber van die toepaslike vuurwapen moet in paragraaf D 12 aangeteken word. 
+
+Fabrikaat 
+
+Die fabrikaat van die toepaslike vuurwapen moet in paragraaf D 13 aangeteken word. 
+
+Model 
+
+Die model van die toepaslike vuurwapen moet in paragraaf D 14 aangeteken word. 
+
+Reeksnommer van loop 
+
+Die reeksnommer van die loop van die toepaslike vuurwapen moet in paragraaf D 15 aangeteken word. 
+
+15.1    Fabrikaat
+SAPD 531
+
+Die fabrikaat van die loop van die toepaslike vuurwapen moet in paragraaf D 15.1 aangeteken word.
+
+Reeksnommer van raam 
+
+Die reeksnommer van die raam van die toepaslike vuurwapen moet in paragraaf D 16 aangeteken word. 
+
+
+16.1    Fabrikaat
+
+Die fabrikaat van die raam van die toepaslike vuurwapen moet in paragraaf D 16.1 aangeteken word.
+
+Reeksnommer van romp 
+
+Die reeksnommer van die romp van die toepaslike vuurwapen moet in paragraaf D 17 aangeteken word. 
+
+17.1    Fabrikaat
+
+Die fabrikaat van die romp van die toepaslike vuurwapen moet in paragraaf D 17.1 aangeteken word.
+
+AFDELING E: BESONDERHEDE VAN DIE AANSOEKER
+
+BESONDERHEDE VAN NATUURLIKE PERSOON 
+
+SA-Identiteit/Paspoort 
+
+Die soort identifikasie van die versoeker moet met ‘n X in paragraaf E 2 aangedui word. 
+
+Identiteitsnommer van natuurlike persoon 
+
+Die identiteitsnommer van die natuurlike persoon moet in paragraaf E 3 aangeteken word. 
+
+Paspoortnommer van natuurlike persoon 
+
+Die paspoortnommer van die natuurlike persoon moet in paragraaf E 4 aangeteken word. 
+
+Van 
+
+Die van van die versoeker moet in paragraaf E 5 aangeteken
+
+word.
+
+Voorletters 
+
+Die voorletters van die versoeker moet in paragraaf E 6 aangeteken word. 
+
+Woonadres 
+
+Die fisiese adres waar die versoeker woon moet in paragraaf E 7 aangeteken word. 
+
+Poskode 
+
+Die poskode van die versoeker se woonadres moet in paragraaf E 8 aangeteken word. 
+
+Posadres 
+
+Die posadres van die versoeker moet in paragraaf E 9 aangeteken word. 
+
+Poskode 
+
+Die poskode van die versoeker se posadres moet in paragraaf E 10 aangeteken word. 
+
+Telefoonnommer 
+
+Huis: Die versoeker se huistelefoonnommer, insluitend die skakelkode (byvoorbeeld, (012 667 1923), moet in paragraaf E 
+
+aangeteken word. 
+
+Werk: Die versoeker se werktelefoonnommer, insluitend die skakelkode, (byvoorbeeld, (012 668 
+
+II
+
+
+1623), moet in paragraaf E 11.2 aangeteken word.
+
+Selfoonnommer 
+
+Die selfoonnommer (indien van toepassing) van die versoeker moet in paragraaf E 11.3 aangeteken word. 
+
+Faks 
+
+Die faksnommer, insluitend die area skakelkode, van die versoeker moet in paragraaf E 12 aangeteken word. 
+
+E-posadres 
+
+Die e-posadres (indien van toepassing) van die versoeker moet in paragraaf E 13 aangeteken word. 
+
+BESONDERHEDE VAN REGSPERSOON 
+
+ANDER LIGGAME 
+
+Geregistreerde naam van maatskappy 
+
+Die geregistreerde maatskappynaam van die versoeker moet in paragraaf E 16 aangeteken word. 
+
+Handelend as 
+
+Die naam waaronder die versoeker sake doen, moet in paragraaf E 17 aangeteken word. 
+
+VWR-nommer 
+
+Die versoeker se registrasienommer moet in paragraaf E 18 aangeteken word. 
+
+Posadres 
+
+Die versoeker se posadres moet in paragraaf E 19 aangeteken word. 
+
+Poskode 
+
+Die poskode van die versoeker se posadres moet in paragraaf E 20 aangeteken word. 
+
+Besigheidsadres 
+
+Die fisiese adres waar die versoeker besigheid bedryf, moet in paragraaf E 21 aangeteken word. 
+
+Poskode 
+
+Die poskode van die versoeker se besigheidsadres moet in paragraaf E 22 aangeteken word. 
+
+Besigheidstelefoonnommer 
+
+Werk: Die versoeker se werktelefoonnommer, insluitend die skakelkode, (byvoorbeeld, (011) 577 5913), moet in paragraaf E 23.1 aangeteken word. 
+
+Faks 
+
+Die versoeker se faksnommer, insluitend die skakelkode (byvoorbeeld, (012) 667 1923), moet in paragraaf E 23.2 aangeteken word. 
+
+E-posadres 
+
+Die e-posadres (indien van toepassing) van die versoeker moet in paragraaf E 24 aangeteken word. 
+
+BESONDERHEDE VAN VERANTWOORDELIKE PERSOON 
+
+Verantwoordelike person (Volle naam en van) 
+
+Die verantwoordelike persoon se naam en van moet in paragraaf E 26 aangeteken word. 
+
+Soort identifikasie (Merk met ‘n X) 
+SAPD 531
+
+SA-Identiteit-/Paspoortnommer
+
+Die verantwoordelike persoon se soort identifikasie moet met ‘n X in paragraaf E 27 aangeteken word.
+
+Identiteitsnommer van verantwoordelike persoon 
+
+Die identiteitsnommer van die verantwoordelike persoon moet in paragraaf E 28 aangeteken word. 
+
+
+
+
+Paspoortnommer van verantwoordelike persoon 
+
+Die paspoortnommer van die verantwoordelike persoon moet in paragraaf E 29 aangeteken word. 
+
+Selfoonnommer 
+
+Die selfoonnommer (indien van toepassing) van die verantwoordelike persoon moet in paragraaf E 30 aangeteken word. 
+
+Fisiese adres 
+
+Die fisiese adres waar die verantwoordelike persoon woon, moet in paragraaf E 31 aangeteken word. 
+
+Poskode 
+
+Die poskode van die verantwoordelike persoon se woonadres moet in paragraaf E 32 aangeteken word. 
+
+Posadres 
+
+Die posadres van die verantwoordelike persoon moet in paragraaf 
+E 33 aangeteken word. 
+
+Poskode 
+
+Die poskode van die verantwoordelike persoon se posadres moet in paragraaf E 34 aangeteken word. 
+
+AFDELING F: BESONDERHEDE VAN WAPENSMID
+
+1.       Wapensmid se naam
+
+Die wapensmid se naam moet in paragraaf F 1 aangeteken
+
+word.
+
+Wapensmid se VWR-nommer 
+
+Die wapensmid se registrasienommer moet in paragraaf F 2 aangeteken word. 
+
+Posadres 
+
+Die wapensmid se posadres moet in paragraaf F 4 aangeteken word. 
+
+Poskode 
+
+Die poskode van die wapensmid se posadres moet in paragraaf F 4 aangeteken word. 
+
+Besigheidsadres 
+
+Die fisiese adres waar die wapensmid besigheid bedryf, moet in paragraaf F 5 aangeteken word. 
+
+Poskode 
+
+Die poskode van die wapensmid se besigheidsadres moet in paragraaf F 6 aangeteken word. 
+
+Besigheidstelefoonnommer 
+
+Werk: Die wapensmid se werktelefoonnommer, insluitend die skakelkode, (byvoorbeeld, (011) 577 5913), moet in paragraaf F 
+
+III
+
+
+7.1 aangeteken word.
+
+Faks 
+
+Die wapensmid se faksnommer, insluitend die skakelkode (byvoorbeeld, (012) 667 1923), moet in paragraaf F 7.2 aangeteken word. 
+
+E-posadres 
+
+Die e-posadres (indien van toepassing) van die wapensmid moet in paragraaf F 8 aangeteken word. 
+
+
+
+
+
+VERKLARING DEUR VERSOEKER 
+
+Ek is bewus daarvan dat ek skuldig is aan ‘n oortreding ingevolge die Wet op Beheer van Vuurwapens, 2000 (Wet No 60 van 2000), indien ek ‘n vals verklaring op hierdie aansoekvorm maak. 
+
+AFDELING G: HANDTEKENING VAN AANSOEKER/WAPENSMID
+
+(Teken slegs indien van toepassing)
+
+Naam van versoeker in drukskrif 
+
+Die voorletters en van (in drukskrif) van die versoeker wat versoek dat ‘n vuurwapen verander word, moet in paragraaf G 1 aangeteken word. 
+
+Datum 
+
+Die datum waarop die versoeker die versoek onderteken, moet in paragraaf G 2 aangeteken word. 
+
+Handtekening van versoeker 
+
+Die versoeker moet in paragraaf G 3 teken. 
+
+Plek 
+
+Die stad/dorp waar die versoeker die versoek teken moet in paragraaf G 4 aangeteken word. 
+
+BESONDERHEDE VAN WAPENSMID 
+
+Naam van wapensmid in drukskrif 
+
+Die voorletters en van (in drukskrif) van die wapensmid wat die verandering aan die vuurwapen sal maak, moet in paragraaf G 6 aangeteken word. 
+
+Datum 
+
+Die datum waarop die wapensmid die versoek onderteken, moet in paragraaf G 7 aangeteken word. 
+
+Handtekening van wapensmid 
+
+Die wapensmid moet in paragraaf G 8 teken. 
+
+Plek 
+
+Die stad/dorp waar die wapensmid die versoek teken, moet in paragraaf G 9 aangeteken word. 
+
+AFDELING H: (Voltooi slegs indien die versoeker nie kan lees of skryf nie.)
+
+Vingerafdruk 
+
+Die afdruk van die wysvinger van die versoeker se regterhand moet deur die polisiebeampte in paragraaf H 1 geneem word, in die teenwoordigheid van ‘n getuie en dit moet binne die lyne van die blokkie bly. As die versoeker nie ‘n regterwysvinger het nie, moet die afdruk van die linkerwysvinger geneem word. 
+
+Aanwysing van vingerafdruk 
+SAPD 531
+
+Die aanwysing van die vingerafdruk (byvoorbeeld, regterwysvinger) moet in paragraaf H 2 aangeteken word.
+
+Datum 
+
+Die datum waarop die versoeker se vingerafdruk geneem is, moet in paragraaf H 3 aangeteken word. 
+
+Naam van versoeker in drukskrif 
+
+Die voorletters en van (in drukskrif) van die versoeker moet in paragraaf H 4 aangeteken word. 
+
+Plek 
+
+Die stad/dorp waar die versoeker die aansoek teken, moet in paragraaf H 5 aangeteken word. 
+
+BESONDERHEDE VAN POLISIEBEAMPTE WAT DIE VERSOEK HANTEER 
+
+Naam van polisiebeampte in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat die versoek hanteer, moet in paragraaf H 6.1 aangeteken word. 
+
+Persal-nommer van polisiebeampte 
+
+Die SAPD Persal-nommer van die polisiebeampte wat die versoek hanteer, moet in paragraaf H 6.2 aangeteken word. 
+
+Rang van polisiebeampte in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat die versoek hanteer, moet in paragraaf H 6.3 aangeteken word. 
+
+Handtekening van polisiebeampte 
+
+Die handtekening van die polisiebeampte wat die versoek hanteer, moet in paragraaf H 6.4 aangebring word. 
+
+7.       BESONDERHEDE VAN GETUIE
+
+Naam van getuie in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat as getuie optree, moet in paragraaf H 7.1 aangeteken word. 
+
+Persal-nommer van getuie 
+
+Die SAPD Persal-nommer van die polisiebeampte wat as getuie optree,moet in paragraaf H 7.2 aangeteken word. 
+
+Rang van getuie in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat as getuie optree, moet in paragraaf H 7.3 aangeteken word. 
+
+Handtekening van getuie 
+
+Die handtekening van die polisiebeampte wat as getuie optree, moet in paragraaf H 7.4 aangebring word. 
+
+AFDELING I: BESONDERHEDE VAN TOLK
+
+(Hierdie afdeling moet slegs ingevul word as die versoeker nie kan lees, skryf of hierdie vorm verstaan nie.)
+
+Naam en van van tolk 
+
+Die naam en van van die persoon wat die inhoud van die versoek vir die versoeker tolk, moet in paragraaf I 1 aangeteken word. 
+
+Identiteits-/Paspoortnommer van tolk 
+
+Die identiteits-/paspoortnommer van die tolk moet in paragraaf I 2 aangeteken word. 
+
+Woonadres 
+
+Die fisiese adres waar die tolk woon, moet in paragraaf I 3 aange-teken word. 
+
+IV
+
+
+Poskode 
+
+Die poskode van die tolk se woonadres moet in paragraaf I 4 aangeteken word. 
+
+Posadres 
+
+Die posadres van die tolk moet in paragraaf I 5 aangeteken word. 
+
+Poskode 
+
+Die poskode van die tolk se posadres moet in paragraaf I 6 aangeteken word. 
+
+Telefoonnommer 
+
+Huis: Die tolk se huistelefoonnommer, insluitend die skakelkode (byvoorbeeld, (012) 667 1923), moet in paragraaf I 
+
+aangeteken word. 
+
+Werk: Die tolk se werktelefoonnommer, insluitend die skakelkode (byvoorbeeld, (011) 577 5913), moet in paragraaf I 
+
+aangeteken word. 
+
+Selfoonnommer 
+
+Die selfoonnommer (indien van toepassing) van die tolk moet in paragraaf I 8 aangeteken word. 
+
+Faks 
+
+Die faksnommer, insluitend die skakelkode, van die tolk moet in paragraaf I 9 aangeteken word. 
+
+E-posadres 
+
+Die e-posadres (indien van toepassing) van die tolk moet in paragraaf I 10 aangeteken word. 
+
+Getolk uit (taal) 
+
+Die taal waaruit die versoek getolk is en die taal waarin dit getolk is en wat vir die versoeker verstaanbaar is (byvoorbeeld, Engels in Zoeloe), moet in paragraaf I 11 aangeteken word. 
+
+Datum 
+
+Die datum waarop die tolk die versoeker bystaan, moet in paragraaf I 12 aangeteken word. 
+
+Handtekening van tolk 
+
+Die handtekening van die tolk wat die versoeker bystaan omdat hy/sy nie kan lees of skryf of die inhoud van die vorm verstaan nie, moet in paragraaf I 13 aangebring word. 
+
+Plek 
+
+Die plek waar die tolk die versoeker bystaan, moet in paragraaf I 14 aangeteken word. 
+
+Rang van polisiebeampte in drukskrif (indien van toepassing) 
+
+As die tolk ‘n polisiebeampte is, moet sy/haar rang (in drukskrif) in paragraaf I 15 aangeteken word. 
+
+Persal-nommer van polisiebeampte (indien van toepassing) 
+
+As die tolk ‘n polisiebeampte is, moet sy/haar SAPD Persal-nommer in paragraaf I 16 aangeteken word. 
+
+AFDELING J: HANDTEKENING VAN GENOMINEERDE/
+
+GEMAGTIGDE PERSOON
+
+Naam en van van genomineerde/gemagtigde persoon 
+
+Die naam en van van die genomineerde/gemagtigde persoon moet in paragraaf J 1 aangeteken word. 
+SAPD 531
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identiteits-/Paspoortnommer van genomineerde/gemagtigde persoon 
+
+Die identiteits-/paspoortnommer van die genomineerde/gemagtigde persoon moet in paragraaf J 2 aangeteken word. 
+
+Datum 
+
+Die datum waarop die genomineerde/gemagtigde persoon die versoek onderteken, moet in paragraaf J 3 aangeteken word. 
+
+Handtekening van genomineerde/gemagtigde persoon 
+
+Die handtekening van die genomineerde/gemagtigde persoon moet in paragraaf J 4 aangeteken word. 
+
+
+Plek 
+
+Die stad/dorp waar die genomineerde/gemagtigde persoon die versoek onderteken het, moet in paragraaf J 5 aangeteken word. 
+
+AFDELING K: VIR AMPTELIKE GEBRUIK DEUR DIE AANGEWESE
+
+VUURWAPENBEAMPTE/STASIEKOMMISSARIS
+
+AANBEVELING MET BETREKKING TOT DIE VERSOEK 
+
+Die aanbeveling moet in paragraaf K 1 met ‘n X gemerk word: 
+
+Aanbeveel
+X
+Nie aanbeveel nie
+
+Motivering 
+
+‘n Motivering vir die aanbeveling moet in paragraaf K 2 aangeteken word. Die motivering moet op feite gebaseer wees, en nie net op hoorsê nie. 
+
+Naam van Aangewese Vuurwapenbeampte/ Stasiekommissaris in drukskrif 
+
+Die voorletters en van (in drukskrif) van die Aangewese Vuurwapenbeampte/Stasiekommissaris wat die aanbeveling gemaak het, moet in paragraaf K 3 aangeteken word. 
+
+Datum 
+
+Die datum waarop die Aangewese Vuurwapenbeampte/ Stasiekommissaris die aanbeveling gemaak het, moet in paragraaf K 4 aangeteken word. 
+
+Rang van Aangewese Vuurwapenbeampte/ Stasiekommissaris in drukskrif 
+
+Die rang (in drukskrif) van die Aangewese Vuurwapenbeampte/ Stasiekommissaris wat die aanbeveling gemaak het, moet in paragraaf K 4 aangeteken word. 
+
+Plek 
+
+V
+SAPD 531
+
+Die plek waar die   Aangewese Vuurwapenbeampte/
+
+Stasiekommissaris die aanbeveling gemaak het, moet in
+
+paragraaf K 6 aangeteken word.
+
+Handtekening van Aangewese Vuurwapenbeampte/ Stasiekommissaris 
+
+Die Aangewese Vuurwapenbeampte/ Stasiekommissaris wat die aanbeveling gemaak het, moet in paragraaf K 7 teken. 
+
+Persal-nommer van die Aangewese Vuurwapenbeampte/ Stasiekommissaris 
+
+Die SAPD Persal-nommer van die Aangewese Vuurwapenbeampte/ Stasiekommissaris wat die aanbeveling gemaak het, moet in paragraaf K 8 aangeteken word. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI

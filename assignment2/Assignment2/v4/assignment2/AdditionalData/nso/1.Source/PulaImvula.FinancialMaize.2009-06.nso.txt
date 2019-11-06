@@ -1,0 +1,214 @@
+Financial (Maize)							Sesotho sa Leboa
+
+Motheoletlotlo wa taolo 
+
+
+
+Instructions: 
+
+Folio strap: Taolo
+
+Byline: Tshedimošo ye e tšwa mo go Mošupatsela wa Taolo ya Polasa ka nepo ya go tšweletša Poelo ka Marius Greyling 
+
+Grabbing quote: Re hloka tšhelete go kgotsofatša dinyakwa tša popego le tša polokego.
+
+Captions: 	Seswantšho sa 1.1: Mohola wa palomoka ya ditshenyegelo (total cost function).
+
+Seswantšho sa 1.2: Poelo, tahlegelo le “break-even point”.
+
+
+
+Na kgwebo ke eng? Kgwebo e thoma bjang? Mabapi le taolo ya kgwebo go bohlokwa go kwešiša dipotšišo tše gabotse mme taodišwana ye e tlo di hlaloša ka botlalo. 
+
+
+
+Dinyakwa tša batho 
+
+Go tloga ka tlholego ya motho o dula a hloka tše di itšego gore a phologe. Dijo, tšhireletšo le diaparo ke tše dingwe tša dinyakwa tše. Mathomong batho ba iphedišitše ka go tsoma, ka go buna dikenyo tša dimela tša naga le ka go hwetša tšhireletšo magageng. Mola batho ba tšwela pele dinyakwa tša bona le tšona di ile tša oketšega mme gwa hlolega dinyakwa tšeo di ilego tša gapeletša batho go tšweletša le go itirela dilo tša go iphediša. 
+
+
+
+Na tšhelete ke eng mme e tšwa kae?
+
+Ge re reka selo re diriša tšhelete go se lefela. Tšhelete ke pampiri goba tshipi fela mme gantši re ipotšiša re re: “Na go tla bjang gore pampiri goba tshipi e lefele dilo tša mohola?” Tšheletepampiri e hlolegile ka baka la tebanyotirišo (functional approach) mabapi le tšhelete. Nakong ye e fetilego dilo di be di bapatšwa (selo se ile sa bapatšwa ka mokgwa wa kananyo, moo selo se ilego sa neelwa motho mme yena a buša a neela motho yoo selo se sengwe sa mohola wa go swana). Mohlala: motho o ile a bapatša kgomo mme yena a amogela mekotla ye mehlano ya lehea. Bothata bja papatšišano ya mohuta wo e be e le gore ge motho a be a na le kgomo mme a nyaka lehea, o ile a swanela go hwetša motho yo a bego a na le lehea mme a nyaka kgomo. Motho yoo o ile a ralala le naga a nyaka motho yo a bego a rata go bapatša lehea ka go amogela kgomo.
+
+
+
+Kananyo ya mohuta wo e be e le mošomo wo mogolo. Batho ba ile ba rarolla bothata bjo ka go nyaka selo seo se bego se tlo amogelwa ke mang le mang. Selo seo e be e le gauta. Morago ga fao motho o be a kgona go bapatša kgomo ka dikramo tše 30 tša gauta mme a reka mokotla wa lehea ka dikramo tše 10 tša gauta. Gauta e ile ya amogelwa ke mang le mang. Le ge go le bjalo batho ba thomile go tšhaba gore gauta ye ba bego ba sepela le yona e ka utswiwa. Ba ile ba thoma go boloka gauta lefelong la polokego (panka) mme molaodi wa lefelo leo a swanela go ngwala setlankana seo se bontšhago bokaakang bja gauta bjoo motho a bego a na le bjona pankeng. Ge a bontšhwa setlankana seo molaodi o ile a bušetša gauta yeo go mong wa yona. 
+
+
+
+Morago ga lebaka batho ba ile ba thoma go diriša setlankana seo fela go bapatša seo ba bego ba se nyaka bakeng sa go lata gauta ya bona pele ka ge motho yoo a ilego a fiwa setlankana o be a ka lata gauta ka sona ka morago. Morago ga fao batho ba tlogetše go lata gauta ya bona pankeng ka ge setlankana seo ba bego ba se swere se bontšhitše bokaakang bja gauta bjoo ba bego ba na le bjona. Lehono mongwe le mongwe o amogela tšheletepampiri.
+
+
+
+Na batho ba gola bjang tšhelete?
+
+Motho a ka gola tšhelete fela ka go gola moputso goba ka go sepediša kgwebo. 
+
+
+
+Ditseno
+
+Lefaseng la sebjalebjale la lehono kgwebo – ka mokgwa wo o lebanego goba wo o sa lebanyago – e thuša motho mabapi le dinyakwa tšohle tša gagwe. Kgwebo e rekiša ditirelo goba ditšweletšwa tša yona mme tšhelete ye e amogelwago malebana le ditirelo goba ditšweletšwa tšeo ke ditseno tša kgwebo yeo. Mehlala ya ditšweletšwa ke dijo, diaparo, dinamelwa, fenitšhara le tšhireletšo. Mehlala ya ditirelo ke ditirelo tša kalafo, tša dikolo le thuto le tša kgokagano/khominikheišene. Kgopolo ye mabapi le ditseno e gatelela nnete ya gore matšatšing a lehono motho o hloka tšhelete go ikgotsofatša mabapi le bontši bja dinyakwa tša gagwe.
+
+
+
+Ditshenyegelo
+
+Tshepetšong ya go tšweletša ditirelo le/goba ditšweletšwa, kgwebo e ba le ditshenyegelo tše di itšego. Ditshenyegelo tše di hlaolelwa dihlopheng tše tharo: 
+
+
+
+Ditshenyegelofetogi (ditshenyegelo tša tšweletšo) (Variable costs)
+
+Ditshenyegelo tše di fetogago di sepelelana le tšweletšo, ka fao di ba gona fela ge go na le tšweletšo. Ka go realo go na le kamano gare ga bokaakang (bolumo) bja tšweletšo le ditshenyegelo. Ge motšweletši a gama dikgomo tše lesome fela ditshenyegelofetogi tša gagwe, bjalo ka meputso, metswakotii (concentrates), furukepelwa (silage) le ditshenyegelo tša thwalo ya maswi, e tla ba tše nnyane ge di bapišwa le ditshenyegelo tšeo a ka bego a na le tšona ge a be a gama dikgomo tše 50. Mehlala ya ditshenyegelofetogi ke monontšha, peu, dibolayangwang, mošomo wa kontraka, dihlare tša diruiwa, dilatswa, metswakotii, dibešwa (makhura), mošomo wa sehla, materiale ya go phuthela le ditshenyegelo tša papatšo. 
+
+
+
+Ditshenyegelotlengwa (Fixed costs)
+
+Ditshenyegelotlengwa ke seripa seo sa palomoka ya ditshenyegelo seo se sa fetogego mabapi le leanotšweletšo (production plan) le le itšego le gona se sa huetšwego ke koketšo goba phokotšo ya tšweletšo. Ka fao ditshenyegelo tša mohuta wo ga di fetoge lebakengkopana. Le ge go le bjalo, di ka fetoga lebakengtelele ge leanotšweletšo le ka fetogwa. 
+
+
+
+Ge motšweletši a agile bogamelo bja go gamela dikgomo tše 50 (leanotšweletšo la gagwe), ditshenyegelotlengwa mabapi le bogamelo, bjalo ka tswalo ya tšhelete (interest) le konalo (depreciation) ya ditlhamo, di tla dula di sa huetšwe ke palo ya dikgomo tše di gangwago, e ka ba tše 10 goba tše 50. Le ge go le bjalo, ge motšweletši a ka fetola leanotšweletšo la gagwe ka go katološa bogamelo gore go gangwe dikgomo tše 80, gona ditshenyegelotlengwa di tlo fetoga ka ge leanotšweletšo le fetogile. Mehlala ya ditshenyegelotlengwa ke konalo (e sego ya kheše), tswalo, ditefo tša inšorense le meputso ya badiredi (ba ba hirwago le ba ruri). Ditshenyegelo di tlemilwe fela mola di thomilwe (incurred). Pele ga ge trekere e rekwa, ditshenyegelo tšohle mabapi le yona di ka fetoga. Mola trekere e rekilwe, ditshenyegelotlengwa mabapi le yona, go swana le konalo, tswalo, dilaesense le inšorense, di tlemilwe. Ditshenyegelo mabapi le dintlha tše ga di fetoge go ya ka tšweletšo mme ka fao ga di huetšwe ke diphetogo tša tšweletšo lebakengkopana. 
+
+
+
+Konalo (Capital redemption)
+
+Konalo ke tshenyegelo ye e sego ya kheše ye e amanago le phokotšo ya mohola wa letlotlo ka baka la tirišo le mengwaga ya lona. 
+
+
+
+Tswalo le ditshenyegelo tša letlotlo (Financing costs)
+
+Tswalo ke pušetšo ya tšhelete go lefela tirišo ya tšhelete ye e tšwago nageng ya ntle goba ye e adimilwego. 
+
+
+
+Palomoka ya ditshenyegelo
+
+Palomoka ya ditshenyegelo ke tlhakano ya palomoka ya ditshenyegelotlengwa le palomoka ya ditshenyegelofetogi mme e swantšhwa seswantšhong sa 1.1. 
+
+
+
+Seswantšho sa 1.1	
+
+
+
+
+
+Palomoka ya ditshenyegelo
+
+ 
+
+
+
+
+
+
+
+ 
+
+ Ditshenyegelo 						Ditshenyegelofetogi 
+
+(Ditshenyegelo tša tšweletšo)
+
+ (R)
+
+
+
+
+
+ 					 Ditshenyegelotlengwa (Overhead costs)
+
+
+
+ 
+
+Tšweletšo (Y)
+
+
+
+
+
+Poelo/Tahlegelo
+
+Poelo e ba gona ge ditseno di feta palomoka ya ditshenyegelo goba palomoka ya dijego (expenditures) mme ge dijego di feta ditseno go šala tahlegelo. 
+
+
+
+Ditseno – Dijego = Poelo/Tahlegelo (I – E = P/L) (Income – Expenditure = Profit/Loss)
+ 
+
+ 
+
+ 
+
+ 
+
+
+Goba ge re hlaloša ka mantšu ao a tlwaelegilego temong:
+
+
+
+
+
+Ditseno – Dijego tša Tšweletšo = Gross margin - Ditshenyegelotlengwa = Ditsenofela (Net Income) tša Polasa (Poelo/Tahlegelo)
+
+
+ 
+
+ 
+
+
+Go bohlokwa go lemoga gore ge kgwebo e eba le poelo se se hola badiredi bohle gammogo le mongkgwebo ka ge ba amogela tšhelete yeo ba ka e dirišago go ithuša mabapi le dinyakwa tša bona. Ka fao dipoelo di swanetše go tiišwa lebakengtelele, seo se gatelelago bohlokwa bja mekgwa ye e swarelelago ya bolemi/borui (sustainable farming practices). Eupša ge kgwebo e eba le tahlegelo maemo a ka fetoga. Le ge badiredi ba amogela meputso (tšhelete) mongkgwebo a ka se be le ditseno mme o tla swanela go loga maano a go fokotša ditahlegelo. Dikgato tše a ka di naganago di ka akaretša go rodiša badiredi modiro (retrench staff). Seswantšho se se latelago se tšweletša taba ye ka mokgwa wo mongwe:
+
+
+
+Seswantšho sa 1.2 
+
+										 Ditshenyegelo
+
+								Tahlegelo
+
+										 Ditseno
+
+
+
+
+
+R
+
+	 
+
+Poelo
+
+Break-even point
+
+
+
+
+
+
+
+
+
+Mengwaga (Nako)
+
+
+
+
+
+Ka go ya ga nako ditseno le dijego tša kgwebotemo di oketšega go ya ka koketšo ya ditseno ka baka la ditšweletšwa tše di rekišwago (koketšo ya thekišo) le ditshenyegelo tše di nameletšego (koketšo ya theko). Le ge go le bjalo, ditshenyegelo (bjalo ka theko ya didirišwa) di oketšega go feta ditseno (thekišo ya ditšweletšwa), ka fao go phetha poelo e ba bothata bjo bo golelago godimo. Dikgwebotemo di tlamegile go rekiša ditšweletšwa tša tšona ka dithekišo tše di beilwego (price takers) mme ga di kgone go oketša dithekišo tšeo ka botšona. 
+
+
+
+Ditseno di ka okeletšwa ka go godiša tšweletšo godimo ga hektare (lehea – tone/hektare), le/goba ka maanotšweletšo ao a kaonafaditšwego (precision farming), le/goba ka go godiša botšweletši. Ditshenyegelo di ka fokotšwa ka go ngangišana le barekiši go kgonthiša thekofase ya dinyakwapšalo (inputs), le/goba ka go diriša maanotšweletšo ao a kaonafaditšwego, le/goba ka go fokotša ditshenyegelo ka go rodiša badiredi modiro, le/goba ka go laola ditshenyegelo ka go diriša ditekanyetšo (budgets), le/goba ka go godiša botšweletši. 
+
+
+
+Ge re ruma re ka re kgwebo e thuša batho go ikgotsofatša mabapi le dinyakwa tša bona. Le ge go le bjalo, kgwebo e ka atlega fela ge e phetha poelo ka go se kgaotše. Ge poelo e phethega ka go se kgaotše mongwe le mongwe polaseng o holwa ke poelo yeo. Ge tahlegelo e phegelela bohle polaseng ba tlo hlakišwa ke meputso ye e sa nameletšwego ka tshwanelo goba ka go rodišwa modiro, eupša ke mongkgwebo a noši yo a ka lahlegelwago ke tšohle, go akaretša le diphahlo tša yena motho (personal belongings). 
+

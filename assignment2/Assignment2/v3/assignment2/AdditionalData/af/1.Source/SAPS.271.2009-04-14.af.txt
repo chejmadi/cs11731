@@ -1,0 +1,961 @@
+SAPD 271
+SUID-AFRIKAANSE  POLISIEDIENS
+AANSOEK OM ’N LISENSIE OM ’N VUURWAPEN TE BESIT
+A rtikel  12,  13,  14,  15,  16,  17,  19  en  20  van  die  W et  op  Beheer  van  Vuurwapens,   2000  (W et  no  60  van  2000)
+AMPTELIKE DATUMSTEMPEL
+A.
+VIR AMPTELIKE GEBRUIK DEUR DIE POLISIESTASIE
+WAAR DIE AANSOEK OP REKENAAR VASGELê WORD
+1 Aansoekverwysingsnommer
+2  Nommer van aansoek
+van
+DATUM ONTVANG
+B.	VIR AMPTELIKE GEBRUIK DEUR DIE POLISIESTASIE WAAR DIE AANSOEK ONTVANG WORD
+1
+Provinsie
+2
+Area
+3
+Polisiestasie
+4
+Komponentkode
+5
+Verwysingsnommer van
+SAPD 86
+NO
+JAAR
+vuurwapenaansoekregister
+C.
+VIR AMPTELIKE GEBRUIK DEUR DIE SENTRALE VUURWAPENREGISTER (SVWR)
+1  Uitstaande/Bykomende inligting wat verlang word
+-
+2
+Persal-nommer
+-
+-
+3
+Datum
+4  Handtekening van polisiebeampte
+5  Naam in drukskrif
+6  Aansoek om lisensie goedgekeur (Merk  m et  ‘n  X)
+-
+7
+Persal-nommer
+-
+-
+8
+Datum
+9  Handtekening van SVWR-beampte
+10  Beamptekode
+11  Naam in drukskrif
+12  Aansoek om lisensie geweier (Merk  m et  ‘n  X)
+13  Rede(s) vir weiering
+-
+14  Persal-nommer
+-
+-
+15
+Datum
+16  Handtekening van SVWR-beampte
+17  Beamptekode
+18  Naam in drukskrif
+Bladsy 1 van   12
+SAPD 271
+3
+3.1
+3.2
+3.3
+3.4
+3.5
+3. 6
+3.7
+3.8
+3. 9
+3.1
+3.11
+3.12
+1
+1.1
+1.2
+1.3
+1.5
+1.6
+1.7
+1.9
+1.11
+D.
+TIPE AANSOEK OM LISENSIE OM VUURWAPEN(S) TE BESIT
+1  Hoof houer van lisensie
+2  Addisionele houer van lisensie
+(Merk  m et  ‘n  X)
+Nommer
+Soort lisensie/permit
+Tydperk van
+X
+van
+geldigheid
+artikel
+13
+Lisensie om ’n vuurwapen te besit vir selfverdediging
+Vyf jaar
+14
+Lisensie om ‘n beperkte vuurwapen te besit vir selfverdediging
+Twee jaar
+15
+Lisensie om ‘n vuurwapen te besit vir geleentheidsjag en/of sportskiet
+Tien jaar
+16
+Lisensie om ‘n vuurwapen te besit vir toegewyde jag en/of toegewyde sportskiet
+Tien jaar
+17
+Lisensie om ‘n vuurwapen te besit in ‘n private versameling
+Tien jaar
+19
+Lisensie om ‘n vuurwapen te besit in ‘n openbare versameling
+Tien jaar
+20
+Lisensie om ‘n vuurwapen te besit vir besigheidsdoeleindes: Besigheid met betrekking tot jag
+Vyf jaar
+20
+Lisensie om ‘n vuurwapen te besit vir besigheidsdoeleindes: Ander besigheidsdoeleindes
+Twee jaar
+20
+Lisensie om ‘n vuurwapen te besit vir besigheidsdoeleindes: Vir gebruik in teater-, film- of
+Twee jaar
+televisieproduksies
+20
+Lisensie om ‘n vuurwapen te besit vir besigheidsdoeleindes: As ‘n sekuriteitsmaatskappy
+Twee jaar
+20
+Lisensie om ‘n vuurwapen te besit vir besigheidsdoeleindes: Om opleiding te verskaf
+Twee jaar
+20
+Lisensie om ‘n vuurwapen te besit vir besigheidsdoeleindes: As ‘n veldwagter
+Twee jaar
+E.
+BESKRYWING VAN VUURWAPEN (Merk  m et  ‘n  X)
+SOORT VUURWAPEN
+Geweer
+Haelgeweer
+Handwapen
+Kombinasie
+Ander, spesifiseer (bv
+wapentuig/ontwerp
+onbepaalbaar)
+BESONDERHEDE VAN VUURWAPEN (Merk  m et  ‘n  X)
+Aksie
+Half-outomaties
+Outomaties
+Met die hand
+Ander aksie
+(spesifiseer)
+Name en adresse wat in metaal gegraveer is
+Kaliber
+1.4
+Kaliberkode
+Fabrikaat
+Model
+Soort vuurwapenkomponent:
+Reeksnommer op loop
+1.8  Fabrikaat
+Reeksnommer op raam
+1.10  Fabrikaat
+Reeksnommer op romp
+1.12  Fabrikaat
+Bladsy 2 van   12
+SAPD 271
+F.
+BESONDERHEDE VAN HUIDIGE EIENAAR
+1
+Soort eienaar (Merk  m et  ‘n  X)
+1.2
+A
+B
+C
+D
+E
+Private eienaar
+Vuurwapenhandelaar
+Maatskappy
+Ingevoerde vuurwapen
+Boedel
+2
+BESONDERHEDE VAN NATUURLIKE PERSOON
+3
+SOORT A (Private eienaar)
+4
+Van
+5 Voorletters
+6
+Volle name
+7
+Identiteitsnommer
+-
+-
+-
+8
+Woonadres
+9 Poskode
+10
+Posadres
+11 Poskode
+12
+Telefoonnommer
+12.1  Huis
+(
+)
+12.2 Werk
+(
+)
+12.3
+Selfoonnommer
+13
+Faks
+(
+)
+14
+E-posadres
+15
+Is daar enige addisionele vuurwapenlisiensiehouers vir hierdie vuurwapen?
+JA
+NEE
+(Merk  m et  ‘n  X)
+16
+BESONDERHEDE VAN REGSPERSOON
+17
+SOORT B (Vuurwapenhandelaar)
+18
+Geregistreerde naam van
+maatskappy
+19
+Handelend as
+20
+VWR-nommer
+21
+Posadres
+22  Poskode
+23
+Besigheidsadres
+24 Poskode
+25
+Besigheidstelefoonnommer
+25.1 Werk
+(
+)
+25.2 Faks
+(
+)
+26
+E-posadres
+27
+Verantwoordelike persoon (Naam en van)
+28
+Soort identifikasie (Merk  m et  ‘n  X)
+Nie-Suid-Afrikaanse burger met permanente
+Suid-Afrikaanse burger
+verblyfreg*
+29
+Identiteitsnommer van verantwoordelike persoon
+-
+-
+-
+30
+Selfoonnommer
+31
+Fisiese adres
+32 Poskode
+33
+Posadres
+34 Poskode
+* In die geval van ‘n nie-Suid-Afrikaanse burger moet bewys van permanente verblyf ingehandig word.
+Bladsy 3 van   12
+SAPD 271
+35
+SAP 350 (A) - BESONDERHEDE
+Vuurwapen ontvang van
+36
+Naam
+37
+Identifikasienommer of VWR-nommer
+38
+Adres
+39
+Poskode
+40  Datum ontvang
+-
+-
+41
+SOORT C (Maatskappye)
+42
+Geregistreerde naam van
+maatskappy
+43
+Handelend as
+44
+VWR-nommer
+45
+Posadres
+46 Poskode
+47
+Besigheidsadres
+48 Poskode
+49
+Besigheidstelefoonnommer
+49.1 Werk
+(
+)
+49.2 Faks
+(
+)
+50
+E-posadres
+51
+Verantwoordelike persoon (Naam en van)
+52
+Soort identifikasie   (Merk  m et  ‘n  X)
+Nie-Suid-Afrikaanse burger met permanente
+Suid-Afrikaanse burger
+verblyfreg*
+53
+Identiteitsnommer van verantwoordelike persoon
+-
+-
+-
+54
+Selfoonnommer
+55
+Fisiese adres
+56 Poskode
+57
+Posadres
+58 Poskode
+59
+SOORT D (Ingevoerde vuurwapens)
+60
+Nommer van invoerpermit
+61
+Datum uitgereik
+-
+-
+62
+Vervaldatum
+-
+-
+63
+SOORT E (Boedel)
+64
+Soort boedel (Merk  m et  ‘n  X)
+65
+Eksekuteurskap
+Administrateurskap
+Kuratorskap
+Trust
+66
+Van
+67Voorletters
+68
+Volle name
+69
+Identiteitsnommer van die eienaar van die vuurwapen
+-
+-
+-
+70
+Naam en van van eksekuteur, administrateur, kurator, trustee of likwidateur
+* In die geval van ‘n nie-Suid-Afrikaanse burger moet bewys van permanente verblyf ingehandig word.
+Bladsy 4 van   12
+SAP
+D 271
+71
+Soort identifikasie (Merk  m et  ‘n  X)
+Nie-Suid-Afrikaanse burger met permanente
+Suid-Afrikaanse burger
+verblyfreg*
+72
+Identiteitsnommer van eksekuteur, administrateur,
+kurator, trustee of likwidateur
+-
+-
+-
+73
+Telefoonnommer
+73.1  Huis
+(
+)
+73..2 Werk
+(
+)
+73.3
+Selfoonnommer
+74
+Faks
+(
+)
+75
+Fisiese adres
+76 Poskode
+77
+Posadres
+78 Poskode
+79
+Fisiese adres waar vuurwapen(s) gehou word
+80 Poskode
+81
+VERKLARING DEUR PERSOON WAT WETLIK IN BESIT VAN DIE VUURWAPEN(S) IS
+Hiermee verklaar ek dat die bogenoemde vuurwapen(s) wetlik in my besit is en dat ek van voorneme is om dit aan die aansoeker te verkoop of te verskaf sodra hy/sy die nodige lisensie(s) bekom het en dat die besonderhede van die vuurwapen(s) korrek en juis is.
+Indien ek enige vals verklaring op hierdie vorm maak, is ek skuldig aan ‘n oortreding ingevolge artikel 120 (9)(f) van die Wet op Beheer van Vuurwapens, 2000 (Wet No 60 van 2000).
+82
+Naam en van van huidige eienaar/gemagtigde persoon
+83
+Identiteitsnommer van huidige eienaar/gemagtigde
+persoon
+-
+-
+-
+84
+Ampsbenaming
+85
+Datum
+-
+-
+86
+87
+Plek
+Handtekening van huidige eienaar/gemagtigde persoon
+G.
+BESONDERHEDE VAN AANSOEKER (Voltooi  slegs  die  afdeling  wat  van  toepassing  is  op  u.)
+1
+BESONDERHEDE VAN BESTAANDE BEVOEGDHEIDSERTIFIKAAT (Merk  m et  ‘n  X)
+1.1
+A
+Bevoegdheidsertifikaat om in vuurwapens handel te dryf
+1.2
+B
+Bevoegdheidsertifikaat om vuurwapens te vervaardig
+1.3
+C
+Bevoegdheidsertifikaat om besigheid as ‘n wapensmid te bedryf
+1.4
+D
+Bevoegdheidsertifikaat om ‘n vuurwapen te besit (Merk  m et  ‘n  X)
+Handwapen
+Geweer
+Haelgeweer
+1.5
+Nommer van bevoegdheidsertifikaat
+1.6
+Datum van
+-
+-
+1.7     Vervaldatum
+-
+-
+uitreiking
+2
+BESONDERHEDE VAN VUURWAPENSIN U BESIT WAARVOOR U ‘N LISENSIE, PERMIT OF MAGTIGING HET
+2.1
+Soort
+Kaliber
+Fabrikaat
+Reeksnommer op loop
+Reeksnommer op
+Lisensie-, permit- of
+raam/romp
+magtigingsnommer
+* In die geval van ‘n nie-Suid-Afrikaanse burger moet bewys van permanente verblyf ingehandig word.
+Bladsy 5 van   12
+SAPD 271
+Bladsy 6 van   12
+SAPD 271
+3
+BESONDERHEDE VAN NATUURLIKE PERSOON
+4
+PRIVATE PERSOON
+5
+Soort identifikasie (Merk  m et  ‘n  X)
+5.1
+Suid-Afrikaanse
+Nie-Suid-Afrikaanse burger met permanente
+burger
+verblyfreg*
+6
+Identiteitsnommer van private persoon
+-
+-
+-
+7
+Van
+8  Voorletters
+9
+Volle name
+10
+Geboortedatum
+-
+-
+11Ouderdom
+12
+Geslag
+Manlik
+Vroulik
+13
+Woonadres
+14  Poskode
+15
+Posadres
+16  Poskode
+17
+Soort woning (bv hut, woonstel, karavaan, kothuis, huis, koshuis of haweloos)
+18
+Ambag of beroep
+19  Indien selfwerksaam,
+spesifiseer
+20
+Naam van
+werkgewer/maatskappy
+21
+Besigheidsadres
+22  Poskode
+23
+Telefoonnommer
+23.1 Huis
+(
+)
+23.2 Werk
+(
+)
+23.3
+Selfoonnommer
+24    Faks
+(
+)
+25
+E-posadres
+26
+Huwelikstaat (Merk  m et  ‘n  X)
+27
+Enkellopend
+Getroud
+Geskei
+Weduwee
+Wewenaar
+Ander
+(spesifiseer)
+29
+BESONDERHEDE VAN AANSOEKER SE GADE/LEWENSMAAT
+Soort identifikasie (Merk  m et  ‘n  X)
+29.1
+SA-identiteit
+Paspoort
+30
+Identiteitsnommer van gade
+-
+-
+-
+31
+Paspoortnommer van gade
+32
+33
+34
+35
+Naam en van
+BESONDERHEDE VAN REGSPERSOON
+ANDER LIGGAME (bv  beheerliggaam ,  beslote  korporasie  of  m aatskappy)
+Geregistreerde naam van maatskappy
+36
+Handelend as
+* In die geval van ‘n nie-Suid-Afrikaanse burger moet bewys van permanente verblyf ingehandig word.
+Bladsy 7 van   12
+SAPD 271
+37
+VWR-nommer
+38
+Posadres
+40
+39  Poskode
+Besigheidsadres
+41  Poskode
+42
+Besigheidstelefoonnommer
+42.1 Werk
+(
+)
+42.2 Faks
+(
+)
+43
+E-posadres
+44
+Getal vuurwapens reeds vir die besigheid geregistreer
+45
+Getal persone wat die besigheid in diens het om vuurwapens te hanteer
+46
+Verantwoordelike persoon (Naam en van)
+47
+Soort identifikasie (Merk  m et  ‘n  X)
+SA-burger
+Nie-SA-burger met permanente verblyfreg*
+48
+Identiteitsnommer van verantwoordelike persoon
+-
+-
+-
+49
+Selfoonnommer
+50
+Fisiese adres
+51  Poskode
+52
+Posadres
+53 Poskode
+54
+ANDER BESONDERHEDE (Slegs  van  toepassing  op  toegewyde  jagters,  toegewyde  sportpersone  of  versam elaars.)
+55
+Is u lid van ‘n geakkrediteerde vereniging? (Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende
+besonderhede
+56
+Naam van geakkrediteerde vereniging
+57
+VWR-nommer van geakkrediteerde
+vereniging
+58
+Lidnommer
+59 Datum
+-
+-
+aangesluit
+60 Vervaldatum
+-
+-
+61
+Motivering van die doel waarvoor die vuurwapen benodig word (V an  toepassing  op  alle  soorte  aansoeke)
+62
+IS U AL OOIT SKULDIG BEVIND AAN  ’N OORTREDING BINNE OF BUITE DIE GRENSE VAN SUID-AFRIKA?
+(Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende besonderhede
+62.1
+Polisiestasie (1)
+62.2 MAS-/Saaknommer
+62.3
+Aanklag
+62.4
+Vonnis
+62.5
+Polisiestasie (2)
+62.6MAS-/Saaknommer
+62.7
+Aanklag
+62.8
+Vonnis
+* In die geval van ‘n nie-Suid-Afrikaanse burger moet bewys van permanente verblyf ingehandig word.
+Bladsy 8 van   12
+SAPD 271
+63
+IS ENIGE SAKE HANGENDE TEEN U? (Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende besonderhede
+63.1
+Polisiestasie   (1)
+63.2 MAS-
+/Saaknommer
+63.3
+Oortreding
+63.4
+Polisiestasie (2)
+63.5 MAS-
+/Saaknommer
+63.6
+Oortreding
+64
+IS ENIGE VAN U VUURWAPENS AL OOIT GESTEEL OF HET DIT AL OOIT VERLORE GERAAK?  (Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende besonderhede
+64.1
+Polisiestasie   (1)
+64.2MAS-/Saaknommer
+64.3
+Omstandighede
+64.7
+Besonderhede van
+vuurwapen
+64.5
+Polisiestasie (2)
+64.6MAS-/Saaknommer
+64.7
+Omstandighede
+64.8
+Besonderhede van
+vuurwapen
+65
+IS ’N SAAK VAN NALATIGHEID RAKENDE DIE GESTEELDE/VERLORE VUURWAPEN GEOPEN EN ONDERSOEK? (Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende besonderhede
+65.1
+Polisiestasie (1)
+65.2MAS-/Saaknommer
+65.3
+Aanklag
+65.4 Uitslag
+65.5
+Polisiestasie (2)
+65.6MAS-/Saaknommer
+65.7
+Aanklag
+65.8  Uitslag
+66
+IS U AL OOIT ONBEVOEG VERKLAAR OM ‘N VUURWAPEN TE BESIT? (Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende besonderhede
+66.1
+Polisiestasie (1)
+66.2 MAS-
+/Saaknommer
+66.3
+Aanklag
+66.4
+Datum vanaf
+66.5
+Tydperk
+66.6
+Polisiestasie (2)
+66.7MAS-/Saaknommer
+66.8
+Aanklag
+66.9
+Datum van
+66.10  Tydperk
+67
+IS ’N VUURWAPEN IN U BESIT AL OOIT GEKONFISKEER?  (Merk  m et  ‘n  X)
+JA
+NEE
+Indien ja, verstrek die volgende besonderhede
+67.1
+Polisiestasie (1)
+67.2MAS-/Saaknommer
+67.3
+Omstandighede
+67.4
+Uitslag
+67.5
+Polisiestasie (2)
+67.6MAS-/Saaknommer
+67.7
+Omstandighede
+67.8  Uitslag
+68
+HET U DIE VOORGESKREWE KLUIS? (Merk  m et  ‘n  X)
+JA
+NEE
+68.1
+INDIEN JA, VERSTREK VOLLEDIGE BESONDERHEDE (Merk  m et  ‘n  X  en  voorsien  ‘n  kort  beskrywing)
+Soort kluis
+Handwapen
+Geweer
+Bladsy 9 van   12
+SAPD 271
+Brandkamer
+Toestel
+69
+IS DIE KLUIS GEÏNSTALLEER? (Merk  m et  ‘n  X)
+JA
+NEE
+69.1
+INDIEN JA, VERSTREK VOLLEDIGE BESONDERHEDE  (Merk  m et  ‘n  X)
+Muur
+Vloer
+70
+VERKLARING DEUR AANSOEKER
+Indien ek enige vals verklaring op hierdie vorm maak, is ek skuldig aan ‘n oortreding ingevolge artikel 120 (9)(f) van die Wet op Beheer van Vuurwapens, 2000 (Wet No 60 van 2000).
+H.	HANDTEKENING VAN AANSOEKER (Teken  slegs  indien  van  toepassing)
+Nota:
+Die voorwaardes van die foto:
+Die foto moet in kleur wees en mag nie die tabel oorskry nie. 
+Die foto moet ‘n standaard paspoort foto wees. 
+Die foto moet ‘n volle vooraansig van die kop en skouers van die applikant 
+wees.
+-     Die agtergrond van die foto moet effe kleur wees.
+FOTO
+-     Die applikant mag nie ‘n hoed of sonbril aanhê met die neem van
+die foto nie.
+-     Die applikant se naam en identiteitsnommer moet op die agterkant
+van die foto geskryf word voordat dit op die vorm vasgesit word.
+-     Die applikant moet in swart ink teken.
+-
+Die handtekening mag nie die tabel oorskry nie.
+1
+Die hele vinger moet op die bladsy gedruk word. 
+Die vingerafdruk mag nie gerol word nie maar moet ‘n plat beeld wees. 
+4 Aanwysing van vinger-afdruk
+2
+3
+Handtekening
+5
+6
+Datum
+-
+-
+Naam van aansoeker in drukskrif
+7
+Plek
+8
+BESONDERHEDE VAN POLISIEBEAMPTE WAT AANSOEK HANTEER
+8.1
+8.2
+-
+Naam van polisiebeampte in drukskrif
+Persal-nommer van polisiebeampte
+8.3
+8.4
+Rang van polisiebeampte in drukskrif
+Handtekening van polisiebeampte
+9
+BESONDERHEDE VAN GETUIE
+9.1
+9.2
+-
+Naam van getuie in drukskrif
+Bladsy 10 van   12
+SAPD 271
+9.3
+9.4
+Rang van getuie in drukskrif
+Persal-nommer van getuie
+I.
+BESONDERHEDE VAN TOLK
+(Hierdie afdeling moet slegs ingevul word as die aansoeker nie kan lees, skryf of hierdie dokument verstaan nie.)
+1
+Naam en van van tolk
+2
+Identiteits-/Paspoortnommer van tolk
+3
+Woonadres
+4  Poskode
+5
+Posadres
+6  Poskode
+7
+Telefoonnommer
+7.1  Huis
+(
+)
+7.2
+Werk
+(
+)
+8
+Selfoonnommer
+9
+Faks
+(
+)
+10
+E-posadres
+11
+Getolk uit (taal)
+in
+12
+Datum
+-
+-
+13
+14
+Plek
+Handtekening van tolk
+15
+Rang van polisiebeampte in drukskrif (indien van toepassing)
+16
+-
+Persal-nommer van polisiebeampte (indien van toepassing)
+J.
+TOESTEMMING DEUR OUER/VOOG IN GEVAL VAN ’N MINDERJARIGE
+1
+Aanbeveel
+Nie aanbeveel nie
+2
+Naam en van van ouer/voog
+3
+Identiteits-/Paspoortnommer van ouer/voog
+4
+Opmerkings van ouer/voog
+5
+Datum
+-
+-
+6	7
+Plek
+Handtekening van ouer/voog
+*** KENNISGEWING VAN ADRESVERANDERING ***
+Die Registrateur moet ingelig word oor alle adresveranderings of veranderings in omstandighede binne 30 dae nadat die veranderings plaasgevind het.
+Bladsy 11 van   12
+SAPD 271
+K.
+VIR AMPTELIKE GEBRUIK DEUR DIE AANGEWESE VUURWAPENBEAMPTE
+1
+VERSLAG VAN AANGEWESE VUURWAPENBEAMPTE IN DIE GEVAL VAN ’N BEPERKTE VUURWAPEN VIR SELFVERDEDIGING
+2
+Plek waar die aansoeker woon (Merk  m et  ‘n  X)
+stedelike
+platteland
+plaas
+plot
+gebied
+ander
+3
+Indien die aansoeker op die platteland/op ‘n plaas of plot woon, verstrek die volgende
+3.1
+Afstand na die naaste bure
+meters/kilometers
+3.2
+Afstand na die naaste polisiestasie
+meters/kilometers
+4
+Woon die aansoeker naby/nie naby ‘n hoë risiko-/misdaadgebied?
+Indien die aansoeker naby ‘n misdaadgebied woon, verstrek ‘n motivering.
+5
+Woon of werk die aansoeker in ‘n gevaarlike of hoë risikogebied?
+Indien ja, verstrek ‘n motivering.
+6
+Die aansoeker is ‘n (Merk  m et  ‘n  X)
+toegewyde jagter
+toegewyde
+private
+openbare
+sportpersoon
+versamelaar
+versamelaar
+6.1
+Hoeveel vuurwapens besit die aansoeker?
+1
+L.
+AANBEVELING MET BETREKKING TOT DIE AANSOEK (Van  toepassing  op  alle  soorte  aansoeke)
+Aanbeveel
+Nie aanbeveel nie
+1.1
+Motivering met betrekking tot die aansoek
+1.2
+Verslag van die inspeksie van die aansoeker se geriewe vir die veilige bewaring van vuurwapens
+2
+3
+Datum
+-
+-
+Naam van Aangewese Vuurwapenbeampte/Stasiekommissaris in drukskrif
+4
+5
+Plek
+Rang van Aangewese Vuurwapenbeampte/Stasiekommissaris in drukskrif
+6
+7
+-
+Handtekening van Aangewese Vuurwapenbeampte/Stasiekommissaris
+Persal-nommer van Aangewese Vuurwapenbeampte/
+Stasiekommissaris
+Page 12 of   12

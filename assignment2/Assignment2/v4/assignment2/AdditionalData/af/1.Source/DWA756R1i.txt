@@ -1,0 +1,43 @@
+DEPARTEMENT VAN WATERWESE EN BOSBOU
+REGISTRASIE DEEL 1INDIVIDU
+N.B. Voltooi alle velde Hierdie is 'n nuwe registrasie of 'n wysiging aan 'n bestaande registrasie gemerk met 'n kol (*). (vir 'n wysiging aan 'n bestaande registrasie, verstrek registernommer ... )*
+BESONDERHEDE VAN AANSOEKER
+Posadres
+Poskode
+Straatadres (slegs as dit verskil van posadres)
+Is u 'n lid van 'n Watergebruikersvereniging? nee ... ja ... (indien ja, verstrek naam hieronder)
+EIENDOM WAAR WATERGEBRUIK VOORKOM
+Naam van eiendom waar watergebruik plaasvind plaasnaam, standplaasnommer of naam van gemeenskap; beskrywing volgens Titelakte indien van toepassing, of die naam van die landbouhoewe, plaas, dorp of stad 
+Indien die eiendom nie opgemeet is nie, voltooi die volgende:­a landrosdistrik of plaaslike owerheid b van en voorletters van die leier van die dorp, gemeenskap of stamowerheid
+Indien die eiendom opgemeet is, voltooi die volgende:­a Landmeter-Generaalkantoor b administratiewe distrik of registrasieafdeling c plaasnommer d gedeelte van eiendom e titelaktenommer f titelaktedatum
+g Landmeter- Generaal kadastrale kode ----­
+Eienaarskap van eiendom merk slegs een met 'n kruis X a applikant besit eiendom b applikant huur eiendom c eiendom is gemeenskapsgrond
+BESONDERHEDE VAN GRONDEIENAAR (indien dit nie die applikant is nie)
+Soort grondeienaar (merk net een)
+Nasionale regering
+Persoon Maatskappy
+Provinsiale regering
+Ander Beskrywing van ander bv. ID, besigheidsregistrasienommer Land van uitreiking indien id buitelands is.
+Identifikasienommer (indien van toepassing) vervaldatum
+Van of naam van eienaar
+Voorletters (i.v.t)
+Titel (i.v.t)
+Indien die grondeienaar 'n maatskappy is*:Handelsnaam indien van toepassing en verskil van maatskappy, besigheid of vennootskapsnaam.
+Land van vestiging
+Posadres
+Poskode
+Straatadres (indien verskillend van posadres)
+Kontaktelefoonnommer gedurende kantoorure area/sel kode uitbr.
+nommer openbare maatskappy, privaat maatskappy, maatskappy sonder winsbejag, waarborgmaatskappy, eksterne maatsakappy, geïnkorpereerde privaatmaatsappy,beslote korporasie.
+WATERGEBRUIKE OF AKTIWITEITE (Dui die gebruike of aktiwiteite wat u wil registreer aan)*
+DW760Neem van water vanuit 'n waterhulpbron
+DW762Opgaar van water - dam registrasie
+DW763Belemmering of wegkering van die vloei van water in 'n waterloop
+DW765Deelname aan 'n beheerde bedrywigheid -besproeiing van enige grond met afval of water wat afval bevaten wat gegenereer is deur industriële aktiwiteit of deur waterwerke
+DW766Storting van afval of water wat afval bevat in 'n waterhulpbrondeur middel van 'n pyp, kanaal, riool, see-uitloop of ander geleiding
+DW767Beskikking oor afval op 'n wyse wat nadelig op 'n waterhulpbron kan inwerk.
+DW767Wegdoening van water wat afval bevat, of wat verhit is in 'n industriële of kragopwekkingsproses
+DW768Verandering van die bedding, walle, loop of kenmerke van 'n waterloop
+DW805Verwydering, storting of wegdoening van water wat ondergronds gevind is, indien dit nodig isvir die doeltreffende voortsetting van 'n bedrywigheid of vir die veiligheid van mense
+DW806Gebruik van water vir ontspanningsdoeleindes
+Weergawe 1.13 p 3 of 3

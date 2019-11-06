@@ -1,0 +1,21 @@
+TransTips op NWU-webwerf
+
+
+
+
+
+
+POTCHEFSTROOM – Op grond van die suksesvolle implementering in die intranetomgewing van die Noordwes-Universiteit (NWU) gedurende 2007, sal TransTips, ’n meertalige begripsassistent, na die hele NWU-webomgewing uitgebrei word.
+
+Die ontwikkeling van TransTips is een van die sleutelprojekte om 'n meertalige werksomgewing by die NWU te vestig, aangesien die NWU-taalbeleid die gebruik van vier werkstale, naamlik Afrikaans, Engels, Sesotho en Setswana, vereis.
+
+TransTips sal eindgebruikers help om ’n teks in ’n ander taal te verstaan, wat beteken dat dit vir 'n leser moontlik is om 'n dokument wat byvoorbeeld in Engels gepubliseer is, in Afrikaans, Setswana of Sesotho te lees, na gelang van watter woordelys geaktiveer word.  TransTips bied slegs woordvertalings en nie kontekssensitiewe vertalings nie.
+
+Terwyl die Direktoraat Taalsake die vertaling van die kernwoordeskat hanteer het, het CTexT die programmatuur ontwikkel en behou ook die kopiereg daarop.  TransTips is ook CTexT se eerste oopbronkode-inisiatief, wat beteken dat die programmeringskode vryelik beskikbaar gestel sal word vir ander ontwikkelaars.
+
+Die bevordering van meertaligheid is van onskatbare waarde in `n land soos Suid-Afrika waar `n aantal amptelike landstale voorkom.  Daarom bied inisiatiewe soos TransTips groot moontlikhede om lewensvatbare meertalige werksomgewings in die hand te werk.
+
+Kontak gerus vir prof Marlene Verhoef, Institusionele Direkteur: Taaldirektoraat by (018) 299 1505 of Marlene.Verhoef@nwu.ac.za (Link: mailto:Marlene.Verhoef@nwu.ac.za) vir meer inligting.
+
+Klik hier (Link: http://www.nwu.ac.za/news/static-content/Movie.TTips.Afr.Tutorial.1.0.0.MJP.2008-04-17.wmv) om 'n tutoriaal te sien oor hoe om TransTips te gebruik.
+

@@ -1,0 +1,895 @@
+Landbou-insette 
+Jaargewasse 
+Oppervlakte geoes vir graan 
+Oppervlakte beplant vir graan 
+Kontantgewas 
+Graangewasse 
+Kommersiële plaas 
+Kommersiële boer 
+Oesskatting 
+Oesvooruitskatting 
+Voorligtingsbeampte 
+Boerderyeenheid 
+Voedselgewas 
+Graan 
+Graanproduksie 
+Hektaar 
+Tussengeplante gewas 
+Besproeiing 
+Lewende hawe 
+Natuurboom 
+Objektiewe opbrengsopname 
+Oliegewas 
+Oliesaad 
+Meerjarige gewasse 
+Plantasiebome 
+Peulgewas 
+Subjektiewe opbrengsopname 
+Bestaansboer 
+Opbrengs 
+Opbrengs per geoeste oppervlakte 
+Opbrengs per beplante oppervlakte 
+Bywoon (onderwysinstelling) 
+Verpligte onderwys 
+Onverwerkte inskrywingsverhouding 
+Uitsakkoers 
+Onderwysprestasie 
+Onderwysvlak bereik 
+Onderwysinstelling 
+Inskrywingsverhouding 
+Studieveld 
+Formele onderwys 
+Graad 
+Graadspesifieke inskrywingsverhouding 
+Bruto inskrywingsverhouding (BIV) 
+Hoogste onderwysvlak 
+Innamesyfer 
+Laatbeginnersyfer 
+Leerder:opvoeder-verhouding 
+Geletterdheid 
+Geletterdheidskoers 
+Geletterdheidsverhouding 
+Bevorderingskoers 
+Leerling:onderwyser-verhouding 
+Kwalifikasie 
+Herhalingskoers 
+Skolier 
+Student 
+Uithousyfer 
+Waarnemende huishoudingshoof 
+Ouderdom 
+Ouderdom in voltooide jare 
+Loseerder (huishouding) 
+Doodsoorsake 
+Kind (wetlik) 
+Kind (verwantskap) 
+Kinders ooit gebore 
+Denominasie 
+Gestremdheid 
+Geskei [geskeide ...] 
+Gender 
+Genderontleding 
+Belemmering 
+Baba 
+Taal wat die meeste in die huishouding gepraat word 
+Laaste kind gebore 
+Woon saam soos ’n getroude paar 
+Huwelikstaat 
+Huwelik 
+Getroud [getroude ...] 
+Lewensgenoot 
+Bevolkingsgroep 
+Ras 
+Geloof 
+Van tafel en bed geskei [van tafel en bed geskeide ...] 
+Regtens geskei [regtens geskeide ...] 
+Geslag 
+Geslagsverhouding 
+Enkellopend (algemene gebruik) [enkellopende ...] 
+Ongetroud (wetlik) [ongetroude ...] 
+Besoeker (huishouding) 
+Weduwee 
+Weduwee/wewenaar 
+Wewenaar 
+Jeugdige 
+09-boek (Geografie) 
+Adres, fisies [fisiese adres] 
+Administrasiegebied 
+Administratiewe gebied (ou Transkei) 
+Sensusgeografie 
+Afbakening, sensus- (sensusafbakening) 
+Digtheid, bevolkings- [bevolkingsdigtheid] 
+Distriksbestuursgebied 
+DBG 
+OG 
+Bevolkingstelling 
+Opnemersgebied (OG) 
+Opnemersgebiednommer 
+Opnemersgebiedtipe 
+Teller 
+Opnemer se opsommingsboek (Geografie) 
+Erf 
+Erfnommer 
+Erwe 
+Kenmerkgebruik (i.v.m. adressering) 
+Geografiese Inligtingstelsel (GIS) 
+Geografiese tipe 
+Hoë digtheid [hoëdigtheids-] 
+Inrigting (afbakening) 
+Lysting 
+Lae digtheid [laedigtheids-] 
+Landdrosdistrik 
+Hoofplek 
+Metropolitaanse gebied 
+Munisipaliteit (Geografie) 
+Niestedelik [niestedelike ...] 
+Fisiese adres (Geografie) 
+Pleknaam 
+Posadres 
+Primêre adres 
+Landelik [landelike ...] 
+Sekondêre adres 
+Nedersettingstipe 
+Grootte en digtheid van lokaliteit 
+Subplek 
+Voorstad 
+Township (apartheid) 
+Dorp (opmeting) 
+Tradisionele gebied 
+Stamgebied 
+Eenheid-ID 
+Eenheidsidentifiseerder 
+Stedelik [stedelike ...] 
+Dorpie 
+Werkershostel (Geografie) 
+Ouderdomspesifieke fertiliteit 
+Geboortegewig 
+Kindersterftesyfer 
+Bydraende doodsoorsake 
+Onverwerkte geboortesyfer 
+Onverwerkte sterftesyfer 
+Huidige lewende geboortes 
+Sterfte 
+Fertiliteit 
+MIV 
+Menslike immuniteitsgebrekvirus (MIV) 
+Onmiddellike doodsoorsaak 
+Baba- en kindersterftesyfer 
+Babasterftes 
+Laat geboorteregistrasies 
+Vernaamste onderliggende doodsoorsaak 
+Lewensverwagting 
+Lewende geboorte 
+Moedersterftesyfer 
+Moedersterfteverhouding 
+Veelvoudige doodsoorsake 
+Neonatale sterftes 
+Post-neonatale sterftes 
+Swangerskapsverwante dood 
+Geregistreerde lewende geboortes 
+Doodgeboorte 
+Oorlewingskoers 
+Oorlewingskap 
+Totale fertiliteitsyfer 
+Onder-vyf-sterfte 
+Onderliggende doodsoorsaak 
+Verbruiksbesteding 
+Duursame goedere 
+Huishoudingsbates 
+Huishoudingsonderneming 
+Huishoudelike uitgawes 
+Huishoudelike inkomste 
+Nieverbruiksbesteding 
+Nieduursame goedere 
+Halfduursame goedere 
+Woonstelblok 
+Gebou 
+Kamp 
+Gesamentlike woonkwartier / gemeenskaplike woonkwartier 
+Omskepte hostel 
+Huiswerkerskwartier 
+WE 
+Woning 
+Woning, informeel [informele woning] 
+Woning, tradisioneel [tradisionele woning] 
+Wooneenheid (WE) 
+Woning, ongeokkupeerd [ongeokkupeerde woning] 
+Woning, onbewoon [onbewoonde woning] 
+Elektrisiteit vir kook-, verhittings- en/of verligtingsdoeleindes 
+Elektrisiteitsonderneming 
+Woonstel 
+Formele woning 
+Gratis basiese elektrisiteit 
+Gratis basiese water 
+Hostel 
+Hotel 
+Huis 
+Behuisingseenheid 
+Higiëniese toiletgerief 
+Indeks van fisiese volume van elektrisiteitsproduksie  (Maatskaplike Statistieke) 
+Informele woning 
+Informele nedersetting 
+Inrigting (bevolkingstelling) 
+Kombuis 
+Woonkwartier 
+Nieresidensiële gebou 
+Aangelegde water in woning of op perseel 
+Huurgeld 
+Private hotel 
+Kamer 
+Sanitasie 
+Skakelhuis 
+Hut 
+Plakkersgebied 
+Erf 
+Huurder 
+Besit 
+Toilet 
+Toiletgerief 
+Toeristehotel 
+Meenthuis 
+Tradisionele woning 
+Eenheid elektrisiteit 
+Onbeboude erf 
+Werkershostel (Maatskaplike Statistieke) 
+Erkenning van geldskuld 
+Aanbouings en verbouings 
+Rekening 
+Siviele uitspraak 
+Siviele dagvaarding 
+Skoonmaakdiens 
+Gedwonge likwidasie 
+Vonnis by toestemming 
+Vonnis by verstek 
+Uitvoer 
+Vry aan boord 
+Vry op spoor 
+Gigawatt-uur (GWh) 
+Invoer 
+Indeks van fisiese volume van elektrisiteitsproduksie (Handel- en  Nywerheidstatistieke) 
+Indeks van fisiese volume van fabrieksproduksie 
+Indeks van fisiese volume van mynbouproduksie 
+Insolvensie 
+Afbetalingsverkoopstransaksie 
+Likwidasie 
+Gedingvoerders 
+Gedingvoerders verwys 
+Netto wins of verlies voor belasting 
+Ooprekeningtransaksie 
+Ander skuld 
+Ander redes vir onderbenutting 
+Ander residensiële geboue 
+Ander dienste 
+Persentasie onderbenutting van produksievermoë 
+Persentasie benutting van produksievermoë (vervaardigingsnywerheid) 
+PGM’e 
+Eiser 
+Platinumgroepmetale 
+Professionele dienste 
+Promesse 
+VT-tjeks 
+Heruitvoergoedere 
+Verwysingsmaand 
+Verwys-na-trekker-tjek 
+Kleinhandelsbedryf 
+Kleinhandelaar 
+Stratum 
+Vrywillige likwidasie 
+Gewig (vervaardigingshoofgroep) 
+Gewig (mineraalgroep) 
+Groothandelaar 
+Groothandelsbedryf 
+Daadwerklike stappe om werk te soek 
+Gemiddelde maandelikse verdienste teen konstante 2000-pryse 
+Gemiddelde maandelikse verdienste teen huidige pryse 
+Los werknemers 
+Ontmoedigde werksoeker 
+Huiswerker 
+Ekonomiese aktiwiteit (Werkverskaffing en Pryse) 
+Ekonomiese sektor 
+Ekonomiese status 
+Ekonomies aktiewe persoon 
+Opvoedkundige vlak 
+Persone in diens 
+Persoon in diens 
+Werknemer (Werkverskaffing en Pryse) 
+Werknemersarbeid teen konstante besoldiging 
+Werkgewer 
+Werk 
+Werk, informeel [informele werk] 
+Gesinsvoordeel 
+Formele sektor 
+Volledige werkverskaffing 
+Voltydse werknemer 
+Bruto verdienste 
+Ure gewerk 
+Inkomste (maatskappy) 
+Inkomste (individu) 
+Informele sektor (Werkverskaffing en Pryse) 
+Betrekking 
+Arbeidsopnemingskoers 
+Arbeidstate 
+Arbeidskoste 
+Arbeidsmag 
+Arbeidsmag-deelnamekoers 
+Arbeidsmark 
+Arbeidsmarkdinamiek 
+Arbeidsmarkstatus 
+Arbeidsdeelnamekoers 
+Wetlike werksouderdom 
+Bevolking wat nie ekonomies aktief is nie 
+Beroep 
+Beroepsgroepe 
+Amptelike en uitgebreide definisie van werkloosheid 
+Buite arbeidsmark 
+Oortyd 
+Betaalde oortydure 
+Oortydbetalings 
+Werker vir eie rekening 
+Deeltydse werknemers 
+Pensioentrekker 
+Prestasie- en ander bonusse 
+Vaste werknemer 
+Persoon buite die arbeidsmag 
+Pos 
+Besoldiging 
+Besoldiging van werknemers 
+Afgetrede persoon 
+Salarisse en lone 
+Persoon in eie diens 
+Halfgeskoolde werknemer 
+Skeidings-, diensbeëindigings- en oortolligheidsbetalings 
+Geskoolde werknemer 
+Tydelike afwesigheid (van werk) 
+Tydelike werknemer 
+Werklose (uitgebreide definisie) 
+Werklose persoon (amptelike of streng definisie) 
+Werkloosheid 
+Werkloosheidskoers 
+Ongeskoolde werknemers 
+Vakatures 
+Vakante pos 
+Arbeid 
+Werkers 
+Werksouderdom 
+Werksleeftyd (wetlik) [wetlike werksleeftyd] 
+Werksouderdombevolking 
+Rekening 
+Aanvullende aktiwiteit (Nasionale Rekeninge) 
+Balanseeritem 
+Basiese pryse 
+Normjare 
+Biota 
+Kapitaaloordrag in natura 
+Kontantoordrag 
+Opvanggebied 
+Kommoditeitsvloei-metode 
+Vergoeding van werknemers 
+Konstante pryse (BBP) 
+Verbruik 
+Kosprys, versekering en vrag (k.v.v.) 
+Ruolie 
+Heersende pryse (BBP) 
+Lopende oordragte 
+Onderneming (Nasionale Rekeninge) 
+Omgewingsboekhouding (SOEB-raamwerk) 
+Instansie (Nasionale Rekeninge) 
+Evapotranspirasie 
+Faktorkoste 
+Gevulde pos 
+Eindvraag 
+Finansiële dienste indirek gemeet (FDIG) 
+Prys vry aan boord (v.a.b.) 
+Voltydse ekwivalente 
+BBP 
+BBP teen konstante pryse 
+BBP teen heersende pryse 
+BBP teen faktorkoste 
+BBP teen markpryse 
+BBP vir die ekonomie 
+BBP per streek (BBPS) 
+Inkomstegenereringsrekening 
+Goedere-en-dienste-rekening 
+Bruto binnelandse produk (BBP) 
+Bruto bedryfsurplus/gemengde inkomste 
+Bruto waarde toegevoeg teen basiese pryse 
+Bruto waarde toegevoeg teen produsentepryse 
+Grondwater 
+Homogene produksie 
+Werklike eindverbruik deur huishouding 
+Eindverbruiksbesteding deur huishouding 
+Geïmpliseerde deflator 
+Inkomste uit werk 
+Nywerheid (Nasionale Rekeninge) 
+Gemiddelde jaarlikse afloop 
+Gemengde inkomste 
+Nasionale rekeninge 
+Aardgas 
+Natuurlikehulpbron-boekhouding (NHB) 
+Natuurlike hulpbronne 
+Netto ander belastings op produksie 
+Instelling sonder winsoogmerk 
+Instellings sonder winsoogmerk wat huishoudings dien (ISWHD) 
+Niehernubare natuurlike hulpbronne 
+Ander subsidies op produksie 
+Ander belastings op produksie 
+Lewering 
+Oortrekking 
+Uitbetaalde dividend 
+Per capita-BBP 
+Per capita-inkomste 
+Fisiese boekhouding 
+Primêre nywerhede 
+Hoofbedrywigheid (instansie) 
+Produsenteprys 
+Produksie 
+Produksierekening vir die totale ekonomie 
+Produksiegrens 
+Kopersprys 
+Herhalende uitgawe 
+Streek 
+Streek-BBP 
+Teruggehoue reserwes 
+Revaluasie 
+Hersiening van ramings 
+MSEB 
+Seisoenale aanpassing 
+Sekondêre bedrywigheid (Nasionale Rekeninge) 
+Sekondêre nywerhede 
+SOEB 
+Matriks van sosiaal-ekonomiese boekhouding 
+Vierkantige matriks 
+Subsidies op produkte 
+Aanbod- en gebruikstabelle 
+Aanbodtabel 
+AG-tabelle 
+Simmetries 
+Stelsel van Omgewings- en Ekonomiese Boekhouding (SOEB) 
+Stelsel van Nasionale Rekeninge 
+Belastings op inkomste 
+Belastings op produksie en invoer 
+Belasting op produkte 
+Tersiêre nywerhede 
+Oordrag 
+Oordrag in natura 
+Skatkiswissel 
+Toerismegebruikstabel 
+Waarde toegevoeg (Nasionale Rekeninge) 
+Waarde toegevoeg deur die nywerheid 
+Waardetoevoegingskomponente 
+Waterbestuursgebied 
+Vuurproefverhouding 
+Verkryging van vaste bates 
+Staat van totale kapitaalbesteding 
+Totale of gekonsolideerde balansstaat 
+Koste van kapitaal 
+Kapitaalbesteding 
+Kapitaalbesteding aan nuwe bates 
+Kapitaaloordragte 
+Kollektiewe dienste 
+Werknemersvergoeding 
+Werknemersvergoeding en -toelaes 
+Bedryfsbates (Finansiële Statistiek) 
+Bedryfsverhouding 
+Skuldbrief 
+Waardevermindering 
+Distriksmunisipaliteit 
+Woning, huis 
+Ekonomiese klassifikasie 
+Besteding 
+Buitebegrotingsrekeninge 
+Finansiële instelling 
+Funksionele klassifikasie 
+Algemene besteding 
+Algemene regering 
+Behuisingsdienste 
+Individuele dienste 
+Infrastruktuur 
+Geïntegreerde Ontwikkelingsplan 
+Interne lenings 
+Belegging in bemarkbare sekuriteite 
+Lening 
+Plaaslike Ekonomiese Ontwikkeling 
+Plaaslike regering 
+Plaaslike regeringsinstellings 
+Plaaslike munisipaliteit 
+Langtermynlening 
+Masjinerie en toerusting 
+Bestuursposte 
+Bemarkbare leningseffekte 
+Memorandumitems 
+Metropolitaanse munisipaliteit 
+Geldmarkinstrumente 
+Munisipaliteit (Finansiële Statistiek) 
+Niefinansiële openbare onderneming 
+Ander besteding 
+Ander masjinerie en toerusting 
+Persentasieverandering 
+Voorsiening 
+Openbare finansiële instellings 
+Kwartaallikse persentasieverandering tussen ’n spesifieke kwartaal van  die vorige jaar en die ooreenstemmende kwartaal van die huidige jaar 
+Kwartaallikse persentasieverandering tussen die ooreenstemmende  kwartaal van die vorige jaar en die huidige jaar 
+Kwartaallikse persentasieverandering (besoldiging) 
+Eiendomsbelasting en algemene dienste 
+Verwysingskwartaal (opname) 
+Herstelwerk en instandhouding 
+Reserwe 
+Residensiële geboue 
+Salarisse, lone en toelaes 
+Verkope (vervaardiging) 
+Verkope (mynbou) 
+Korttermynlening 
+Staande bewilligings 
+Statutêre bewilligings 
+Subsidies 
+Subsidies op produksie 
+Subsidies op produkte 
+Diverse debiteure 
+Handelsdienste 
+Trustfondse (plaaslike owerheid) 
+Ontoewysbare uitgawes 
+Pos 
+Waterdiensontwikkelingsplan 
+09-boek (Sensus) 
+Afwesige lid van huishouding (onderhoud) 
+Afwesige lid van huishouding (verwysingsaand) 
+Sensusdatum 
+Sensusdag 
+Sensusvooraand 
+Sensusfases 
+De facto-sensus 
+De jure-sensus 
+Huiswerker, inwonend [inwonende huiswerker] 
+Bevolkingstelling 
+Teltydperk 
+Telfase 
+Opnemer 
+Opnemer se opsommingsboek (Bevolkingsensus) 
+Veldwerkpunt 
+Huishouding 
+Huishoudingshoof 
+Huishoudingshoof, waarnemend [waarnemende huishoudingshoof] 
+Huishoudelike inkomste (sensus) 
+Gebrek 
+Intrekker 
+Inwonende huiswerker 
+Vergelyking 
+Geen kontak 
+Blyer 
+Wegtrekker 
+Dubbeltelling 
+NTO (natellingopname) 
+Geboorteplek 
+Telplek 
+Gewone woonplek 
+Bevolkingsensus 
+Natellingsfase 
+Natellingopname (NTO) 
+Voortellingsfase 
+Verwantskap met huishoudingshoof of waarnemende huishoudingshoof 
+Opgeloste geval 
+Ondertelling 
+Onopgeloste geval 
+Absolute armoedegrens 
+Ontbindbare armoede-indeks (OAI) 
+Bestedingsgaping-verhouding (BGV) 
+Gini-indeks 
+Armes:bevolking-verhouding 
+Minimum aanvaarbare lewenstandaard 
+Armoedegaping 
+Armoedegaping-indeks 
+Armoedegrens 
+Armoedeprofiel 
+Prioriteitsarmoedeaanwysers 
+Relatiewe armoede 
+Relatiewe armoedegrens 
+Geadministreerde pryse 
+Jaarlikse inflasiekoers 
+Jaarlikse persentasieverandering (indeks) 
+Gemiddelde jaarlikse inflasiekoers 
+Gemiddelde jaarlikse persentasieverandering 
+Verbruikersprysindeks (VPI) 
+Verbruikersprysindeks uitsluitende rentekoerse op verbande (VPIX) 
+Bydraes van spesifieke produkte tot die totale VPI 
+Kernindeks 
+Kerninflasie 
+VPI 
+VPIX 
+Bedryf (Werkverskaffing en Pryse) 
+Aanwyserprodukte 
+Inflasie 
+Inflasiekoers 
+Maandelikse persentasieverandering 
+Algehele gemiddelde jaarlikse persentasieverandering 
+Gereguleerde pryse 
+Gewig 
+Bate 
+Bedryfsbates (Private Sektor) 
+Bedryfslas 
+Dividende 
+Onderneming (Privaatsektorstatistieke) 
+Vaste bates 
+Ontasbare bates 
+Niebedryfsbates 
+Voorraad 
+Netto wins of verlies 
+Netto wins of verlies ná belasting 
+Aankope 
+Streeksdiensteheffing 
+Sekuriteitsdienste 
+Belasting en maatskappybelasting in berekening geneem 
+Omset (Finansiële Statistieke) 
+Aanvaarbare statistieke 
+Aktiewe metadata 
+Aanpassing vir statistiese doeleindes 
+Sensus 
+Klassifikasie 
+Klassifikasie, standaard- [standaardklassifikasie] 
+Trossteekproefneming 
+Koue toerekening 
+Data 
+Datavertroulikheid 
+Dataredigering 
+Data-element 
+Data-item 
+Definisie 
+Dinamiese toerekening 
+Warm toerekening 
+Toerekening 
+Onderhoud, direk [direkte onderhoud] 
+Logiese toerekening 
+Makrodata 
+Metadata 
+Metadatalêerstelsel 
+Metodologie 
+Mikrodata 
+Meerstadiumsteekproefneming 
+Nasionale statistieke 
+Niesteekproeffout 
+Amptelike statistieke 
+Passiewe metadata 
+Swak statistieke 
+Primêre steekproefeenheid (PSE) 
+Instaner 
+Vraag 
+Twyfelagtige statistieke 
+Vraelys 
+Vraelysontwerp 
+Koers 
+Koers van verandering 
+Verwysingstydperk 
+Weiering 
+Weieringsbrief/-vorm 
+Respondent 
+Steekproef 
+Steekproefopname 
+Steekproefneming 
+Steekproeffout 
+Steekproefraamwerk (Metodologie en Standaarde) 
+Steekproefmetode 
+Selftelling 
+Eenvoudige ewekansige steekproefneming 
+Statistiese standaard 
+Statistiese eenheid 
+Gestratifiseerde steekproefneming 
+Opname 
+Sistematiese steekproefneming 
+Akkommodasiediensonderneming 
+Aktiewe onderneming 
+Aktiwiteit 
+Aanvullende aktiwiteit (Registerstelsel) 
+Geassosieerde maatskappy 
+Balanseerdatum 
+Ontbinding 
+Nuutgestig (verwys na lewensiklus) [nuutgestigte ...] 
+Tak van ’n onderneming 
+Tak van ’n buitelandse onderneming 
+Sake-steekproefraamwerk (SSR) 
+Gesluit (verwys na lewensiklus) 
+Beslote korporasie (BK) 
+Klub, welsynsorganisasie, vereniging sonder winsoogmerk 
+Komplekse ondernemingseenheid 
+Kontinuïteitsreël 
+Kontraktuele gesamentlike onderneming 
+Koöperatiewe vereniging 
+Korporatiewe gesamentlike onderneming 
+Dekking 
+Onaktiewe onderneming 
+Afbakening 
+Demografiese gebeurtenis van ’n statistiese eenheid 
+Depot 
+Rustend 
+E-handel 
+Ekonomiese hoofverdeling 
+Ekonomiese produksie 
+Ekonomiese betekenis 
+Werknemer (Registerstelsel) 
+Ondernemingsopname 
+Ondernemingsomset 
+Ondernemingseenheid 
+Instelling (Registerstelsel) 
+Boerderyeenheid (Registerstelstel) 
+Boekjaar 
+Vloeidiagram 
+Raamwerkgroottemaat 
+Algemene ekonomiese produksie 
+Geografiese eenheid 
+GEO 
+Staatsinstellings 
+Bruto salarisse en lone 
+Toponderneming van groep 
+Hektaar grond 
+Historiese reëls van nywerheidsklassifikasie 
+Beheermaatskappy 
+Horisontale integrasie van ekonomiese aktiwiteite 
+Horisontale integrasie van ondernemingseenheid 
+Ongeïnkorporeerde huishoudelike ondernemings 
+Ongeïnkorporeerde huishoudelike markondernemings 
+Onmiddellike moedermaatskappy 
+Inkomstebelastingomset 
+Individuele eienaarskap 
+Nywerheidsaktiwiteit 
+Industrie (Registerstelsel) 
+Informele sektor (Registerstelsel) 
+Institusionele sektor 
+Internasionale Standaardnywerheidsklassifikasie vir alle ekonomiese aktiwiteite (ISNK) 
+Ondersoek 
+Afsluitingsverslag van ondersoek 
+Soortaktiwiteit-eenheid 
+Beskrywingsveld vir soortaktiwiteit-eenheid 
+Soortonderneming-eenheid 
+Laaste bywerking op SSR 
+Regsentiteit 
+Regseenheid 
+Lewensiklus (statistiese eenheid) 
+Ligging (statistiese eenheid) 
+Posadres 
+Hoofaktiwiteit 
+Onderhoudsprosedures 
+Samesmelting 
+Veelvoudige aktiwiteite 
+Statistiese eenheid met veelvoudige struktuur 
+Munisipale kode 
+Instellings sonder winsoogmerk 
+Aantal kamers vir akkommodasie 
+Oorsprongklassifikasie 
+Tipe eienaarskap (van besigheid) 
+Vennootskap 
+Fisiese adres (Registerstelsel) 
+Hoofaktiwiteit 
+Prioriteitsreël 
+Private maatskappy 
+Produksie deur derde partye op ’n kommissie- of kontrakbasis 
+Profielbestuurder 
+Profilering 
+Publieke maatskappy 
+Openbare korporasie 
+Kwasi-korporasie 
+Ewekansige getal 
+Gereaktiveer 
+Steekproefraamwerk (Registerstelsel) 
+Sekondêre aktiwiteit (Registerstelsel) 
+SNK 
+Enkelstruktuur- statistiese eenheid 
+Grootte-aanwyser van statistiese eenheid 
+Alleeneienaarskap 
+Bywerkingsbron op SSR 
+Onderverdeling 
+Standaardnywerheidsklassifikasiekode 
+Standaardnywerheidsklassifikasie van alle ekonomiese 
+Statistiese eenheid 
+Statistiese eenheidstruktuur 
+Filiaal 
+Oorname 
+Belastingskakel 
+Totale gehaltebestuur 
+Besigheidsnaam 
+Omset (Registerstelsel) 
+Uiteindelike beheermaatskappy 
+Ongeïnkorporeerde onderneming 
+BTW-outobywerking 
+BTW-omset 
+Vertikale integrasie van ekonomiese aktiwiteite 
+Vertikale integrasie van ondernemingseenheid 
+Bedbesettingskoers (toerisme) 
+Land van inwoning 
+Gedokumenteerde immigrant 
+Binnelandse toerisme 
+Verbruik deur binnelandse toerisme 
+Binnelandse toeris 
+Binnelandse besoeker 
+Buitelandse reisiger 
+Buitelandse besoeker 
+Inkomende toerisme 
+Verbruik deur inkomende toerisme 
+Inkomende toeris 
+Inkomende besoeker 
+Inkomste uit akkommodasie 
+Inkomste uit restaurante en kroegverkope (toeriste-akkommodasie) 
+Inkomste per verblyfeenheidnagte verkoop 
+Institusionele eenheid 
+Tussenverbruik 
+Interne toerisme 
+Verbruik deur interne toerisme 
+Internasionale migrasie 
+Internasionale toerisme 
+Verbruik deur internasionale toerisme 
+Internasionale toeris 
+Internasionale reisiger 
+Internasionale besoeker 
+Lewenslange migrant 
+Migrasie 
+Nasionale toerisme 
+Verbruik deur nasionale toerisme 
+Besettingskoers, bed- [bedbesettingskoers] 
+Besettingskoers, verblyfeenheid- 
+Ander inkomste (toeriste-akkommodasie) 
+Vertrekkende toerisme 
+Verbruik deur vertrekkende toerisme 
+Vertrekkende toeris 
+Vertrekkende besoeker 
+Oornagbesoeker/-toeris 
+Oorsese besoeker (toerisme en migrasie) 
+Doel van besoek 
+Woonplek 
+Terugkerende migrant 
+Kamerbesettingskoers 
+Eendagbesoeker 
+Selfverklaarde emigrant 
+Verblyfeenheid 
+Verblyfeenheidnagte verkoop 
+Verblyfeenheidbesettingskoers (toerisme) 
+Totale inkomste (toeriste-akkommodasie) 
+Totale inkomste uit akkommodasie (toeriste-akkommodasie) 
+Toerisme 
+Aktiwiteit van toerismeaard 
+Bedryf van toerismeaard 
+Produkte van toerismeaard 
+Kollektiewe toerismeverbruik 
+Toerismeverwante aktiwiteite 
+Toerismeverwante produkte 
+Toerismeverbruik 
+Toerismevraag 
+Bruto binnelandse produk van toerisme 
+Bruto vastekapitaalvorming deur toerisme 
+Toerismebedryf 
+Verbruik deur interne toerisme 
+Niespesifieke toerismeprodukte 
+Toerismesektor 
+Toerismespesifieke geproduseerde vaste bates 
+Toerismespesifieke produkte 
+Toerismewaarde toegevoeg 
+Toeris 
+Toeriste-akkommodasie 
+Reisiger 
+Reisiger, binnelands [binnelandse reisiger] 
+Reisiger, buitelands [buitelandse reisiger] 
+Reisiger, internasionaal [internasionale reisiger] 
+Reisiger, oorsee [oorsese reisiger] 
+Reis 
+Gebruiklike omgewing 
+Waarde toegevoeg (Gesondheids- en bevolkingstatistieke) 
+Waarde toegevoeg deur die toerismebedrywe 
+Besoekersverbruik 
+Besoeker, binnelands [binnelandse besoeker] 
+Besoeker, internasionaal [internasionale besoeker] 
+Besoekersuitgawes 
+Besoeker (toerisme) 
+Landbou 
+Onderwys 
+Algemene demografie 
+Geografie 
+Gesondheids- en bevolkingstatistieke 
+Huishoudelike inkomste en uitgawes 
+Behuising en dienste 
+Handel en nywerheid 
+Arbeid 
+Nasionale rekeninge 
+Nasionale, provinsiale en plaaslike regering 
+Bevolkingsensus 
+Armoede 
+Pryse 
+Private sektor 
+Statistiese prosesse/metodologie/ metadata 
+Sakeregisterstelsel 
+Toerisme en migrasie 

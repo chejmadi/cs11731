@@ -1,0 +1,554 @@
+Inligting met betrekking tot Inkomstebelasting
+Agtergrond 1
+Voltooiing van die opgawe 2 Geregistreerde besonderhede van die trust 2 Besonderhede van bankrekening 2
+Verklaring deur verteenwoordigende belastingpligtige 3
+Besonderhede van ander trustees 3
+Opsomming van inkomste belasbaar in die trust 3 Bronkodes van hoofbedryf en hoofbron van inkomste 3 Belasbare inkomste 4
+Werknemersbelasting en buitelandse belastingkrediete 4
+Inkomste vir verdeling Inkomste belasbaar in die hande van begunstigdes 5 Inkomste belasbaar in die hande van ander persoon / persone 5
+Buitelandse dividende 7
+Buitelandse inkomsteskedule 7
+Kapitaalwins / verlies 9
+Persoonlike dienstrust 12
+Vasstelling van die belasbare inkomste van die trust
+Ontvangstes en toevallings 13 Besoldiging 13 Annuïteite 13 Rente 13 Artikel 24J 14 Huurinkomste 15 Besigheidsinkomste 15 Ander inkomste 15 Vrygestelde inkomste 15 Totale ontvangstes en toevallings 15 Boerdery-inkomste 16
+Uitgawes Direkte uitgawes 24 Indirekte uitgawes 24
+Netto inkomste volgens die inkomstestaat of administrasierekening 24 Ontoelaatbare uitgawes 24 Toelaes en aftrekkings 25
+Aftrekking ten opsigte van depresiasie 25 Belasbare inkomste beskikbaar vir verdeling 26
+Inkomste belasbaar in die trust (skale van normale belasting) 27
+Bates en laste 28
+Algemeen 28
+Mynbouskedules 30 Hierdie opgawe moet volledig ingevul word. Indien enige deel van die opgawe nie volledig ingevul is nie, sal dit verwerp word en teruggestuur word vir volledige voltooiing.
+Die opgawe van die trust moet ingedien word op die datum soos aangedui op die opgawe.
+Indien dit nie moontlik is om die opgawe binne die voorgeskrewe periode in te dien nie, moet u skriftelik om uitstel vir die indiening daarvan aansoek doen op die SARS webwerf of deur 'n skriftelike versoek by u plaaslike SARS-kantoor in te dien.
+Indien u reeds 'n opgawe vir die trust ten opsigte van hierdie jaar van aanslag ingedien het, moet u hierdie opgawe terugstuur en daarop die inkomstebelastingverwysingsnommer en die SARS-kantoor waarheen u die opgawe gestuur het, aandui.
+Indien daar onvoldoende spasie vir enige item op die opgawe is, moet u die tersaaklike besonderhede op 'n aparte skedule verstrek en by die opgawe aanheg.
+Indien u 'n opgawe ten opsigte van die trust ontvang het, moet dit voltooi en teruggestuur word, selfs as die trust dormant is of geen inkomste vir die jaar van aanslag gegenereer het nie.
+Moenie enige betalings of korrespondensie, wat nie op hierdie opgawe betrekking het, daarby insluit nie.
+In hierdie brosjure word breedvoerig uiteengesit watter inligting benodig word vir die korrekte voltooiing van die opgawe. U aandag word ook gevestig op die Praktyknotas en "Interpretation Notes" wat deur die Kommissaris van die Suid-Afrikaanse Inkomstediens uitgereik word.
+LET WEL:
+Alle aangehegte skedules en addisionele bylaes moet ooreenkomstig die betrokke dele soos in die opgawe aangedui, genommer word.
+Hierdie opgawe moet vergesel word van die volgende dokumente:
+n Gedetailleerde inkomstestaat / administrasierekening;
+Addisionele inligting soos aangevra in die inligtingsbrosjure, op aparte eendersgenommerde skedules.
+AANSPREEKLIKHEID VIR VOORLOPIGE BELASTING
+Enige trust wat inkomste vanuit 'n ander bron(ne) as besoldiging (bv. besigheid, boerdery, rente en huur) verkry het, sal beskou word as 'n voorlopige belastingpligtige en moet binne 30 dae nadat die trust 'n voorlopige belastingpligtige geword het, as sodanig registreer by die SARS-kantoor waar die trust op register is.
+Indien daar nagelaat word om as 'n voorlopige belastingpligtige te registreer, kan dit lei tot die heffing van addisionele belasting (boete) en rente op onderbetaling van voorlopige belasting.
+Enige beswaar teen 'n aanslag moet skriftelik aangeteken word, moet die gronde van beswaar volledig uiteensit en moet die SARS-kantoor wat op die aanslagkennisgewing aangedui word, binne 30 dae na die datum van aanslag bereik. Kennis moet geneem word van die Regulasies wat ingevolge Artikels 107(A) en 107(B) van die Inkomstebelastingwet uitgevaardig is, om die hantering van besware en appèlle te reguleer (verwys na die SARS webwerf, www.sars.gov.za).
+Indien u beswaar verwerp word of 'n verminderde aanslag uitgereik word as gevolg van die gedeeltelike toelating van u beswaar en u nie tevrede is met die verminderde aanslag nie, mag u appelleer na die Spesiale Inkomstebelastinghof. Enige kennisgewing van appèl moet die gronde waarop dit gebaseer word spesifiseer en moet die SARS-kantoor, wat op die opgawe aangedui word, binne 30 dae vanaf die datum van die kennisgewing van die verwerping / gedeeltelike verwerping van die beswaar, bereik.
+Die verpligting om belasting en rente te betaal, word nie deur die aanteken van 'n appèl opgehef nie.
+Dit is verpligtend vir 'n belastingpligtige om te verseker dat 'n akkurate en volledige openbaarmaking van alle vereiste gegewens en relevante besonderhede gemaak word in die belastingopgawe. Bykomend tot moontlike strafregtelike vervolging en die oplê van boetes, soos voorgeskryf in die Inkomstebelastingwet, vir wanvoorstelling, versuim, weglating, of verskaffing van onjuiste inligting, kan addisionele aanslae (tesame met rente) gehef word na 'n periode van drie jaar vanaf die datum van die oorspronklike aanslag. Om dit te vermy, en deur korrekte aanslae te hef, en om 'n meer doeltreffende inkomstebelastingstelsel mee te bring, is dit in almal se belang dat die inligting in die opgawe korrek en volledig is.
+GEREGISTREERDE BESONDERHEDE VAN DIE TRUST
+Voltooi die wit gedeeltes slegs waar besonderhede verander het of waar dit nie in die skadugedeeltes gedruk is nie.
+TIPE TRUST:
+n "Spesiale trust" tipe A is 'n trust wat uitsluitlik geskep is vir die voordeel van 'n persoon wat ly -
+aan enige "geestesongesteldheid" soos omskryf in Artikel 1 van die Wet op Geestesgesondheid, 1973 (Wet No. 18 van 1973); of enige ernstige liggaamsgebrek, waar sodanige ongesteldheid of gebrek die persoon verhoed om genoegsame inkomste vir daardie persoon se onderhoud te verdien. Die goedkeuring vir die klassifisering as 'n spesiale trust Tipe Amoet verkry word van die regsafdeling by SARS hoofkantoor.
+n "Spesiale trust" tipe B is 'n trust -
+wat geskep is deur of ingevolge 'n testament van 'n oorlede persoon, alleenlik vir die doel van begunstigdes wat familielede met betrekking tot daardie oorlede persoon is, en wat op die datum van die dood van daardie oorlede persoon lewendig is (waarby ingesluit enige begunstigde wat verwek is, maar nog nie op daardie datum gebore is nie), waar die jongste van daardie begunstigdes op die laaste dag van die jaar van aanslag van daardie trust, onder die ouderdom van 21 jaar is.
+n Inter vivos trust is 'n trust wat opgerig word gedurende die leeftyd van die stigter van die trust.'n Testamentêre trust is 'n trust wat opgerig word na die afsterwe van 'n persoon wat voorsiening gemaak het vir die oprigting van sodanige trust in sy/haar testament.'n Vrygestelde trust is 'n trust wat deur die Kommissaris goedgekeur is as 'n trust wat vrygestel is van die betaling van inkomstebelasting ingevolge een van die subartikels van artikel 10 van die Wet.
+Gevestigde reg: Daar is 'n gevestigde reg tot die inkomste van die trust indien die trustakte bepaal dat al die inkomste van die trust toeval aan/uitgekeer word aan/oploop totvoordeel van 'n sekere begunstigde van die trust. Waar 'n begunstigde van 'n trust 'n gevestigde reg op die kapitaal van die trust verkry het, en geen ander persoon het gedurende die jaar van aanslag 'n gevestigde reg totdie inkomste van die trust verkry nie, sal so 'n begunstigde ook 'n gevestigde reg totdie inkomste van die trust hê.
+Diskresionêre reg: Daar is 'n diskresionêre reg tot die inkomste van 'n trust indien die trustakte bepaal dat die trustee(s) van die trust sy of hulle diskresie mag uitoefen om 'n gedeelte van, of al die inkomste van die trust aan 'n begunstigde(s) van die trust uit te keer.
+Kombinasie van reg: Daar is 'n kombinasie van reg indien die trustakte bepaal dat 'n sekere persentasie van die inkomste van die trust toeval aan/uitgekeer word aan/oploop totvoordeel van 'n sekere begunstigde van die trust en dat die trustee(s) van die trust sy of hulle diskresie mag uitoefen om die oorblywende inkomste, of gedeelte daarvan, aan 'n begunstigde(s) van die trust uit te keer.
+ADRES VERANDERING
+Ingevolge Artikel 67 van die Inkomstebelastingwet, moet u binne 60 dae u plaaslike SARS kantoor in kennis stel, indien u korrespondensieadres op enige stadium sou verander het. Sou u versuim om SARS van die verandering in kennis te stel kan dit die heffing van 'n boete,ingevolge Artikel 75 van die Inkomstebelastingwet, totgevolg het.
+BESONDERHEDE VAN BANKREKENING
+Hierdie besonderhede moet verstrek word ten einde SARS in staat te stel om kredietbedrae wat aan die trust verskuldig is, direk in die trust se bankrekening in te betaal om sodoende die moontlikheid dat 'n tjek verlore kan raak of onregmatig gewissel kan word, uit te skakel.
+Dit is belangrik dat die SARS-kantoor waar die trust op register is, skriftelik in kennis gestel word van enige verandering in die bankbesonderhede van die trust.
+Al die trustees van 'n trust is gesamentlik aanspreeklik vir die bestuur van die bates van die trust en sal derhalwe beskou word as die verteenwoordigende belastingpligtiges van die trust. Een van die trustees van die trust aanvaar gewoonlik die verantwoordelikheid vir die hantering van die inkomstebelastingaangeleenthede van die trust. Hierdie gedeelte moet volledig deur sodanige persoon voltooi en onderteken word.
+U aandag word daarop gevestig dat sodanige persoon verantwoordelik is vir die uitvoering van alle verpligtinge wat, in terme van die bepalings van die Wet, ten opsigte van die trust opgelê word, en sal in die geval van die nie-nakoming van sodanige verpligtinge, verantwoordelik gehou word vir die oplegging van enige boete(s) waarvoor voorsiening gemaak word in die geval van versuim van sodanige verpligtinge.
+Indien die spasie wat voorsien is nie voldoende is nie, moet 'n aparte skedule, met die verlangde inligting, aan bladsy 11 van die opgawe geheg word.
+DEEL4.1 BRONKODE VAN HOOFBEDRYF
+Hoofbedryf is die belangrikste aktiwiteit wat deur die trust beoefen word. Verwys na die onderstaande lys wat vir maklike verwysing alfabeties gerangskik is.
+DEEL 4.2 BRONKODE VAN HOOFBRON VAN INKOMSTE
+Dit is die bron waaruit die hoogste bruto inkomste gegenereer word. Dit is nie noodwendig die belangrikste aktiwiteit wat deur die trust beoefen word nie.
+BRON-KODEBESKRYWING BRON-KODEBESKRYWING
+Agentskappe en ander dienste 34 Metaal 12
+Ander vervaardigingsnywerhede 18 Metaalprodukte (uitgesonderd masjinerie en toerusting) 13
+Bakstene, keramiek, glas, sement en dergelike produkte 11 Mynwese en steengroefwerk 02
+Chemikalieë en chemiese-, rubber-en plastiekprodukte 09 Navorsings-en wetenskaplike institute 28
+Elektrisiteit, gas en water 19 Onderwysdienste 27
+Finansiering, versekering, vasteeiendomenbesigheidsdienste 25 Ontspanning en kulturele dienste 31
+Gespesialiseerde hersteldienste 33 Papier, drukwerk en uitgewery 08
+Groothandel 21 Persoonlike en huishoudelike dienste 32
+Hout, houtprodukte en meubels 07 Steenkool-en petroleumprodukte 10
+Kleinhandel (ingeslote posbestellings) 22 Tekstielstowwe 04
+Klerasie en skoeisel 05 Verversings en akkommodasie 23
+Konstruksie 20 Vervoer, opberging en kommunikasie 24
+Landbou, bosbou en vissery 01 Vervoertoerusting (uitgesonderd motorvoertuie onderdele en toebehore) 16
+Langtermynversekeraars 26 Voedsel, drank en tabak 03
+Leer, leerprodukte en pelse (uitgesonderd skoeisel en klerasie) 06 Voertuie, onderdele en toebehore 15
+Maatskaplike en verwante gemeenskapsdienste 30 Werkverskaffing (salaris) 35
+Masjinerie en verwante items 14 Wetenskaplike, optiese en dergelike toerusting 17
+Mediese, tandheelkundige, ander gesondheidsdienste en veeartsenykundige dienste 29
+DELE 4.3 - 4.14 BELASBARE INKOMSTE
+Hierdie gedeelte verteenwoordig 'n opsomming van die belasbare inkomste van die trust.
+Die bedrae (met betrekking tot elke bron van inkomste) soos bepaal in "Vasstelling van die belasbare inkomste van die trust", moet na hierdie deel oorgedra word. Die trust sal belasbaar wees op die inkomste wat gegenereer is deur die trust, nadat die bedrae wat uitgekeer is / toegeval het aan die begunstigdes van die trust, asook die bedrae wat belasbaar is in die hande van 'n ander persoon ingevolge die bepalings van Artikel 7 asook Paragraaf 80 van die Agtste Bylae tot die Wet, afgetrek is van die totale belasbare inkomste van die trust.
+Die sertifikaatnommers van alle werknemersbelastingsertifikate wat aan die trust uitgereik is, sowel as die bedrae wat ten opsigte van werknemersbelasting (LBS) van die bruto besoldiging van die trust afgetrek is, moet verstrek word.
+Die werknemersbelastingsertifikate moet by die opgawe aangeheg word.
+Die werknemersbelasting wat reeds deur 'n werkgewer van die trust verhaal is, kan slegs in berekening gebring word indien die werknemersbelastingsertifikate by die opgawe van die trust aangeheg is.
+Bewyse van enige buitelandse belastingkrediete moet by die opgawe aangeheg word.
+LET WEL:
+Slegs die bedrae wat verband hou met die belasbare inkomste van die trust sal as aftrekking oorweeg word.
+Het u enige buitelandse belasting betaal?
+Eis die bedrag buitelandse belasting betaal ten opsigte van buitelandse dividende, buitelandse rente, enige ander buitelandse inkomste of enige buitelandse kapitaalwins transaksie teenoor die toepaslike kodes (4111, 4112, 4113 en 4114) in deel 4 van u opgawe.
+LET WEL:
+Indien u die keuse sou uitgeoefen het om op netto buitelandse dividende belas te word, sal u eis vir buitelandse belasting betaal ten opsigte van buitelandse dividende ontvang, nie oorweeg word nie.
+U eis ten opsigte van buitelandse belasting betaal sal beperk word ingevolge Artikel 6quatvan die Inkomstebelastingwet, tot die bedrag betaalbaar in Suid-Afrikaanse belasting in verhouding tot die buitelandse inkomste ontvang, deur die volgende formule toe te pas:
+Buitelandse belasbare inkomste x Normale belasting betaalbaar
+Totale belasbare inkomste
+Met aanslag sal die akkumulatiewe bedrag ten opsigte van buitelandse belasting betaal ten opsigte van buitelandse inkomste beperk word tot die normale belasting betaalbaar met betrekking tot die onkoste.
+Watter bewyse vir buitelandse belasting betaal sal aanvaar word?
+Die volgende dokumentasie is voorbeelde van bewyse wat aanvaar sal word vir bedrae wat betaal is ten opsigte van buitelandse belasting indien buitelandse belasting deur die bron daarvan teruggehou is, die oorspronklike dokumentasie ontvang vanaf die betrokke bron;
+indien buitelandse belasting nie deur die bron daarvan teruggehou is nie 'n belastingaanslag of kwitansie uitgereik deur die betrokke belastingowerheid.
+INKOMSTE BELASBAAR IN DIE HANDE VAN BEGUNSTIGDE(S)
+Hierdie deel maak slegs voorsiening vir drie begunstigdes. Indien die spasie onvoldoende is, moet die besonderhede van die ander begunstigdes op 'n aparte skedule verstrek word en by die opgawe aangeheg word. Die besonderhede van die begunstigdes soos aangevra,asook die bedrae aan hulle uitgekeer / gevestig en in hulle hande belasbaar, moet as volg verklaar word:
+Plaaslike belasbare inkomste (uitgesluit plaaslike rente en Kapitaalwins)
+Totale belasbare buitelandse inkomste rente, buitelandse dividende, kapitaalwins / verlies en buitelandse boerderybe drywighede uitgesluit -Rente -plaaslik -Rente -buitelands -Buitelandse dividende -Kapitaalwins / verlies -plaaslik en buitelands -Die totale bedrag van alle ander inkomste vrygestelde inkomste en kapitale ontvangstes uitgesluit uitgekeer aan /
+gevestig in 'n begunstigde Alle buitelandse belastingkrediete (sonder reg tot verhaling), verdeel in die verhouding tot die bedrae uitgekeer aan/gevestig in die begunstigdes, moet in die opgawe getoon word.
+INKOMSTE BELASBAAR IN DIE HANDE VAN 'N ANDER PERSOON / PERSONE (inkomste belasbaar in die hande van enige ander persoon ingevolge die bepalings van Artikel 7, asook Paragraaf 80van die Agtste Bylae tot die Inkomstebelastingwet)
+Hierdie deel maak slegs voorsiening vir een persoon. Indien die spasie onvoldoende is, moet die besonderhede van die ander persone op 'n aparte skedule verstrek word en by die opgawe aangeheg word. Die besonderhede van die persone soos aangevra, asook die bedrae aan hulle uitgekeer / gevestig en in hulle hande belasbaar, moet as volg verklaar word:
+Plaaslike belasbare inkomste (uitgesluit plaaslike rente en kapitaalwins)
+Totale belasbare buitelandse inkomste rente, buitelandse dividende, kapitaalwins / verlies en buitelandse boerdery bedrywighede uitgesluit -Rente -plaaslik -Rente -buitelands -Buitelandse dividende -Kapitaalwins / verlies -plaaslik en buitelands -Die totale bedrag van alle ander inkomste vrygestelde inkomste en kapitale ontvangstes uitgesluit uitgekeer aan /
+gevestig in 'n begunstigde -Alle buitelandse belastingkrediete (sonder reg tot verhaling), verdeel in die verhouding tot die bedrae uitgekeer aan ander persone, moet in die opgawe getoon word.
+Dui die bedrae geëis ten opsigte van toelaes en aftrekkings teenoor die toepaslike kodes in hierdie afdeling aan.
+ARTIKEL 11A - Voor-bedryfsonkoste en verliese n Aftrekking sal toegelaat word vir kwalifiserende voor-bedryfsuitgawes sodra daar met die beoefening van 'n bedryf begin is. Die volgende vereistes moet nagekom word, alvorens voor-bedryfsuitgawes ingevolge Artikel 11Aoorweeg kan word.
+n Bedryf moet beoefen word.
+Die uitgawes moet aangegaan wees voordat daar met die beoefening van die bedryf begin is.
+Die uitgawes moet aangegaan wees ter voorbereiding van die beoefening van die bedryf.
+Die uitgawes moet ingevolge Artikel 11 aftrekbaar wees.
+Die uitgawes mag nie voorheen as 'n aftrekking toegestaan gewees het nie.
+ARTIKEL 11B - Navorsing en ontwikkelingskoste n Aftrekking sal toegelaat word vir onkoste binne die Republiek in verband met navorsing en ontwikkelings, met die doel om 'n ontasbare bate / intellektuele eiendom te skep. Die bepaling maak voorsiening vir operasionele of nie-kapitaal onkoste aangegaan gedurende die jaar van aanslag met die voorbehoud dat:
+Dit aangegaan is in verband met navorsing en ontwikkeling;
+Verband hou met die ontwikkeling of skepping van die intellektuele eiendom;
+Betalings slegs vir die ontdekking van nuwe inligting gemaak word; en
+Die belastingpligtige volle eienaarskap en beheer van die navorsing en ontwikkeling behou. Boonop word daar ook 'n aftrekking toegelaat ingevolge subartikel 3 ten opsigte van die koste van enige gebou, masjinerie of installasie, gereedskap, werktuie en artikels van 'n kapitale aard wat vir doeleindes van navorsing en ontwikkeling gebruik word. Die aftrekking word as volg oor 'n 4 jaar periode bereken:
+% van die koste in die jaar waarin die bate vir die eerste maal in gebruik geneem is;
+% van die koste vir die drie onmiddellik daaropvolgende jare.
+ARTIKEL12H -Leerlingooreenkomste n Toelae sal as aftrekking aan die werkgewer oorweeg word met die registrasie en voltooiing van 'n leerlingooreenkoms met betrekking tot, of in die loop van enige bedryf, wat deur die werkgewer beoefen word. Die oorweging van die aftrekking geld ten opsigte van geregistreerde leerlingooreenkomste soos omskryf in Artikel 12H van die Inkomstebelastingwet.
+Indien 'n leerlingooreeknoms of vakleerlingkontrak beëindig word alvorens die ooreenkoms of kontrak voltooi is, soos gedefinieer in Artikel 12H van die Inkomstebelastingwet sal die bedrag wat as aftrekking geëis was, geag wees deur die werkgewer verhaal of herwin te gewees het.
+ARTIKEL13quat -Stedelike Ontwikkelingsones n Toelae sal as aftrekking ten opsigte van die koste van die oprigting, uitbreiding, toevoeging tot of verbetering van enige kommersiële of residensiële gebou binne 'n goedgekeurde stedelike ontwikkelingsone, toegestaan word mits dit uitsluitlik vir die doeleindes van daardie bedryf gebruik word. Die aftrekking sal nie langer toegestaan word sou die gebou nie meer bestaan of vir die doeleindes van die beoefening van die bedryf aangewend word nie. Die toelaatbare bedrag word as volg bereken:
+Gebou opgeknap -20% van die koste vir 'n 5 jaar periode (waar die bestaande strukturele of buiteraamwerk daarvan behoue bly).
+Oprigting van nuwe gebou -17 jaar waardeverminderingsperiode (20% in die eerste jaar en 5% in elk van die 16 daaropvolgende jare).
+Geen aftrekking word ingevolge hierdie artikel toegestaan nie, tensy 'n sertifikaat verkry word van die munisipaliteit wat bevestig dat die gebou binne 'n goedgekeurde stedelike ontwikkelingsone van daardie munisipaliteit geleë is. Heg asb die sertifikaat aan die belastingopgawe vir die jaar van aanslag waarin die aftrekking geëis word.
+Geen aftrekking word ingevolge hierdie artikel toegestaan nie, tensy 'n sertifikaat verkry word van die munisipaliteit wat bevestig dat die gebou binne 'n goedgekeurde stedelike ontwikkelingsone van daardie munisipaliteit geleë is. Heg asb die sertifikaat aan die belastingopgawe vir die jaar van aanslag waarin die aftrekking geëis word.
+Waar 'n gebou of 'n gedeelte van 'n gebou vanaf 'n ontwikkleaar gekoop is, word die volgende inligting en sertifikaat benodig:
+Die bedrag wat geag word die aankoopprys te wees soos omskryf in subartikel (3A); en n Sertifikaat vanaf die ontwikkelaar wat bevestig dat daar aan die vereistes van Artikel 13quatvoldoen is.
+Buitelandse dividende is 'n dividend ontvang deur of toegeval aan 'n buitelandse maatskappy soos omskryf in Artikel 9D. Artikel 10 (k)(ii) omskryf die omstandighede waaronder 'n buitelandse dividend van belasting vrygestel sal wees.
+INWONERGRONDSLAG VAN BELASTING DEFINISIE VAN INWONER
+Om te bepaal of 'n "natuurlike persoon" 'n "inwoner" is, word die volgende twee reëls toegepas:
+Die eerste reël is gebaseer op die term "gewoonlik woonagtig" en beteken dat 'n natuurlike persoon as 'n "inwoner" beskou sal word as sy / haar permanente woning in Suid-Afrika is, en dit die woning is waarna die persoon normaalweg sou terugkeer. Die tweede reël is meer objektief en bepaal dat 'n persoon 'n "inwoner" sal wees indien:
+Die persoon gedurende die huidige jaar van aanslag sowel as elk van die drie voorafgaande jare van aanslag meer as 91dae in Suid-Afrika was; en
+Die persoon gedurende die vyf voorafgaande jare van aanslag vir 'n tydperk van meer as 915 dae (of deel daarvan) in totaal, fisies in die Republiek teenwoordig was.
+LET WEL:
+n Gedeelte van 'n dag word as 'n dag beskou."Inwoner" ten opsigte van persone anders as natuurlike persone beteken:
+Dat 'n trust wat in Suid-Afrika gestig is, geïnkorporeer of gevestig is, altyd as 'n Suid-Afrikaanse inwoner beskou sal word.
+Trusts waarvan die plek van effektiewe bestuur in Suid-Afrika geleë is, as 'n "inwoner" beskou sal word.
+Om SARS in staat te stel om die kredietbedrag te bereken wat toelaatbaar is ten opsigte van buitelandse belasting betaal op buitelandse inkomste ontvang, is dit noodsaaklik dat u die belasbare wins / verlies bereken, ten opsigte van buitelandse inkomste ontvang gedurende die betrokke jaar van aanslag, verdeel in die volgende kategorieë:
+Buitelandse bedryfsinkomste;
+Buitelandse dienste gelewer;
+Buitelandse kapitaalwins;
+Ander buitelandse inkomste (uitgesonderd beleggingsinkomste, kapitaalwins en buitelandse boerderybedrywighede); en
+Toeskryfbare netto inkomste verkry uit 'n beheerde buitelandse maatskappy.
+Verligting van dubbelbelasting n Suid-Afrikaanse inwoner is onderhewig aan normale belasting verkry uit wêreldwye inkomste (d.i. inkomste verkry vanuit bronne binne en buite die Republiek). Enige inkomste deur 'n inwoner verkry vanuit 'n buitelandse bron mag dalk reeds of kan dalk onderhewig wees aan belasting in 'n ander land, wat dubbelbelasting tot gevolg kan hê. Artikel 6quat van die Wet maak voorsiening vir die verligting van dubbelbelasting in die sin dat, waar buitelandse belasting gehef is op inkomste wat in belasbare inkomste ingesluit is, onderhewig aan sekere voorwaardes, dit as korting toegestaan kan word teenoor die Suid-Afrikaanse belastingaanspreeklikheid.
+Voorwaardes vir die toestaan van korting
+Die som van die bedrae betaal ten opsigte van buitelandse belasting kan, onderworpe aan sekere voorwaardes, kwalifiseer as korting.
+Die voorwaardes is as volg die belasting moet betaalbaar gewees het ten opsigte van inkomste (geliewe te let dat kapitaalwinsbelasting ingesluit is in die Inkomstebelastingwet en kapitaalwinste derhalwe beskou kan word as inkomste);
+die belasting moes gehef gewees het ingevolge die wette van die betrokke land, hetsy op nasionale, staats, plaaslike of enige ander vlak van regering;
+die belasting moes as betaalbaar bewys gewees het, d.i. 'n wetlike verpligting vir die betaling daarvan moet bestaan;
+die belasting moet betaalbaar wees sonder die reg van verhaling deur enige persoon (behalwe die reg van verhaal ingevolge 'n reg om enige verliese wat gedurende enige jaar van aanslag ontstaan na 'n jaar van aanslag wat bedoelde jaar van aanslag voorafgaan, terug te dra); en die belasting moet betaalbaar wees ten opsigte van die bedrae wat by die belasbare inkomste van die inwoner ingereken is.
+Kwalifiserende bedrae van inkomste verkry vanuit buitelandse bronne
+Om te kwalifiseer vir 'n korting in terme van Artikel 6quat, moet die buitelandse belasting betaalbaar wees ten opsigte van enige van die volgende inkomste verkry vanaf 'n buitelandse bron wat by die inwoner se belasbare inkomste ingesluit moet word:
+n Bedrag gelykstaande aan die proporsionele bedrag van die netto inkomste verkry vanaf 'n buitelandse maatskappy wat uitdruklik ingesluit is by die inkomste van die inwoner ingevolge Artikel 9D Artikel 6quat1b;
+Inkomste vekry deur 'n inwoner in die vorm van buitelandse dividende Artikel 6quat1d;
+n Belasbare kapitaalwins verkry vanuit 'n buitelandse bron Artikel 6quat1e;
+Enige bedrae waarna paragrawe a tot d verwys wat ontvang en toegeval het aan 'n spesifieke persoon, byvoorbeeld 'n trust, maar wat geag word verkry is deur 'n ander persoon die inwoner Artikel 6quat1fi en ii;
+n Bedrag waarna verwys word in paragrawe a tot d, wat deel vorm van die kapitaal van 'n trust wat in die buiteland gestig is, wat beskou word verkry te gewees het deur die inwoner vir inkomstebelasting- of kapitaalwinsdoeleindes Artikel 6quat1fiii.
+Beperking ten opsigte van die korting
+Die bedrag aan buitelandse belasting wat as 'n Artikel 6quat korting toegestaan sal word, sal ingevolge die volgende formule op 'n pro rata basis bereken word:
+Belasbare inkomste verkry vanuit buitelandse bronne (A) x Normale belasting betaalbaar op (B) Totale belasbare inkomste verkry vanaf alle bronne(B)
+Die oordra van die oorskotbedrag buitelandse belasting
+Waar die som van buitelandse belasting betaal die bedrag aan korting oorskry, mag die oorskotbedrag oorgedra word na die daaropvolgende jaar van aanslag om as 'n korting teen die normale belasting betaalbaar oorweeg te word.
+Gevalle waar geen korting ter sprake is nie
+Sou die inwoner kies dat verligting ingevolge 'n dubbelbelastingooreenkoms toegepas word, sal geen verdere verligting ingevolge Artikel 6quat toegepas word nie.
+Omrekening van buitelandse valuta n Inwoner wat belasbare inkomste verkry wat vasgestel is in 'n buitelandse valuta moet, met die omrekening van die belasbare inkomste na Rand, 'n keuse uitoefen tussen of
+Die gemiddelde wisselkoers met betrekking tot die betrokke jaar van aanslag
+Vasstelling van 'n kapitaalwins of -verlies n Belasting op Kapitaalwins-gebeurtenis (BKW) word voorafgegaan deur die beskikking oor 'n bate. Tensy so 'n beskikking of geagte beskikking plaasvind/voorkom, ontstaan geen wins of verlies nie. Slegs die wins of verlies wat vanaf 1 Oktober 2001 tot datum van beskikking toegeval het, sal binne die BKW wetgewing val.
+n Bate word so wyd as moontlik gedefinieer en sluit in enige eiendom van watter aard ook al, asook enige belang daarin.
+n Beskikking dek enige gebeurtenis, daad, toegeeflikheid of werking van die reg, wat die skepping, wysiging, oordrag of vernietiging van 'n bate tot gevolg het. Dit sluit ook sekere gebeurtenisse in wat as beskikkings behandel word, soos die verandering in die gebruik van 'n bate.
+Sodra beskik is oor 'n bate, konstitueer/vorm die bedrag wat ontvang is of toegeval het die opbrengs van die beskikking.
+Die basiskoste van die bate is gewoonlik die onkoste werklik aangegaan in die verkryging van die bate, tesame met uitgawes wat direk verband hou met die verbetering en direkte kostes in verband met die aanskaffing en beskikking en sekere eiendomskostes. Die basiskostes sluit nie enige bedrae in wat andersins toegelaat is as 'n aftrekking vir inkomstebelastingdoeleindes nie.
+Hoe word die basiskoste van 'n bate wat op 1 Oktober 2001 reeds in u besit was, bereken?
+Ten einde die gedeelte van die wins wat betrekking het op die periode voor 1 Oktober 2001 uit te sluit, kan enige van die volgende metodes gebruik word:
+% van die opbrengs by beskikking sal as die basiskoste geag word (geen rekords beskikbaar en markwaarde kan nie bepaal word nie); OF
+Markwaarde van die bate soos op 1 Oktober 2001 (die "waardasiedatum"); OF
+Die Wet bepaal dat sekere vereistes nagekom moet word wanneer daar van die markwaardemetode gebruik gemaak word.
+Tydsbestek waarbinne waardasies moet plaasvind
+Alle waardasies moet gedoen word asof op 1 Oktober 2001 en moes gedoen gewees het voor 30 September 2004.
+Deur wie mag waardasies gedoen word?
+Die Wet is nie voorskriftelik nie en die verantwoordelikheid en die onus rus op die persoon / entiteit om die regsgeldigheid van so 'n waardasie te staaf.
+Vereistes vir die indiening van waardasiesertifikate
+Indien die markwaardemetode van basiskoste gebruik word, moet 'n afskrif van die waardasiesertifikaat ingedien word saam met die betrokke inkomstebelastingopgawe wat verwys na die jaar van aanslag waarin die beskikking plaasgevind het. Sekere waardasies moet egter vroeër, saam met die eerste belastingopgawe wat na 30 September 2004 vereis word, ingedien word. Die onderstaande tabel dui hierdie tipes van bates aan.
+Tipe bate Van toepassing Waar markwaarde hoër is
+Ontasbare bates Per bate R1 miljoen
+Ongelyste bates Alle aandele wat deur die aandeelhouer in die maatskappy gehou word R10 miljoen
+Alle ander bates Per bate R10 miljoen
+Reëls wat winste en verliese beperk
+Sekere reëls wat nie deur hierdie brosjure aangespreek word nie is in plek om winste en verliese te beperk wanneer die markwaardemetode gebruik word. Hierdie reëls voorkom fiktiewe verliese wat veroorsaak word deur oordrewe waardasies, asook ontbering indien bates bo markwaarde soos op 1 Oktober 2001 verkoop word, maar teen laer as die oorspronklike koste.
+Hierdie metode mag gebruik word indien rekords beskikbaar is van die datum van verkryging en die koste van die bate. Die volgende formule word gebruik om die tydtoedelingsbasiskoste van die bate te bepaal.
+Oorspronklike koste +[ Wins x Periode besit voor waardasiedatum ]Periode besit voor en na waardasiedatum
+Verbeterings of toevoegings wat aangebring is voor 1 Oktober 2001 word beskou asof dit plaasgevind het tydens verkryging van die bate. Die periode voor 1 Oktober 2001 word beperk tot 20 jaar. Die totale koste van toevoegings wat gemaak is na waardasiedatum vorm deel van die basiskoste (geen toedeling).
+LET WEL:
+Die 20-jaar beperking geld nie waar daar geen toevoegings of verbeterings aangebring is voor die waardasiedatum nie.
+UITSLUITINGS
+Primêre woning uitsluiting (slegs van toepassing op 'n Spesiale Trust)
+In die geval van 'n spesiale trust, sal die eerste R1 miljoen wins of verlies op 'n primêre woning nie in ag geneem word vir BKW-doeleindes nie. Met ander woorde, waar 'n kapitale wins of verlies R1 miljoen te bowe gaan, sal die oorskot onderhewig wees aan BKW.
+Ten einde te kwalifiseer as 'n primêre woning moet die belang deur 'n natuurlike persoon of 'n spesiale trust gehou word;
+daardie persoon, begunstigde of die persoon se gade in albei gevalle, gewoonlik daarin woonagtig wees, en moet die bate as primêre woning gebruik word; en die woning hoofsaaklik vir huishoudelike doeleindes gebruik word.
+n Primêre woning sluit die grond in waarop dit geleë is en kan ook die omliggende grond insluit wat hoofsaaklik vir huishoudelike of private doeleindes saam met die woning gebruik word. Die totale oppervlak van die grond mag egter nie groter wees as twee hektaar nie. Ongekonsolideerde omliggende grond kan deel hiervan vorm, mits die transaksie by beskikking van die primêre woning die ongekonsolideerde omliggende grond insluit, en met dieselfde persoon / entiteit gesluit word.
+JAARLIKSE UITSLUITING
+In die geval van 'n spesiale trust tipe A (soos in Artikel 1 van die Inkomstebelastingwet omskryf) is die jaarlikse uitsluiting R10 000. Alle ander trusts, insluitend spesiale trust tipe B, kwalifiseer nie vir die uitsluiting nie.
+LET WEL:
+Die insluitingskoers sal deur SARS bereken word.
+BELASTINGVERLIGTING
+Ingevolge paragrawe 65 en 66 van die Agtste Bylae tot die Inkomstebelastingwet, kan 'n keuse uitgeoefen word vir die toepassing van belastingverligting, in sekere omstandighede ten opsigte van bates waaroor onvrywillig beskik is, of by die herbelegging in vervangingsbates. Dit geld ten opsigte van bates waaroor beskik is op of na 22 Desember 2003.
+DIE INSLUITINGSKOERSE VIR DIE BEPALING VAN DIE BELASBARE INKOMSTE TEN OPSIGTE VAN BKW
+Die berekende netto kapitaalwins wat betrekking het op die betrokke jaar van aanslag word vermenigvuldig met die insluitingskoers om die belasbare kapitaalwins te bepaal. Die bepaalde kapitaalwins word voorts ingesluit by die belasbare inkomste vir die betrokke jaar van aanslag.
+Die onderstaande tabel dui die insluitingskoerse aan om die belasbare kapitaalwins te bereken.
+Tipe belastingpligtige Insluitingskoers % Statutêre skale
+Effektetrusts n.v.t. 29
+Spesiale trusts A & B 25 18 - 40
+Ander trusts 50 40
+Gebruik onderstaande bronkodes t.o.v. hoofbatetipes om die Kapitaalwinsskedule te voltooi:
+Vaste onroerende bates (bv. grond, geboue, mineraleregte)... 6502 6530 Verlies: Vaste onroerende bates (bv. grond, geboue, mineraleregte)... 6503 6531 Primêre woning (bv. huis, meenthuis, woonstel, boothuis, karavaan)... 6504 6532 Verlies: Primêre woning (bv. huis, meenthuis, woonstel, boothuis, karavaan)... 6505 6533 Finansiële instrumente genoteer (bv. aandele, eenhede in effektetrust, effekte, termynooreenkomste, opsies)... 6506 6534 Verlies: Finansiële instrumente genoteer (bv. aandele, eenhede in effektetrust, effekte, termynooreenkomste, opsies). 6507 6535 Finansiële instrumente ongenoteer (bv. aandele, skuldbriewe, promesses, effekte, opsies, vooruitooreenkomste, ruilooreenkomste, skuld)... 6508 6536 Verlies: Finansiële instrumente ongenoteer (bv. aandele, skuldbriewe, promesses, effekte, opsies, vooruitooreen-komste, ruilooreenkomste, skuld)... 6509 6537 Ontasbare bates (bv. klandisiewaarde, handelsmerke, patente, kopieregte, agentskappe (franchises), lisensies, fidusiêre reg, vruggebruik of ander dergelike reg op eiendom)... 6510 6538 Verlies: Ontasbare bates (bv. klandisiewaarde, handelsmerke, patente, kopieregte, agentskappe (franchises), lisensies,fidusiêre reg, vruggebruik ofander dergelike reg op eiendom)... 6511 6539 Buitelandse valuta... 6512 NVT Verlies: Buitelandse valuta... 6513 NVT Installasies en masjinerie... 6514 6540 Verlies: Installasies en masjinerie... 6515 6541 Ander roerende bates wat vir besigheidsdoeleindes gebruik is (bv. vliegtuie, bote, motorvoertuie, kantoormeubels en toerusting)... 6516 6542 Verlies: Ander roerende bates wat vir besigheidsdoeleindes gebruik is (bv. vliegtuie, bote, motorvoertuie, kantoormeubels en toerusting)... 6517 6543 Ander roerende bates uitgesluit persoonlike gebruiksbates (bv. Krugerrande, bote vir persoonlike gebruik 10 meter en vliegtuie vir persoonlike gebruik 450 kg)... 6518 6544 Verlies: Ander roerende bates uitgesluit persoonlike gebruiksbates (bv. Krugerrande, bote vir persoonlike gebruik 10 meter en vliegtuie vir persoonlike gebruik 450 kg)... 6519 6545
+Merk die "JA" of "NEE" blokkie met 'n X.
+Dui die nommer van die geldige vrystellingsertifikaat aan.
+Dui die aantal nie-verbonde werknemers in die trust se diens aan, wat nie verbonde persone met betrekking tot die trust is nie.
+n Verbonde persoon met betrekking tot 'n trust beteken n begunstigde van die trust; en enige verbonde persoon met betrekking tot sodanige begunstigde.
+n Persoonlike dienstrust beteken enige trust (behalwe 'n trust wat 'n arbeidsmakelaar is) waar enige diens ten behoewe van daardie trust aan 'n kliënt van daardie trust persoonlik deur enige persoon wat 'n verbonde persoon met betrekking tot bedoelde trust is, gelewer word, en bedoelde persoon as 'n werknemer van bedoelde kliënt geag sou gewees het indien daardie diens direk aan bedoelde kliënt deur bedoelde persoon gelewer is, anders as namens bedoelde trust; of bedoelde persoon (of bedoelde trust) onderworpe is aan die beheer of toesig van bedoelde kliënt met betrekking tot die wyse waarop, of werksure waartydens die pligte verrig word, of verrig staan te word; of die bedrae betaal of wat betaalbaar is ten opsigte van bedoelde dienste, bestaan uit of sluit in, verdienste, hoe ook al beskryf, wat betaalbaar is by gereelde daaglikse, weeklikse, maandelikse of ander tussenposes; of waar meer as 80 persent van die inkomste van bedoelde trust gedurende die jaar van aanslag vir dienste gelewer, bestaan uit of waarskynlik sal bestaan uit bedrae direk of indirek ontvang van enige een kliënt van bedoelde trust.
+n Trust is nie 'n persoonlike dienstrust nie waar bedoelde trust gedurende die hele jaar van aanslag meer as drie voltydse werknemers in diens het, wat op 'n voltydse basis betrokke is by die besigheid van bedoelde trust om bedoelde diens te lewer, behalwe enige werknemer wat 'n verbonde persoon met betrekking tot bedoelde persoon of bedoelde trust is.
+Artikel 23(k) beperk die aftrekkings soos volg:Enige onkoste aangegaan deur 'n persoonlike dienstrust, behalwe enige onkoste wat 'n bedrag uitmaak wat betaal of betaalbaar is aan 'n werknemer van bedoelde trust vir dienste gelewer deur daardie werknemer, wat in berekening gebring is, of sal word, by die vasstelling van die belasbare inkomste van bedoelde werknemer.
+A ONTVANGSTES EN TOEVALLINGS
+Alle inkomste / ontvangstes van die trust, in kontant of andersins, wat gedurende hierdie jaar van aanslag ontvang / toegeval het, moet verklaar word in die opgawe van die trust.
+B BESOLDIGING
+Voorbeelde van besoldiging wat in die opgawe van die trust ingesluit moet word:
+Ontvangstes / toevallings vir dienste gelewer / gelewer moet word, kommissie, aansporingstoekennings, fooitjies en opsies om aandele te koop.
+Toon die bruto bedrag wat ten opsigte van hierdie bron deur die trust ontvang is / toegeval het, aan.
+Inkomste met betrekking tot 'n annuïteit sal slegs beskou word as die inkomste van die trust, indien die trust die aankoper van die annuïteit was. Indien 'n werknemersbelastingsertifikaat ten opsigte van sodanige annuïteit uitgereik word, moet dit in die naam van die trust uitgereik word.
+n Trust kwalifiseer nie vir 'n vrystelling ten opsigte van die kapitaalelement van 'n annuïteit nie, aangesien 'n kontrak tussen 'n versekeraar en 'n trust nie aan die vereistes van 'n "jaargeldkontrak", soos omskryf in Artikel 10Avan die Wet, voldoen nie.
+D RENTE
+Toon die bruto bedrag wat die trust ontvang het / toegeval het aan die trust, ten opsigte van rente-inkomste.
+Die eerste R15 000 / R22 000 rente-inkomste van 'n trust is nie vrygestel van die betaling van inkomstebelasting nie, aangesien die vrystelling op natuurlike persone van toepassing is.
+Die rente-inkomste van die trust kan uit die volgende bestaan:
+Rente vanaf enige rentedraende entiteit;
+Rente op spaarrekenings, transmissierekenings en / of vaste deposito's en dividende / rente op vaste termynaandele / -deposito's gemaak op of na 1 Maart 1990;
+Dividende verkry vanaf eiendomstrusts -dit word as rente belas; en
+Die rente-inhoud van 'n effektetrustfondsuitkering.
+n Skedule waarin die volgende besonderhede met betrekking tot alle rente wat die trust ontvang / toegeval het (insluitende rente van 'n buitelandse bron),aangedui is moet by die opgawe aangeheg word:
+Entiteit waarin geld belê is;
+Tipe belegging;
+Bedrag rente ontvang deur / toegeval aan trust.
+E ARTIKEL 24J
+n Toevallingsgrondslag van rente was ingevoer deur Artikel 24J van die Inkomstebelastingwet, wat die verspreiding van rente op 'n dag-tot-dag grondslag vir belastingdoeleindes erken, waar rente ten minste op jaarlikse grondslag saamgestel moet word. Wat 'n trust betref, is die bepalings slegs op finansiële instrumente van toepassing met 'n tydperk van meer as 'n jaar (bepaal vanaf die datum van verkryging) en wat teen 'n diskonto / premie verkry is, of uitgestelde rente dra.
+n Finansiële instrument wat uitgestelde rente dra, is 'n instrument waar trapsgewyse rentekoerse van toepassing is of 'n instrument ingevolge waarvan alle rente, bereken deur toepassing van 'n konstante rentekoers oor die tydperk van die instrument, nie met gereelde intervalle van 12 maande of minder betaal word nie.
+Daar moet opgelet word dat die meerderheid van algemeen gebruikte finansiële instrumente deur die meeste trusts van die toepassing van Artikel 24J uitgesluit sal wees sover dit die toevalling van rente betref. Instrumente of beleggings uitgesluit is onder andere:
+Spaarrekeninge;
+Vaste deposito's wat nie een jaar oorskry nie; en
+Vaste deposito's waarvan die termyn langer as een jaar is en al die rente, bereken teen 'n koers wat nie wissel nie, ten minste jaarliks betaal word.
+Rente is omskryf vir die doeleindes van Artikel 24J en sluit enige verwante finansieringskoste, diskonto ontvangbaar op premie betaalbaar ingevolge of ten opsigte van 'n instrument, in. Vir 'n houer van 'n instrument, wat 'n belegger in effekte sal insluit, sal die rente wat belasbaar is, bestaan uit die verskil tussen aankoopprys van die effekte en die nominale waarde van die effekte, asook die bedrae van alle koeponbetalings ontvangbaar deur die houer van die instrument.
+Die uitwerking van die toevallingsgrondslag is dat die belasbare rente nie op die werklike koeponontvangste gebaseer word nie, maar op 'n bedrag vasgestel met verwysing na die Interne Opbrengskoers (IOK) van 'n finansiële instrument, gebaseer op die toekomstige kontantvloei bepaal op die datum van verkryging van die finansiële instrument.
+F HUURINKOMSTE
+Meld die totale bedrag huurinkomste ontvang deur die trust en voorsien die volgende inligting:
+Indien die trust enige huurooreenkomste aangegaan het gedurende hierdie jaar van aanslag, moet die volgende inligting verstrek word:
+Heg 'n afskrif van die huurooreenkoms by die opgawe aan;
+Dui aan of die partye tot die kontrak beskou kan word as "verbonde persone";
+Dui aan of die huurinkomste beskou kan word as "markverwante huurinkomste"; en
+Dui aan of die bate(s) voorheen aan die trustee(s) / begunstigde(s) van die trust behoort het.
+Indien enige onroerende eiendom deur die trust verhuur is gedurende die jaar van aanslag, moet die volgende addisionele inligting verstrek word:
+Dui die oorspronklike doel met die aankoop van die eiendom aan.
+Het die oorspronklike doel met die aankoop van die eiendom intussen verander? Indien "ja", voorsien besonderhede (wanneer, hoekom, hoe).
+Is die lewensvatbaarheid van die verhuring van die eiendom bepaal voor die aanvang van sodanige aktiwiteite? Indien "ja", voorsien 'n afskrif van u berekenings. Indien "nee", waarom is u van mening dat die eiendom bekom is met 'n redelike vooruitsig om dit winsgewend te verhuur?
+Is die eiendom verhuur aan die werkgewer van een van die begunstigdes van die trust?
+Is die eiendom verhuur aan enige verbonde persoon tot die trust?
+Indien 'n huurverlies gegenereer is, wat sal u as die vernaamste rede vir sodanige verlies beskou?
+Indien 'n huurkontrak, waarvan die trust die huurder van die eiendom was, beëindig is gedurende die jaar, moet die volgende inligting voorsien word:
+Voorsien besonderhede van die betrokke bate en dui aan hoe daarmee gehandel is by die beëindiging van die huurkontrak.
+Is die huurpaaiemente voorheen as 'n aftrekking toegelaat by die berekening van die belasbare inkomste van die trust?
+G BESIGHEIDSINKOMSTE
+Toon die omset van die besigheidsaktiwiteite van die trust gedurende hierdie jaar van aanslag.
+H ANDER INKOMSTE NIE REEDS VERMELD
+Toon die totale bedrag wat deur die trust ontvang is vanuit enige ander bron(ne) van inkomste (vrygestelde inkomste en kapitale ontvangstes / toevallings uitgesluit). Voorsien besonderhede van die aard en bedrae ontvang uit elke bron op 'n aparte skedule en heg aan. Hierdie gedeelte sal, byvoorbeeld, eksekuteursfooie ontvang, tantième ontvang / toegeval, en honoraria ontvang, insluit.
+I VRYGESTELDE INKOMSTE
+Toon die bedrag wat deur die trust ontvang is / toegeval het vanuit vrygestelde inkomste. Voorsien besonderhede van die aard en bedrae ontvang uit elke bron op 'n aparte skedule en heg by die opgawe aan.
+TOTALE ONTVANGSTE/TOEVALLINGS
+BOERDERY-INKOMSTE
+Bepaal die som van al die ontvangstes / toevallings (ontvangstes/toevallings vanuit boerdery-aktiwiteite uitgesluit), deur die verskillende bronne van inkomste van die trust bymekaar te tel.
+Alle inkomste wat direk vanaf veeteelt, landbou of ander boerdery-aktiwiteite verkry word, is boerdery-inkomste. Inkomste verdien uit boerderybedrywighede sal, behalwe die gewone boerdery-aktiwiteite, ook, byvoorbeeld, weigelde wat verkry is deur 'n persoon wat boerderybedrywighede beoefen, herwinning van depresiasie wat voorheen as 'n aftrekking toegestaan is ten opsigte van voertuie, implemente en masjinerie wat in boerdery-aktiwiteite gebruik is, en subsidies wat deur die boere ontvang is, of dit nou ten opsigte van boerderyprodukte of kapitale uitgawes, byvoorbeeld, die bou van damme ontvang is, insluit. Wedgelde wat verdien is deur 'n boer wat renperde aanteel, asook 'n vasgestelde huurinkomste wat ten opsigte van plaaseiendom verkry is, sal nie boerdery-inkomste verteenwoordig nie.
+LET WEL:
+Inkomste ten opsigte van buitelandse boerdery-aktiwiteite moet afsonderlik getoon word. Verwys na die boerdery skedules op bladsy 23 van hierdie brosjure.
+PRIVAATGEBRUIK
+Indien lewende hawe en/of produkte vir privaatdoeleindes aangewend word, moet 'n bedrag gelykstaande aan die kosprys van die lewende hawe en/of produkte by die inkomste ingesluit wees.
+LEWENDE HAWE VERKOOPWEENS DROOGTE, VEESIEKTE, ENS.
+Verstrek die name en adresse van persone aan wie u lewende hawe en / of produkte verkoop of verruil het;
+beskrywing van die lewende hawe of produkte; en die bedrag ontvang.
+Die opbrengs ten opsigte van die verkoop van lewende hawe weens droogtetoestande, veesiekte, of beskadiging van weiding deur brand of plaag; of uit hoofde van u deelname aan 'n veeverminderingskema deur die regering georganiseer, moet as inkomste verklaar word aangesien die inkomste uit hierdie verkope belasbaar is. Die Wet bepaal dat, onderhewig aan sekere voorwaardes, u mag kies om die prys van lewende hawe wat ter vervanging aangekoop word, af te trek; óf in die jaar van aanslag waarin die lewende hawe aangekoop is; óf in die jaar van aanslag waarin die oorspronklike lewende hawe verkoop is.
+Indien u verkies om die aankoopprys van lewende hawe wat ter vervanging aangekoop word, na die jaar van verkoop terug te verwys (wat beteken dat u aanslag vir daardie jaar verminder sal word), moet SARS van u keuse in u opgawe vir die jaar waarin die verkoop plaasgevind het, verwittig word en volle besonderhede van die lewende hawe wat verkoop is, asook die rede vir die verkoop, voorsien word. Hierdie toegewing sal slegs toegestaan word indien u aan die volgende vereistes voldoen:
+U moet lewende hawe wat weens droogtetoestande, veesiekte of beskadiging van weiding deur brand of plaag verkoop is, binne vier jaar na afsluiting van die jaar van aanslag waarin hulle verkoop is, vervang.
+U moet lewende hawe wat, uit hoofde van u deelname aan 'n veeverminderingskema deur die regering georganiseer, verkoop is, binne nege jaar na die afsluiting van die jaar van aanslag waarin hulle verkoop is, vervang.
+VERKOPE VAN LEWENDE HAWE GEDEPONEER BYLANDBANK
+Waar 'n boer op of na 1 Maart 1982 lewende hawe weens droogte verkoop het en die geheel of 'n gedeelte van die opbrengs van bedoelde verkope is gedeponeer in 'n rekening in die boer se naam by die Landbank van Suid-Afrika, word die bedrag van sodanige deposito geag nie bruto inkomste te wees vir daardie jaar van aanslag nie. Slegs daardie gedeelte van die opbrengs wat binne drie maande na ontvangs daarvan gedeponeer is, kwalifiseer vir die toegewing.
+n Bedrag, synde die geheel of 'n gedeelte van 'n som sodanig gedeponeer, word indien dit onttrek word binne 6 maande na die laaste dag van die jaar van aanslag waarin bedoelde verkoop plaasgevind het, geag bruto inkomste te wees op die datum van sodanige verkoop; of indien dit onttrek word na die verstryking van 6 maande, maar binne 6 jaar na die laaste dag van die jaar van aanslag waarin bedoelde verkoop plaasgevind het, geag bruto inkomste te wees op die datum van sodanige onttrekking; of in die geval van 'n boer se dood of insolvensie binne die 6-jaar tydperk, geag bruto inkomste te wees op die dag voor die datum van dood of insolvensie; of indien dit nie onttrek word binne die 6-jaar tydperk nie, geag bruto inkomste te wees op die laaste dag van bedoelde tydperk.
+U sal egter nie van hierdie vergunning gebruik kan maak nie indien u verkies het om die aankoopprys van lewende hawe, wat ter vervanging aangekoop word, as 'n aftrekking te eis in die jaar van aanslag waarin die lewende hawe weens droogte verkoop is.
+Die volgende gedeelte kan as riglyn gebruik word om die wins / verlies van boerdery-aktiwiteite te bepaal. Verwys na die boerdery skedules op bladsy 23 van die brosjure.
+LET WEL:
+Plaaslike en buitelandse boerdery-aktiwiteite moet apart getoon word.
+Verstrek die name en adresse van persone aan wie u lewende hawe en / of produkte geskenk het;
+n beskrywing van die lewende hawe of produkte geskenk; en die markwaarde daarvan.
+Indien u lewende hawe of produkte vir 'n ander doel as vir verkoop uit die Republiek verwyder het, verstrek n beskrywing van die lewende hawe en produkte wat verwyder is; en die markwaarde daarvan.
+Meld die getal persone in u gesin en die getal huisbediendes, asook die geskatte waarde (gebaseer op produksiekoste) van die lewende hawe en produkte deur u, u gesin en huisbediendes gedurende die jaar van aanslag verbruik.
+Meld soort subsidie ontvang, byvoorbeeld, vir verbandrente, damme, omheinings, gronderosie, goedgekeurde bulle, ens.; en die bedrag ontvang ten opsigte van elke soort subsidie.
+Verstrek besonderhede van enige ander boerdery-inkomste wat nie spesifiek hierbo vermeld is nie - dit sluit bonusse van landboukoöperasies in. Huurgeld van plaaseiendom deur u verhuur moet in die opgawe onder huurinkomste verstrek word.
+h Verhaling van uitgawes aangegaan ten opsigte van verbeterings R
+Het u of enigiemand anders as 'n werknemer gedurende die jaar van aanslag enige plaasgebou waarvan die koste voorheen as 'n aftrekking vir inkomstebelastingdoeleindes toegelaat is, bewoon?
+Die totale bedrag ontvang of toegeval ten opsigte van roerende bates (masjinerie, gereedskap, ens.) wat gedurende die jaar van aanslag van die hand gesit is, moet as 'n verhaling in hierdie afdeling getoon word. Die totale bedrag van die verhaling sal by u inkomste ingesluit word, behalwe waar 'n saldo ten opsigte van ontwikkelings- en verbeteringsuitgawes vanaf die vorige jaar van aanslag oorgedra word. In so 'n geval sal die verhaling eers teen die saldo verreken word en slegs die balans van die verhaling, indien enige, sal as boerdery-inkomste in berekening gebring word.
+Die volgende inligting ten opsigte van sodanige bates verkoop, in ruil gegee of geskenk, moet op 'n aparte staat verstrek word;
+beskrywing van bate;
+oorspronklike aankoopprys;
+datum verkoop, in ruil gegee of geskenk; en verkoopprys of markwaarde van bate in ruil gegee of geskenk.
+LET WEL:
+Die totale bedrag van die verhaling met betrekking tot masjinerie, gereedskap, werktuie of artikels wat op of na 1 Julie 1988 in gebruik geneem is, moet onder deel (e) van hierdie gedeelte getoon word.
+BOERDERY-UITGAWES - (LET WEL: Onkoste ten opsigte van u woning of huishouding moet uitgesluit word.)
+Verstrek n beskrywing van die eiendom(me) waarvoor huurgeld betaal is;
+name en adresse van persone aan wie betaal; en die bedrag wat vir elke eiendom betaal is.
+Meld name en adresse van persone of instansies aan wie rente betaal is;
+bedrag van elke lening;
+rentekoers betaalbaar op elke lening;
+doel waarvoor elke lening aangewend is; en die bedrag aan rente betaal ten opsigte van elke lening. KAPITAALTERUGBETALINGS MOET NIE INGESLUIT WORD NIE.
+c Belastings R
+Meld aard van die belasting; en die bedrag betaal. INKOMSTEBELASTING MOET NIE INGESLUIT WORD NIE.
+d Saad en kunsmis R
+Meld name en adresse van persone en firmas by wie gekoop; en die bedrag aan elk betaal.
+Verstrek getal werknemers gewoonlik in diens;
+getal los werknemers; en die bedrag werklik aan elke groep betaal. Moenie lone van huisbediendes insluit nie. Lone betaal ten opsigte van verbeterings moet nie onder kontantlone geëis word nie, maar onder verbeterings.
+f Rantsoene vir plaaswerkers aangekoop
+Verstrek name en adresse van persone of firmas by wie u rantsoene aangekoop het en bedrae betaal.Moenie die waarde van plaasprodukte deur uself geproduseer, of lewende hawe deur u geteel of aangekoop en alreeds getoon, by hierdie deel insluit nie.
+g Onkoste ten opsigte van voertuie, masjinerie en implemente:
+Brandstof, olie en ghries ii
+Reparasies en onderhoud iii Assuransie en lisensies
+Slytasie -voertuie
+Aftrekking -masjinerie en implemente vi
+Ander (spesifiseer op 'n aparte skedule)
+Sub-totaal Min: Privaatgebruik van voertuie
+TOTAAL R
+Reparasies
+Meld aard van reparasie. Hierdie deel het slegs betrekking op reparasies aan voertuie, masjinerie en implemente. Reparasies aan ander bates moet onder item (j) van hierdie afdeling getoon word.
+Slytasietoelae ten opsigte van bates wat die trust se eiendom is of verkry is in terme van 'n kredietafbetalingsooreenkoms
+Hierdie toelae kan slegs geëis word ten opsigte van motorvoertuie (waarvan die uitsluitlike of primêre funksie die vervoer van persone is), 'n woonwa, 'n lugvaartuig (behalwe 'n lugvaartuig wat geheel of hoofsaaklik vir oesbespuiting gebruik word), of kantoormeubels of -toerusting wat vir boerderydoeleindes gebruik word.Die volgende inligting moet verstrek word:
+Besonderhede en waardes van bates waarop slytasie geëis word en wat aan die begin van die jaar van aanslag besit is;
+Datums, beskrywing en aankoopprys van nuwe bates gedurende die jaar van aanslag aangekoop of in ruil ontvang; en
+Datum en beskrywing van bates gedurende die jaar van aanslag verkoop, in ruil gegee, ingeruil as gedeeltelike koopprys van ander bates, of as uitgedien onttrek en bedrae vir sodanige bates ontvang;
+Die oorspronklike datum van aankoop en koopprys van elke bate.
+Aftrekking - masjinerie en implemente wat die trust se eiendom is of verkry is in terme van 'n kredietafbetalingsooreenkoms n Aftrekking sal, met betrekking tot masjinerie, gereedskap, werktuie en artikels wat vir boerderydoeleindes vir die eerste keer in gebruik geneem word, soos volg toegestaan word:
+% van die kontantkoste in die jaar van aanslag waarin die bate in gebruik geneem is;
+% van sodanige koste in die daaropvolgende jaar van aanslag; en
+% van sodanige koste in die derde jaar van aanslag.
+Hierdie aftrekking is ook van toepassing op 'n lugvaartuig wat geheel of hoofsaaklik vir oesbespuiting gebruik word. Die kontantkoste van 'n nuwe bate, aangeskaf om 'n bate te vervang wat beskadig of vernietig is, moet verminder word met die bedrag wat ten opsigte van die beskadigde of vernietigde bate verhaal is. Die bedrag verhaal word dus nie by die boer se inkomste ingesluit nie.
+Slegs die werklike koste wat spesifiek vir die uitroei van onkruid of vir grondbewaring aangegaan is, moet geëis word.
+Lone, rantsoene, brandstof, materiaal, ens., wat reeds geëis is, moet nie weer hier geëis word nie.
+Indien die werk deur onafhanklike kontrakteurs uitgevoer is, moet die name van die kontrakteurs en die bedrae aan hulle betaal, verstrek word. Die aard van die werk deur u of die kontrakteur verrig, moet ook beskryf word.
+Indien die werk die bou van damme, stuwalle of die oprigting van omheinings insluit, moet u verduidelik waarom u die uitgawe onder hierdie deel eis.
+Verstrek aard van die reparasies; en die koste van die werk gedoen. Slegs reparasies aan geboue (uitgesonderd u private woonhuis of die van persone wat nie werknemers is nie), windpompe of pompmasjiene, ens., of uitgawes vir die instandhouding van ander bates wat vir boerderydoeleindes gebruik word, kan geëis word. Lone betaal aan eie plaaswerknemers moet nie onder hierdie deel ingesluit word nie.
+UITGAWES AANGEGAAN TEN OPSIGTE VAN ONTWIKKELINGS EN VERBETERINGS
+Dipbakke
+Damme, besproeiingskemas, boorgate en pompmasjiene
+Omheinings
+Oprigting van/of aanbouings of verbeterings aan plaasgeboue, insluitende wonings vir werknemers
+Aanplanting van bome, struike of meerjarige plante vir die produksie van druiwe of ander vrugte, neute, tee, koffie, hops, suiker, plantolie of veselstowwe en die aanlê van 'n gebied vir daardie doel
+Die geleiding van elektriese krag vanaf die hooftransmissielyn na die plaastoestel
+TOTAAL
+Die volgende besonderhede moet afsonderlik ten opsigte van ontwikkelings- en verbeteringswerk verstrek word:
+beskrywing van die werk wat onderneem is; en hoe die uitgawe wat geëis word saamgestel is, dit wil sê watter bedrae aan lone, materiale ens. gespandeer is en, indien die werk deur 'n onafhanklike kontrakteur onderneem is, verstrek die naam en adres van sodanige kontrakteur en die bedrag aan hom betaal.
+Lone geëis moet nie weer geëis word nie.Huise vir werknemers opgerig, sluit nie u familielede in nie.
+LEWENDE HAWE AANGEKOOP EN IN RUIL ONTVANG
+Voorbeeld: Boerdery-inkomste Eindvoorraad -Lewende hawe Min: Beginvoorraad -Lewende hawe Lewende hawe aankope Verlies op lewende hawe R1 000 R8 000 R5 000 R1 500 R6 500 R9 000 R2 500
+Die verlies van R2 500 is nie toelaatbaar nie en word na die volgende jaar van aanslag oorgedra.
+Indien die boer kan bewys dat, byvoorbeeld, as gevolg van droogte, die billike markwaarde van al sy lewende hawe aan die einde van die jaar van aanslag minder is as die verlies op lewende hawe, soos hierbo bereken, tesame met die waarde van beginvoorraad van sy lewende hawe, word sodanige verlies met die verskil verminder.
+Voorbeeld: Bedrag wat oorgedra moet word (verlies op lewende hawe) R2 500 Plus: Beginvoorraad van die lewende hawe R1 000 R3 500 Min: Billike markwaarde van eindvoorraad van lewende hawe R3 000 Toelaatbaar R 500
+Die bedrag van R2 500 word dus verminder na R2 000.
+Getal gedurende Standaardindeling Standaard Eie waarde Getal Totale waarde jaar gevrek waarde (Rande) (Rande) voorhande (Rande)
+LET WEL:
+Inkomste vanuit plaaslike en buitelandse boerdery bedrywighede moet apart getoon word.
+KEUSE VAN WAARDES VAN LEWENDE HAWE
+Inkomste uit plaaslike boerderybedrywighede
+Bruto ontvangstes en toevallings PLUS: Lewende hawe voorhande aan die einde van die jaar van aanslag Produkte op hande aan die einde van die jaar van aanslag ...
+MIN: Markwaarde van lewende hawe of produkte verkry anders as deur aankoop,
+Lewende hawe voorhande aan die einde van die vorige jaar van aanslag...
+Lewende hawe gekoop en in ruil ontvang ...
+Saldo van lewende hawe in die vorige jaar van aanslag nie toegelaat nie ...
+MIN: Bedrag aftrekbaar Sub-totaal ii berperk tot Sub-totaal i Saldo oorgedra na volgende jaar van aanslag... Hierdie bedrag mag nie 'n verlies veroorsaak of vergroot nie
+MIN:Uitgawes ...Produkte voorhande...
+MIN: VERBETERINGS Uitgawes Plus: Saldo van verbeterings oorgebring van vorige jaar ...
+MIN: Bedrag van verbeterings aftrekbaar van netto wins ... (Hierdie bedrag mag nie 'n verlies veroorsaak of vergroot nie) Saldo oorgedra na volgende jaar van aanslag
+BELASBARE INKOMSTE / VERLIES UIT PLAASLIKE BOERDERYBEDRYWIGHEDE ...
+Dra hierdie bedrag oor na deel 14 van die opgawe.
+Inkomste uit buitelandse boerderybedrywighede
+Bruto ontvangstes en toevallings PLUS: Lewende hawe voorhande aan die einde van die jaar van aanslag Produkte op hande aan die einde van die jaar van aanslag ...
+MIN: Markwaarde van lewende hawe of produkte verkry anders as deur aankoop,
+Lewende hawe voorhande aan die einde van die vorige jaar van aanslag...
+Lewende hawe gekoop en in ruil ontvang ...
+Saldo van lewende hawe in die vorige jaar van aanslag nie toegelaat nie ...
+MIN: Bedrag aftrekbaar Sub-totaal ii berperk tot Sub-totaal i Saldo oorgedra na volgende jaar van aanslag... Hierdie bedrag mag nie 'n verlies veroorsaak of vergroot nie
+MIN:Uitgawes ...Produkte voorhande...
+MIN: VERBETERINGS Uitgawes Plus: Saldo van verbeterings oorgebring van vorige jaar ...
+MIN: Bedrag van verbeterings aftrekbaar van netto wins ... (Hierdie bedrag mag nie 'n verlies veroorsaak of vergroot nie) Saldo oorgedra na volgende jaar van aanslag
+BELASBARE INKOMSTE / VERLIES UIT BUITELANDS BOERDERYBEDRYWIGHEDE ...
+Dra hierdie bedrag oor na deel 14 van die opgawe.
+a Direkte uitgawes
+Toon die totaal van direkte uitgawes wat met elke bron verband hou (hierdie uitgawes maak deel uit van die totale uitgawes wat gereflekteer word in die inkomstestaat/administrasierekening van die trust).
+Bepaal die totaal van al die direkte uitgawes wat deur die trust aangegaan is deur die direkte uitgawes (uitgawes vanuit boerdery-aktiwiteite uitgesluit), wat met elke bron van inkomste verband hou, bymekaar te tel.
+LET WEL:
+Aftrekkings sal in geen geval toegelaat word ten opsigte van enige onkoste aangegaan deur 'n persoonlike dienstrust, behalwe enige onkoste wat 'n bedrag uitmaak wat betaal of betaalbaar is aan 'n werknemer van sodanige trust vir dienste gelewer deur daardie werknemer, wat in berekening gebring is of sal word by die vasstelling van die belasbare inkomste van sodanige werknemer.
+b Indirekte uitgawes
+Die indirekte uitgawes / oorhoofse kostes van 'n trust (kostes wat nie met 'n spesifieke bron van inkomste verband hou nie) moet op 'n billike en redelike manier, na gelang van die omstandighede van die trust, proporsioneel tussen die verskillende bronne van inkomste toegedeel word.
+Toon die totaal van die indirekte uitgawes wat na elke bron van inkomste toegedeel is (hierdie uitgawes maak deel uit van die totale uitgawes wat gereflekteer word in die inkomstestaat/administrasierekening van die trust).
+Bepaal die totaal van al die indirekte uitgawes wat aangegaan is deur die trust (uitgawes wat toegedeel is na boerderybedrywighede van die trust uitgesluit) deur die indirekte uitgawes wat na elke bron van inkomste toegedeel is, bymekaar te tel.
+Dui die basis van toedeling van die uitgawes aan op 'n aparte skedule en heg by die opgawe aan.
+NETTO INKOMSTE VOLGENS DIE INKOMSTESTAAT/ADMINISTRASIEREKENING
+Bepaal die netto inkomste wat uit elke bron van inkomste (boerdery-inkomste uitgesluit) verkry is, deur die direkte uitgawes wat verband hou met elke bron van inkomste, sowel as die indirekte uitgawes wat proporsioneel geallokeer is na elke bron van inkomste, van die totale ontvangstes / toevallings uit elke bron af te trek.
+Bepaal die totale netto inkomste uit alle bronne ontvang (boerdery-inkomste uitgesluit), deur die netto inkomste uit alle bronne van inkomste bymekaar te tel.
+Die totale netto inkomste wat uit al die bronne van inkomste gegenereer is, behoort ooreen te stem met die netto inkomste van die trust volgens die inkomstestaat / administrasierekening van die trust.
+ONTOELAATBARE ITEMS
+Slegs die uitgawes en verliese wat werklik ter voortbrenging van die inkomste van die trust aangegaan is, mag as aftrekkings teen die inkomste van die trust in berekening gebring word.
+Items wat nie as aftrekkings toegelaat sal word nie behels, byvoorbeeld, die volgende:
+Onproduktiewe rente, bv. rente betaal op geleende fondse wat aangewend is om 'n vakansiehuis vir die privaatgebruik van die begunstigdes van die trust aan te koop;
+Skenkings;
+Boetes;
+Kapitale uitgawes;
+Nie-besigheidsgedeelte van die motor- en ander uitgawes wat in berekening gebring is;
+Depresiasie wat vir rekenkundige doeleindes in die finansiële state geëis is op 'n ander basis as waarvoor die Wet voorsiening maak vir inkomstebelastingdoeleindes; en
+Rente betaal t.o.v. gekapitaliseerde bruikhuurbates. Toon die totale bedrag ontoelaatbare uitgawes geëis ten opsigte van elke bron van inkomste. Bepaal die totale bedrag ontoelaatbare uitgawes (uitgawes ten opsigte van boerdery-inkomste uitgesluit) deur die ontoelaatbare uitgawes ten opsigte van al die bronne bymekaar te tel.
+TOELAES / AFTREKKINGS VOLGENS DIE WET
+Toon die totale addisionele bedrag van aftrekkings / toelaes geëis (wat nie reeds gereflekteer is nie), in terme van die bepalings van die Wet.
+Bepaal die totale bedrag ten opsigte van aftrekkings / toelaes geëis, wat nie reeds gereflekteer is nie, in terme van die bepalings van die Wet (uitgawes ten opsigte van boerdery-inkomste uitgesluit), deur die addisionele bedrag ten opsigte van die aftrekkings/toelaes geëis by al die bronne van inkomste, bymekaar te tel.
+LET WEL:
+Die bedrag waarmee die som van die aftrekkings en verminderings die som van die inkomste uitkeerbaar aan die begunstigde oorskry, sal, waar die trust nie in die Republiek belasbaar is nie, geag word 'n aftrekking of vermindering te wees wat toegestaan kan word by die vasstelling van die belasbare inkomste deur daardie begunstigde verkry, by wyse van inkomste in die onmiddellike daaropvolgende jaar van aanslag.
+AFTREKKING TEN OPSIGTE VAN DEPRESIASIE
+Ingevolge die bepalings van artikel 11(e) van die Wet, sal 'n bedrag wat volgens die Kommissaris se oordeel billikerwys en redelikerwys die bedrag voorstel waarmee die waarde van enige masjinerie, installasie, gereedskap, werktuie en artikels wat in die trust se besit is of verkry is in terme van 'n kredietafbetalingsooreenkoms deur die trust in sy bedryf gebruik is gedurende die jaar van aanslag, verminder het as gevolg van slytasie of waardevermindering en as 'n aftrekking toegelaat word.
+Hierdie aftrekking word normaalweg bereken op die verminderde waarde van 'n bate, d.w.s. die waarde wat oorbly nadat die waardevermindering ten opsigte van die vorige jare van aanslag van die kosprys van die bate afgetrek is.
+n Trust mag egter besluit om depresiasie op die vaste paaiementmetode op die koste van die bate te bereken. Dit is nie nodig om toestemming in hierdie verband by SARS te verkry nie. Daar sal egter van die trust verwag word om die volgende vereistes na te kom ten opsigte van sodanige bates:
+Voldoende rekords moet in stand gehou word;
+Die vaste paaiementmetode moet ten opsigte van alle bates van dieselfde klas toegepas word;
+n Skedule wat die volgende inligting met betrekking tot elke bate weergee, moet saam met die opgawe van inkomste ingedien word:
+Die datum van verkryging asook die oorspronklike kosprys;
+Die inkomstebelastingwaarde aan die einde van die vorige jaar van aanslag;
+Die prys wat gerealiseer is met die verkoping of skrapping van die bate, sowel as die belastingwins of -verlies. 'n Bate wat ten volle afgeskryf is, moet teen 'n reswaarde van R1 vir rekorddoeleindes in berekening gebring word. Die rekords moet in stand gehou word, sodat dit moontlik is om die besonderhede van bogenoemde bates te enigertyd te bekom. Afskrywingsperiodes wat vir die Suid-Afrikaanse Inkomstediens aanvaarbaar is, word vervat in Praktyknota 19 tot die Wet.
+Die afskrywingsperiodes van sommige van die bates wat gereeld gebruik word, is soos volg:
+Passasiersvoertuie 5 jaar Rekenaars (persoonlike) 3 jaarMeubels en toebehore 6 jaar Gordyne 5 jaarKasregisters 5 jaar Afleweringsvoertuie 4 jaarRekenaars (hoofraam) 5 jaar Faksmasjiene 3 jaar
+Geliewe te let op die bepalings van par. 65 en par. 66 van die Agtste Bylae tot die Inkomstebelastingwet met betrekking tot bates waaroor op of na 22 Desember 2003 beskik is.
+BELASBARE INKOMSTE BESKIKBAAR VIR VERDELING
+Bepaal die belasbare inkomste wat uit elke bron van inkomste verkry is, deur die nie-toelaatbare uitgawes, ten opsigte van elke bron van inkomste, by die netto inkomste wat uit elke bron van inkomste verkry is, te tel.
+Bepaal die totale belasbare inkomste wat beskikbaar is vir verdeling, deur die belasbare inkomste wat beskikbaar is vir verdeling, ten opsigte van al die bronne van inkomste, bymekaar te tel.
+INKOMSTE UITGEKEER AAN BEGUNSTIGDES OF WAT GEVESTIG HET IN BEGUNSTIGDES EN BELASBAAR IN DIE HANDE VAN BEGUNSTIGDES
+Enige inkomste wat ontvang is deur of toegeval het aan 'n persoon in sy hoedanigheid as trustee van 'n trust sal, onderhewig aan die bepalings van Artikel 7 van die Wet, geag word om die inkomste van 'n begunstigde te wees vir sover die inkomste verkry is vir die onmiddellike of toekomstige voordeel van 'n vasgestelde begunstigde met 'n gevestigde reg op bedoelde inkomste.
+n Begunstigde kan 'n gevestigde reg op die inkomste / gedeelte van die inkomste van 'n trust verkry op twee maniere, naamlik:
+In terme van die bepalings van 'n trustakte / testament van 'n oorlede persoon;
+As gevolg van die uitoefening deur 'n trustee van 'n diskresie in hom / haar gevestig ingevolge die bepalings van 'n trustakte / testament van 'n oorlede persoon.
+n Begunstigde verkry 'n gevestigde reg op die inkomste / gedeelte van die inkomste van 'n trust, indien die bepalings van die trustakte / testament van 'n oorlede persoon voorsiening maak dat die inkomste / gedeelte van die inkomste van die trust na 'n sekere begunstigde uitgekeer moet word.
+n Begunstigde verkry ook 'n gevestigde reg op die inkomste van 'n trust indien hy / sy 'n gevestigde reg op die kapitaal van die trust het, in terme van die bepalings van die trustakte / testament van 'n oorlede persoon. So 'n trustakte / testament sal bepaal dat die kapitaal van die trust (en dus ook die geakkumuleerde inkomste van die trust) aan 'n sekere begunstigde uitbetaal moet word / gevestig het en geen voorsiening word gemaak dat, indien die begunstigde te sterwe sou kom voordat 'n sekere gebeurtenis plaasvind, dat die kapitaal van die trust sou vestig in sy / haar nakomelinge of selfs 'n ander genomineerde begunstigde nie.
+Dit is belangrik om te onthou dat wanneer daar in die bepalings van 'n trustakte / testament verwys word na die woord "inkomste", dat dit nie verwys na die inkomstebelastingbegrip "inkomste" nie, maar eerder na die begrip inkomste vs. kapitaal van die trust.
+n Begunstigde kan, byvoorbeeld, 'n gevestigde reg op die inkomste van die trust hê, maar nie op die kapitaal van die trust nie. Dit sal beteken dat (indien nie anders aangedui nie) die begunstigde 'n gevestigde reg op die netto verdeelbare inkomste van die trust het (die bedrag wat gekapitaliseer sou word indien die begunstigde nie 'n gevestigde reg op die inkomste van die trust gehad het nie). Indien daar geen inkomste beskikbaar vir verdeling is nie en die begunstigde slegs 'n reg op die inkomste van die trust het in terme van die bepalings van die trustakte / testament, sal dit nie moontlik wees om enige inkomste aan die begunstigde uit te keer / toe te deel nie.
+Inkomste wat aan 'n minderjarige kind uitgekeer is / toegeval het uit hoofde van 'n skenking, oormaking of beskikking wat deur die ouer van daardie kind gemaak is, sal ingevolge die bepalings van Artikel 7 van die Wet, nie belasbaar wees in die hande van sodanige kind nie, maar sal belasbaar wees in die hande van die ouer wat die skenking, oormaking of beskikking gemaak het.
+Dui die bedrae wat aan elke begunstigde onderskeidelik ten opsigte van elke bron van inkomste uitgekeer is en in sy / haar hande belasbaar is, aan. Indien die bepalings van Artikel 7 van toepassing is, moet deel 14.9 voltooi word.
+Uitkerings na / toevallings aan begunstigdes moet proporsioneel tussen die verskillende bronne van inkomste toegedeel word, tensy die uitkerings uit 'n spesifieke bron van inkomste gedoen word, aangesien inkomstes deur die trust geproduseer hul identiteit behou indien dit uitgekeer word aan / of gevestig het in die begunstigdes.
+Die bedrae wat toegedeel is na / vestig in begunstigdes en belasbaar in hulle hande is, moet oorgedra word na deel 6(A) van die opgawe. Sodanige toedelings sal hulle identiteit in die hande van die begunstigdes behou.
+INKOMSTE BELASBAAR IN DIE HANDE VAN 'N ANDER PERSOON (ingevolge die bepalings van artikel 7 van die Wet)
+Inkomste wat aan 'n minderjarige kind uitgekeer is / toegeval het uit hoofde van 'n skenking, oormaking of beskikking wat deur die ouer van daardie kind gemaak is, sal ingevolge die bepalings van Artikel 7 van die Wet, nie belasbaar in die hande van sodanige kind wees nie, maar belasbaar wees in die hande van die ouer wat die skenking, oormaking of beskikking gemaak het.
+Inkomste wat in die trust behou is of aan 'n begunstigde toegeval het uit hoofde van enige skenking, oormaking of beskikking (insluitende 'n rentevrye / lae rentekoerslening), wat onderworpe is aan 'n beding of voorwaarde (byvoorbeeld, die kapitaal en opgehoopte inkomste moet aan 'n begunstigde oorbetaal word sodra hy / sy die ouderdom van 21 jaar bereik, of die inkomste van die trust mag slegs aan 'n begunstigde uitgekeer word indien die trustee(s) van die trust sodanige diskresie wat in hom / haar / hulle vestig, uitoefen om inkomste aan die begunstigde uit te keer), sal ingevolge die bepalings van artikel 7 van die Wet belasbaar wees in die hande van die persoon wat die skenking, oormaking of beskikking gemaak het.
+Dui die bedrae, wat ingevolge die bepalings van Artikel 7 van die Wet, ten opsigte van elke bron van inkomste, onderskeidelik, in die hande van 'n ander persoon / persone belasbaar is, aan.
+Indien die spasie voorsien in die opgawe onvoldoende is, moet die besonderhede van die ander persoon / persone op 'n aparte skedule verstrek word en by die opgawe aangeheg word.
+Die trust sal belasbaar wees op die netto belasbare inkomste wat gegenereer is deur die trust, nadat die bedrae wat uitgekeer is / toegeval het aan die begunstigdes van die trust, asook die bedrae wat belasbaar is in die hande van 'n ander persoon ingevolge die bepalings van artikel 6 en paragraaf 80 van die Agtste Bylae tot die Wet, afgetrek is van die totale belasbare inkomste van die trust.
+Bepaal die bedrae, wat ten opsigte van elke bron van inkomste, belasbaar is in die trust en dra hierdie bedrae oor na die inkomstegedeelte van die opgawe.
+aTen opsigte van die belasbare inkomste deur enige trust behalwe 'n "spesiale trust " 'n bedrag aan belasting bereken teen 40%. bTen opsigte van 'n "spesiale trust" 'n bedrag bereken in ooreenstemming met die onderstaande tabel.
+Statutêre skale van toepassing op individue
+WAAR DIE BELASBARE INKOMSTE:
+Nie R80 000 te bowe gaan nie 18% van elke R1 van die belasbare inkomste
+R80 000 te bowe gaan, maar nie R130 000 nie R14 400 plus 25% van die bedrag waarmee die belasbare inkomste die bedrag van R80 000 oorskry
+R130 000 te bowe gaan, maar nie R180 000 nie R26 900 plus 30% van die bedrag waarmee die belasbare inkomste die bedrag van R130 000 oorskry
+R180 000 te bowe gaan, maar nie R230 000 nie R41 900 plus 35% van die bedrag waarmee die belasbare inkomste die bedrag van R180 000 oorskry
+R230 000 te bowe gaan, maar nie R300 000 nie R59 400 plus 38% van die bedrag waarmee die belasbare inkomste die bedrag van R230 000 oorskry
+R300 000 te bowe gaan R86 000 plus 40% van die bedrag waarmee die belasbare inkomste die bedrag van R300 000 oorskry
+LET WEL:
+Daar is geen korting van toepassing op trusts nie aangesien die bepalings van die Wet, wat voorsiening maak vir kortings, slegs na natuurlike persone verwys.
+Verklaar buitelandse en plaaslike bates en laste afsonderlik en heg 'n volledige beskrywing aan ten opsigte van buitelandse bates. Bates wat geag word die van 'n begunstigde te wees (in die geval waar valutabeheeramnestie goedgekeur is) moet nie ingesluit word nie. 'n Lys wat die beskrywing en waarde van sulke bates, wat geag word die van die begunstigde te wees, aandui moet tesame met die opgawe ingedien word.
+Hierdie gedeelte moet ten opsigte van alle trusts voltooi word. Indien addisionele inligting benodig word, moet dit op 'n aparte eendersgenommerde skedule verstrek word en by die opgawe aangeheg word.
+Trustakte
+Indien die bepalings van die trustakte gedurende die laaste drie jare van aanslag gewysig is, moet 'n afskrif van sodanige wysiging(s) saam met die opgawe ingedien word.
+Begunstigdes
+Indien die begunstigde(s) van die trust gedurende die laaste drie jare van aanslag nie dieselfde gebly het nie, moet die volgende inligting voorsien word:
+Die besonderhede van die nuut-aangewysde begunstigde(s); en
+Die redes vir hierdie verandering.
+Indien die trustees van die trust gedurende die laaste drie jare van aanslag nie dieselfde gebly het nie, moet die volgende inligting voorsien word:
+Die besonderhede van die nuut-aangewysde trustees; en
+Die redes vir hierdie verandering.
+Gevestigde reg op inkomste
+Indien die begunstigde(s) van die trust 'n gevestigde reg op die inkomste / gedeelte van die inkomste van die trust het, dui aan watter klousule / gedeelte / paragraaf van die trustakte / testament daarvoor voorsiening maak.
+Gevestigde reg op kapitaal
+Indien die begunstigde(s) van die trust 'n gevestigde reg op die kapitaal/gedeelte van die kapitaal van die trust het, dui aan watter klousule / gedeelte / paragraaf van die trustakte / testament daarvoor voorsiening maak.
+Artikel 7 van die Wet, asook deel 6 en Paragraaf 80 van die Agtste Bylae tot die Inkomstebelastingwet
+Dui aan of die bepalings van Artikel 7, of deel 10 of Paragraaf 80 van die Agtste Bylae tot die Wet voorheen ten opsigte van die inkomste van die trust toegepas is. Voltooi die toepaslike deel van die opgawe indien dit ten opsigte van die vorige jaar van aanslag van toepassing is.
+Spesiale Trusts
+Indien die trust geklassifiseer is as 'n tipe B spesiale trust, moet bewys gelewer word dat die jongste begunstigde op die laaste dag van die huidige jaar van aanslag nog onder die ouderdom van 21 jaar was.
+Skenkings gemaak / ontvang deur die trust
+Indien die som van die waardes van alle toevallige skenkings wat deur die trust gemaak is, R10 000 gedurende die jaar van aanslag te bowe gegaan het, moet die volgende inligting voorsien word ten opsigte van alle skenkings wat gedurende die jaar van aanslag deur die trust gemaak is:
+Naam en adres van elke persoon aan wie 'n skenking gemaak is;
+Verwantskap tussen die skenking / skenker en die trust;
+Verstrek die datum van die skenking, die waarde van die skenking en die aard van die skenking;
+Dui aan of 'n IB144-belasting-op-geskenke verklaring ingedien is ten opsigte van die skenking en dui ook aan by watter SARS-kantoor dit ingedien is.
+LET WEL:
+Die waarde wat op die donasie geplaas word moet die laagste wees van die koste daarvan of die heersende markwaarde.
+Belasting op geskenke sal betaalbaar wees teen 20% van die waarde van 'n skenking wat deur die trust gemaak word, indien die som van die waardes van alle toevallige skenkings die bedrag van R10 000 te bowe gaan.
+Kapitaal / inkomste wat aan die begunstigdes van die trust uitgekeer word / toeval, sal nie skenkings verteenwoordig nie.
+Indien daar oor eiendom beskik is, teen 'n vergoeding wat volgens die Kommissaris se oordeel nie voldoende vergoeding is nie, word daar geag dat daar ingevolge 'n skenking oor die eiendom beskik is.
+Die "geagte skenking" sal dan die verskil tussen die vergoeding en die bedrag wat volgens die Kommissaris se oordeel voldoende vergoeding is, verteenwoordig.
+Belasting op geskenke is betaalbaar binne drie maande vanaf die datum waarop die skenking plaasgevind het.
+Rente sal gehef word teen die voorgeskrewe koers op die uitstaande bedrag van sodanige belasting ten opsigte van elke voltooide maand waartydens sodanige gedeelte van die belasting onbetaald gebly het.
+Aandele in 'n buitelandse maatskappy
+Prysoordrag
+Waar enige dienste of goedere verkry word ingevolge 'n internasionale ooreenkoms en die verkryger is 'n verbonde persoon met betrekking tot die leweransier, die goedere en dienste verskaf word of verkry word teen 'n prys wat of minder is as die prys wat dit na verwagting sou behaal het, indien die partye tot die transaksie onafhanklike partye tot die transaksie was, wat tot die uiterste voorwaardes beding, of groter is as die prys beding onder uiterste voorwaardes, dan kan die Kommissaris, by die vasstelling van die belasbare inkomste van óf die verkryger, óf die leweransier, die teenprestasie ten opsigte van die transaksie aanpas om 'n prys te beding onder uiterste voorwaardes, vir die goedere of dienste weer te gee.
+Indien "ja", heg asb. die toepaslike IB180 verklarings aan die opgawe.
+Indien "ja", voorsien die volgende:
+Bedrag verhaal ten opsigte van elke leerling.
+Afskrifte van die IB 180 ten opsigte van die betrokke leerders met betrekking tot die bedrae verhaal.
+Bates wat geag word die van 'n begunstigde te wees.
+Voorsien 'n beskrywing van die bate, wat die waarde daarvan asook die rede vir die agting aandui.
+Voorsien volle besonderhede aangaande die transaksies.
+Par. 65 en par. 66 van die Agtste Bylae tot die Inkomstebelastingwet
+Voorsien die volgende:
+n Beskrywing van die bate waaroor beskik is
+'n Beskrywing van die vervangende bate
+Die datums waarop die oorspronklike bate verkry en oor beskik is
+Die aankoopprys van die vervangende bate
+Die opbrengs by beskikking van die oorspronklike bate.
+Vaste eiendom verkry vanaf 'n nie-inwoner
+Indien "ja", heg asb 'n skedule aan wat 'n beskrywing en ligging (adres) van die vaste eiendom aandui.
+Raporteerbare reëlings a en b Voltooi die RA07 beskikbaar op die SARS webwerf en heg aan die opgawe.
+Kapitaalwins
+Voorsien die inligting soos in die opgawe versloek.
+Mynboubedrywighede
+Indien "ja", voltooi die Mynbouskedules op die volgende vier bladsye en heg aan die opgawe.
+Deel1
+Dui aan / bevestig of u enige mynbou of mynboubedrywighede beoefen soos beoog in Artikel 1 van die Inkomstebelastingwet. Indienwelmoetudievolgendeinligtingvoorsien:
+Volledige beskrywing van die mynbou of mynboubedrywighede wat u beoefen met spesifieke vewysingnadietipevanbedrywighede;
+n Volledige beskrywing wat die minerale areas aandui wat tans ontgin word, die areas wat tans gemyn word ofvoorheen gemyn is, asook die minerale areas wat vir doeleindes van Artikel 36 van die Inkomstebelastingwet as 'n enkel myn beskou word met spesifieke verwysing na die besigheidsrasionaleendienabyheidvanertsmassa,ens.;
+n Volledige beskrywing van die stroomafwaartse bedrywighede met verwysing na, inter alia, nuwe of gedeeltelik voltooide infrastruktuur soos uitsmelters, raffineerders, konsentrate, ens., asook die rol daarvan indie stroomafwaarste bedrywighede sowel as die daaropvolgende verwerking (allokasie) van die kapitaalonkosteaangegaan;en n Volledige verduideliking ten opsigte van alle ontdekkingswerksaamhede wat onderneem is metbetrekkingtotdieaktiwiteiteentoekomstigeontginning.
+Deel2
+Dui aan of enige mynbou of mynboubedrywighede bedryf wordnamens die houer van mineraalregte en / of sulke bedrywighededeur `n ander party bedryf word op `n perseel waarop u diemineraalregte hou. Indien wel moet u die volgende inligting /dokumentasievoorsien:
+n Afskif van die getekende ooreenkoms aangegaangedurende die jaar en / of van krag aan die einde van diejaarvanaanslag;
+n Afskrif van die goedkeuring uitgereik deur die Direkteurvan die Departement van Minerale en Energie ten opsigtevan die ontginningsregte wat betrekking het op die kontrakteaangegaan;en/of
+Indien geen formele ooreenkoms aagegaan is nie voorsienasseblief `n volledige beskrywing van die mynbedrywig-hedewatdeur`nsubkontrakteurbedryfword.
+vervolg
+Netto wins (verlies) per Inkomstestaat
+MynbedrywighedeMyn 1 Myn 2 Myn 3 Myn 4 Totaal
+Inkomste / Mynbouinkomste0000000
+Aanwending van aangeslane verlies oorgebring00000000 000000
+Delging van Kapitaaluitgawes in terme van Artikel 36(7G)n/a 000000
+Belasbare Inkomste / Mynbou inkomste / (verlies)

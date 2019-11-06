@@ -1,0 +1,89 @@
+Managing (Maize)									Sesotho sa Leboa
+
+Go laola disenyi tša lehea ka lehea la Bt
+
+Instructions: 
+
+Folio strap: Taolo ya disenyi
+
+Byline: F.B. Peairs, profesa le setsebadikhunkhwane, karolo ya disaense tša payotemo le taolo ya disenyi (entomologist and professor, bio agricultural sciences and pest management), Colorado State University Extension
+
+ Create a Fact Box: Quick Facts...
+
+Bacillus thuringiensis (Bt) ke pakteria ya ka mmung yeo e tšweletšago mpholo wo o bolayago dikhunkhwane. 
+
+Dikarolwana (genes) tša Bt di ka tsenywa dibjalong go di kgontšha go tšweletša mpholo woo o bolayago dikhunkhwane, ka fao di ka kgona go lwantšha disenyi tše di itšego. 
+
+Mapastere a lehea (maize hybrids) ao a nago le karolwana e tee goba go feta ya Bt (lehea la Bt) a kgona go lwantšha disenyi tše dingwe tše bohlokwa. 
+
+Mapastere a lehea la Bt a ka dirišwa ka katlego legatong la taolo ye e tsebegago ya dikhunkhwane ge go eba bohlokwa gore disenyi tše di lebantšhitšwego di laolwe go thiba tshenyo. 
+
+Theknolotši ye mpsha e re dumelela go kaonafatša mehuta ya dibjalo ka go tsenya dikarolwana (genes) tša mehuta ye mengwe go yona. Taba ye e na le mohola ka ge re kgona go fetola goba go oketša mekgwa ya dibjalo (go swana le go di kgontšha go lwantšha dikhunkhwane) yeo e sego gona ka tlhago dibjalong tšeo, goba yeo e ka bago boima go fetišetša dibjalong tša mohuta wo o itšego ka go diriša mekgwa ye e tlwaelegilego ya tswadišo ya dibjalo. 
+
+Tirišo ye nngwe ye e atlegilego ya theknolotši ye mpsha ye ke tšweletšo ya mapastere a lehea ao a kgonago go lwantšha disenyikhunkhwane tše di itšego ka ge go okeditšwe karolwana (gene) ya pakteria ya tlhago ye e tšwago mmung go ona. Mapastere a a bitšwa transgenic, eupša mapastere ohle a mohuta wo ga a akaretše mokgwa wa go lwantšha dikhunkhwane. 
+
+Le ge mapastere a lehea a transgenic ao a lwantšhago dikhunkhwane a dirišwa ka katlego go laola disenyikhunkhwane, tirišo ya ona e a belaetša. Dipotšišo le dikarabo tše di latelago di hlaloša ka kakaretšo mapastere a lehea ao a lwantšhago dikhunkhwane le tirišo ya ona taolong ya disenyi. 
+
+Bt ke eng? 
+Bt ke khutsofatšo ya Bacillus thuringiensis, ye e lego pakteria ya ka mehla ye e dulago mmung. Bt e šupa gape dibolayakhunkhwane tšeo di dirilwego ka dipakteria tše. 
+
+Bt e amana bjang le disenyikhunkhwane?
+Mehuta ye mengwe ya Bt e bolaya dikhunkhwane ka mefolo ye e bitšwago insecticidal crystal proteins goba delta endotoxins. Mefolo ye ga e huetše batho le diphedi tšeo e sego disenyi. 
+
+Lehea la Bt ke eng?
+Tšweletšo ya mpholo wa delta endotoxins e laolwa ke karolwana (gene) e tee ya pakteria. Dikarolwana tše di fetotšwego (modified versions) tša pakteria ye di ka tsenywa dibjalong tša lehea. Dibjalo tšeo di tsentšwego dikarolwana tše tša pakteria di kgona go tšweletša mpholo wa delta endotoxin mme ka fao di ba mpholo go dikhunkhwane tšeo di huetšwago ke mohuta woo wa proteine. 
+
+Dikarolwana tša Bt di dirišwa leheeng ka baka lang?
+Mpholo wa delta endotoxins woo o gašetšwago dibjalong o hlahlamologa ka bjako ge o dutše seetšeng sa UV. Mpholo wa delta endotoxins woo o tšweletšwago ka gare ga sebjalo ga o fihlelwe ke seetša sa UV. Go feta fao, disenyi tše mmalwa tše bohlokwa tša lehea ga di laolege gabonolo ka dibolayakhunkhwane tša ka mehla tšeo le gona di turago, eupša disenyi tše di bolawa ke mpholo wa delta endotoxins woo o tšweletšwago ditlhaleng tša sebjalo. Godimo ga fao, payotheknolotši ya go tsenya karolwana ya Bt ye e tšweletšago mpholo sebjalong sa lehea e gona.
+
+Na sebjalo se se feletšego sa lehea la Bt se ba mpholo?
+Ka mabaka. Dintlha tše pedi, e lego tiragalo (event) le segapedi (promoter), di laola fao mpholo wa delta endotoxins o tšweletšwago sebjalong le bokaakang bjo bo tšweletšwago. Dikhamphani tše di fapanego tša peu di diriša ditiragalo le digapedi ka go fapana, ka fao mapastere a tšona a tla fapana mabapi le ditlhale tša sebjalo tšeo di tšweletšago mpholo wa delta endotoxins. 
+
+Tiragalo ya tsenyo (insertion event) ke tiro ya nnete ya go tsenya karolwana ya Bt (Bt gene) tlhamegong ya leabela (genetic system) la sebjalo sa lehea. Ke mo go phethwago fao karolwana ya Bt e tlogo dula gona (khromosomeng (chromosome) efe, karolong efe ya khromosome, bjalobjalo). Fao karolwana ya Bt e dulago gona go huetša fao mpholo wa delta endotoxins o tšweletšwago le gona bokaakang bja wona. Gonabjale ga re na le theknolotši ya go laola bodulo bja karolwana ya Bt sebjalong, ka fao tiragalo (event) ye nngwe le ye nngwe e hlola sebjalo seo se fapanago le tše dingwe mabapi le fao mpholo wa delta endotoxin o tšweletšwago le bokaakang bjo bo tšweletšwago. 
+
+Segapedi (promoter) re ka re ke switšhi ya leabela (genetic switch) yeo e tsebišago karolwana ya Bt ye e tsentšwego sebjalong fao e swanetšego go tšweletša mpholo wa delta endotoxins le gona neng. Go na le digapedi tša mehutahuta mme mohuta woo o kgethwago le wona o huetša fao mpholo wa delta endotoxin o tšweletšwago sebjalong sa lehea le bokaakang bjo bo tšweletšwago, seo se hlolago diphapano gare ga mapastere. 
+
+Go na le mehuta ye mekae ya lehea la Bt?
+
+Go na le mapastere a mantši a lehea la Bt ao a fapanago mme a mangwe a ka akaretša twantšho ya sebokophehli le seboko se se jago medu ya lehea. 
+
+
+
+Na mapastere ohle a lehea la Bt a kgona go laola disenyi ka go swana?
+
+Tekanetšo ya taolo ya disenyi tše di lebantšhitšwego gammogo le boleng (spectrum) bja taolo ye e kgonwago ke lepastere ke mohola wa tiragalo goba ditiragalo (function of the event(s)) tšeo le di akaretšago. Go kaone go bapiša taolo ya dikhunkhwane go ya ka tiragalo (event) bakeng sa go ya ka mohuta wa lepastere (hybrid). Kgetha mapastere ao a tlogo atlega tikologong ya gago mme o kgopele tshedimošo (data) mabapi le ditiragalo (events) tšeo di akaretšwago ke mapastere ao. 
+
+Na lehea la Bt le ka atlega tikologong ya ka?
+Mekgwa ya Bt ga e swanele go huetša katlego ya lepastere. Ge mohuta wa ka mehla wa lepastere o atlega tikologong ye e itšego, mohuta wa Bt le wona o swanetše go atlega. 
+
+Na Bt ke mokgwa o noši woo o tsentšwego leheeng ka tirišo ya leabela?
+Mapastere a mangwe ao a nago le mekgwa yeo e tsentšwego ka tirišo ya leabela, bjalo ka go lwantšha dibolayangwang, a a hwetšagala. Mekgwa ye mengwe ye mentši e tšwetšwa pele gonabjale mme e tla hwetšagala ka moso. 
+
+Na lehea ke sebjalo se noši seo se tsentšwego Bt ka tirišo ya leabela?
+Aowa, dibjalo tše dingwe tše mmalwa di fetotšwe gore di tšweletše mpholo wa delta endotoxins. Le ge go le bjalo, kgwebong go dirišwa kudu lehea le leokodi. 
+
+Na go na le mehola ye mengwe mabapi le go diriša lehea la Bt bakeng sa sebolayakhunkhwane go laola dibokophehli?
+Lehea la Bt le laola dibokophehli ntle le go huetša dibatana le dikhunkhwane tše dingwe tše di nago le mohola. Se se ka nolofatša taolo ya disenyi tše dingwe tša go swana ditshwedi tša digokgo (spider mites) le ge go se na le tshedimošo (data) ye e thekgago kgopolo ye. 
+
+Na go na le dipoelamorago mabapi le tirišo ya lehea la Bt go laola dibokophehli ge e bapišwa le taolo ye e tlwaelegilego?
+Peu ya lehea la Bt e tura go feta peu ya ka mehla mme motšweletši o ntšha tšhelete ye le ge a sa tsebe ge eba go ka ba tlhaselo ya dibokophehli. Taolo ya ka mehla ya sekhemikhale e dumelela motšweletši go ema go bona ge eba tlhaselo e tlo ba gona pele ga ge a ntšha tšhelete ya go laola dikhunkhwane. Go feta fao, tshepelelano le dinyakwa tša “botšhabelo” (refuge) (bala mo tlase) e ka thatafatša pšalo, puno le mešomo ya go laola disenyi. 
+
+Na nka bjala lehea la Bt ka lebala dikhunkhwane le ditshwedi?
+Aowa, lehea la Bt le ka se go lebadiše disenyikhunkhwane ka botlalo. Tekolo le taolo e sa tlo nyakega mabapi le disenyi tše dingwe. 
+
+Na go na le dipoelamorago tše dingwe mabapi le tirišo ya lehea la Bt ge e bapišwa le mekgwa ya ka mehla ya go laola ya disenyi? 
+Go ka ba le mathata mabapi le papatšo ya lehea la Bt mebarakeng ya ditšhabatšhaba. Seemo sa mebaraka ya ditšhabatšhaba se fetoga ka bjako, ka fao motšweletši ga a kgone go tseba ka moo melawana e ka fetogago go tloga ge lepastere le kgethwa go fihla ka nako ya puno. Bjo ke bothata bja ka mehla mabapi le ditiragalo (events) tše di sa tšwago go dumelelwa. 
+
+Na lehea la Bt ke swanetše go le diriša kae?
+Lehea la Bt le swanetše go dirišwa fela fao tlhaselo ya sesenyi seo se lebantšhitšwego e hlolago kgonagalokotsi ye kgolo. 
+
+Go dirwa eng go šitiša sebokophehli go lwantšha lehea la Bt?
+Banyakišiši ba Yunibesithi, badiredi ba intasteri ya peu le ba EPA ba dirišana go tšweletša maano a a kgontšhago a tirišo a go laola twantšho ya mohuta woo. Maano ao a theilwe godimo ga mokgwa wa selekanyo sa godimo (high dose) le wa “botšhabelo” (refuge). 
+
+Mokgwa wa “botšhabelo” ke eng?
+Ge naga ya “botšhabelo” (naga yeo e se nago le lehea la Bt) e bjalwa mapastere ao e sego a Bt, dibokophehli le diboko tšeo di jago medu ya lehea tšeo di tšwago mašemong ao di tlo huetšwa ke Bt. Tšona di tla kopana le diboko tšeo di phologilego lehea la Bt mme tša tšwetša pele khuetšo ya leabela la tšona ka go tswadišana. 
+
+
+
+
+

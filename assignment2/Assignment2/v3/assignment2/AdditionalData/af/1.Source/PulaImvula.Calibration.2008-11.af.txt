@@ -1,0 +1,106 @@
+Calibration (Maize)										Afrikaans
+
+
+
+Kalibrasie van die spuit
+
+
+
+Instructions:
+
+ Folio strap: Meganisasie
+
+Byline: Aangepas vanuit die Graan SA Tegniese Vaardigheidsontwikkelings Kursus deur Jane
+
+                McPherson
+
+ Photos: Calibration	
+
+
+
+Die voorafgaande artikel het al die komponente asook die werking van die onkruidspuit gedek. In hierdie artikel gaan ons die kalibrasie van die spuit van nader bekyk. 
+
+
+
+Wat is kalibrasie?
+
+Die proses van die kalibrasie van die spuit is ontwerp om te verseker dat jy die korrekte hoeveelheid vloeistof (water en gif) op die verlangde oppervlak aanwend. 
+
+
+
+Gereedskap benodig vir kalibrasie
+
+Stophorlosie
+
+Maatbeker (in ml gemerk) 
+
+Maatband
+
+
+
+Wat kan verstel word?
+
+Die spuitpunt. Die spuitpunt met ‘n kleiner gat sal minder vloeistof lewer as ‘n spuitpunt met ‘n groter gat. Die spuitpunt kan ‘n wyer of smaller sproeipatroon hê.
+
+Die spuitdruk. Indien jy harder pomp sal die druk verhoog en meer vloeistof deurlaat. Hoe hoër die druk, hoe kleiner die druppels.
+
+Wanneer met ‘n trekker gespuit word, sal die pomp se druk beïnvloed word deur die rewolusies/min (rpm). 
+
+Die ratte van die trekker beinvloed die spoed van die trekker.
+
+Die trekkeroperateur moet besluit op die rpm, sowel as die rat wat gebruik moet word en dit moet konstant gehou word wanneer die kalibrasie afgehandel is. 
+
+Verander die hoeveelheid gif in die mengsel. Meer gif beteken dat meer van die aktiewe bestanddele met dieselfde hoeveelheid water aangewend word. 
+
+
+
+‘n Voorbeeld van die kalibrasie metode
+
+Vul die tenk van die spuit.
+
+Besluit watter rat gebruik gaan word en teen hoeveel rpm (bv. 4de rat teen 2 500 rpm).
+
+Meet ‘n afstand van 100 m.
+
+Gebruik daardie rat en die korrekte rpm, bepaal die tyd wat dit neem vir die trekker om 100 m af te lê (bv. 21 sekondes).
+
+Laat die trekker enjin in ‘n stilstaande posisie teen 2500 rpm werk en kontroleer die spuitbedekking op die grond. 
+
+Stel die druk op die spuit om die verlangde effek te gee (bv. drie bar).
+
+Gebruik dieselfde tyd ( bv. 21 sekondes) wat dit vir die trekker neem om 100 m af te lê, maak die spuit oop en meet die hoeveelheid water wat deur een spuitpunt geproduseer word (bv. 1 200 ml / 1,2 liter).
+
+Herhaal bogenoemde prosedure met twee of drie verskillende spuitpunte en bepaal die gemiddelde spuitvolume per spuitpunt. 
+
+Gebruik die hoeveelheid vloeistof wat deur een spuitpunt geproduseer is (bv 1200 ml/1,2 liter) en vermenigvuldig dit met die totale aantal spuitpunte (bv. twaalf spuitpunte) sodat jy weet hoeveel liter jy oor ‘n 100 m spuit (met al die spuitpunte 12 x 1,2 liter = 14,4 liter)
+
+Bepaal die wydte van die spuitbalk (bv. 4,7 m).
+
+Nou weet jy wat die wydte is wat jy spuit en jy weet wat die hoeveelheid water is wat jy oor die wydte van ‘n 100 m spuit. 
+
+Die oppervlak gedek oor 100 m: 100 m x 4,7 m = 470 vierkante meter. 
+
+14,4 Liter water is op hierdie oppervlakte gebruik.
+
+Die oppervlakte van een hektaar = 10 000 vierkante meter (100 m x 100 m).
+
+Die volume wat op een hektaar gebruik word sal 10 000 / 470 = 21,27 x 14,4 l = 306 l / hektaar wees.
+
+Die etiket op die gifhouer sal ‘n aanduiding van die hoeveelheid water wat per hektaar nodig is, sowel as die hoeveelheid liters gif per hektaar gee. 
+
+Indien jy die hele oefening afgehandel het en dan uitvind dat die hoeveelheid vloeistof nie binne die norm is nie, herhaal die oefening en verstel die druk op die spuit of die rat op die trekker of die spuitpunt grootte. 
+
+Wanneer die hoeveelheid water korrek is, bereken die hoeveelheid gif wat bygevoeg moet word. 
+
+Die tenk hou byvoorbeeld 500 liter water. Jy benodig vier liter gif per hektaar. Dus 500 liter / 360 (liters per hektaar) x vier (liters gif per hektaar).
+
+Jy moet 6,5 liter gif per 500 liter water byvoeg. 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+NWU is gasheer vir Sakai-werkswinkel vir programmeerders
+
+
+
+
+
+
+NWU is gasheer vir Sakai-werkswinkel vir programmeerders
+
+POTCHEFSTROOM - Die Noordwes-Universiteit (NWU) het onlangs die eerste Sakai-konferensie vir programmeerders in Suid-Afrika aangebied. Sakai is die oopbron-kursusbestuur- en -samewerkingstelsel, beter bekend as eLeer in Suid-Afrika.
+Die NWU-implementering van Sakai word eFundi genoem. Die Universiteit het sowat 'n jaar gelede besluit om na eFundi oor te slaan en die ouer, tuisontwikkelde stelsel, Varsite LMS teen die einde van 2008 uit te faseer.
+“Dit was vir ons 'n voorreg om drie van die senior ontwikkelaars van Sakai in ons midde te ontvang,” sê mnr Boeta Pretorius, Institusionele Bestuurder: IT-Afdeling Toepassings en Navorsing.  Twee van die ontwikkelaars, mnre Antranig Basman en Aaron Zeckoski is van die Cambridge-Universiteit in die Verenigde Koninkryk en die derde, mnr Tony Atkins is van Skotland.
+Mnr Pretorius glo dat die konferensie die Universiteit in staat sal stel om beter ondersteuning te verleen aan 'n vinnig groeiende eLeer-gemeenskap aan die NWU en om 'n sukses te maak van die 350 leergemeenskappe of modules wat in die komende 18 maande vanaf Varsite na eFundi toe oorgeplaas moet word.
+“Dit was 'n baie produktiewe week vir die 22 kursusgangers van vier universiteite en kolleges en die twee potensiële kommersiële vennote.   Hulle het almal baie hard gewerk tydens die vyf dae en was daarna baie uitgeput, maar is van mening dat hulle baie geleer het,” sê mnr Pretorius. Mnre Tony Atkins en Aaron Zeckoski het nog etlike maande gelede vir die Virginia Tech gewerk, waar 'n student onlangs verskeie mense doodgeskiet het. Die skietvoorval het plaasgevind tydens die Sakai-ontwikkelaars se besoek aan die NWU.
+
+
+
+
+Die Noordwes-Universiteit het onlangs die eerste Sakai-konferensie vir programmeerders in Suid-Afrika aangebied. Sakai is die oopbron-kursusbestuur- en -samewerkingstelsel – in Suid-Afrika beter bekend as eLeer.
+

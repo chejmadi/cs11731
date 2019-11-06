@@ -1,0 +1,308 @@
+COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Datum Pryse Aangepas: November 2008 Vertakking as % van Totale Boerdery : 25%
+Elk Kere Ha Eenheid
+BRUTO INKOMSTE
+Kwota -Nie-lewering 24.000 Ton R 20.00 1 R 480.00 #DIV/0!
+TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE R -480.00 #DIV/0!
+min DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Ander
+Korrel Kunsmis
+Chemies
+Chemies
+Chemies
+Opleistelsel Materiaal
+Elektrisiteit
+Seisoensarbeid
+Bewerking
+Oes
+Seisoensarbeid
+Draad
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 83,222.96 #DIV/0!
+MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R -83,702.96 #DIV/0!
+min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 552.73 #DIV/0!
+BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R -84,255.69 #DIV/0!
+min ANDER KOSTE
+NETTO MARGE BO GESPESIFISEERDE KOSTE R -88,454.34 #DIV/0!
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed
+Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998
+Tegnies versorg deur: Gewasproduksie Afdeling
+Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 126:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging
+Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha)
+Totale kunsmis toegedien ongeveer 36 kg N, 44 kg P & 0 kg K
+km vanaf Kelder/depot; Benodig 55 OWK Kelder aandele/ton druiwe gelewer
+PARAMETRIESE ANALISE Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar
+Wanneer die Prys van Druiwe R 829 tot en die Hoeveelheid van Druiwe 0.000 tot wissel van wissel van R 1,121 0.000
+Prys/Eenheid
+Opbrengs/Hektaar R 829 R 902 R 975 R 1,048 R 1,121
+Datum Pryse Aangepas: Item BRUTO INKOMSTE a Produkinkomste: Wyndruiwe -Sultana November 2008 Hoev Elk 4.000 Ton Eenh Vertakking as % van Totale Boerdery : Prys Aantal Waarde Kere Ha R 3,900.00 R 975.00 1 R 3,900.00 R 0.00 R 0.00 25% Eenheid R 975.00 R 975.00 R 0.00
+b Bemarkingskoste: Kwota -Nie-lewering 20.000 Ton TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE min DIREK TOEDEELBARE VERANDERLIKE KOSTE VOOROESKOSTE a Plant Materiaal: Ander R 20.00 R 0.00 R 0.00 R 0.00 1 R 400.00 R 100.00 R 400.00 R 100.00 R 0.00 R 0.00 R 3,500.00 R 875.00 R 3,261.00 R 815.25 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+b Bemesting: Korrel Kunsmis KAN 28 100.000 Kg R 7.80 R 0.00 1 R 780.00 R 780.00 R 0.00 R 195.00 R 195.00 R 0.00
+d Plaagbeheer: Chemies R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+f Algemeen: Opleistelsel Materiaal R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+g Besproeiing: Water Skema Boegoeberg Elektrisiteit 1.000 Jaar R 1,061.00 R 0.00 R 0.00 R 0.00 1 R 1,061.00 R 1,061.00 R 0.00 R 0.00 R 0.00 R 265.25 R 265.25 R 0.00 R 0.00 R 0.00
+h Los-& Seisoensarbeid: Losarbeid Besproeiing -Arbeid Jong Stokkies -Oplei Seisoensarbeid 4.000 Uur 1684.000 Stokke R 7.00 R 0.40 R 0.00 R 0.00 16 1 R 1,121.60 R 448.00 R 673.60 R 0.00 R 0.00 R 280.40 R 112.00 R 168.40 R 0.00 R 0.00
+i Kontrakwerk: R 0.00
+R 0.00 Bewerking
+R 226.25 a Kontrakwerk:
+R 0.00 Oes
+b Los-& Seisoensarbeid: R 560.00
+R 140.00 Seisoensarbeid
+Oes Druiwe -Arbeid 20.000
+Uur R 7.00
+c Verpakkingmateriaal: R 345.00
+R 86.25 Ander
+Rol R 345.00
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 4,166.00
+R 1,041.50 MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE
+R -166.50 min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Veranderlike Koste Masjinerie R 403.80
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 478.80
+R 119.70 BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE
+R -286.20 min ANDER KOSTE
+Vaste Arbeid 3.000
+R 975.00 Vaste Koste Masjinerie
+TOTAAL ANDER KOSTE R 4,200.92
+R 1,050.23 NETTO MARGE BO GESPESIFISEERDE KOSTE
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998Tegnies versorg deur: Gewasproduksie AfdelingGegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 127:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha) Totale kunsmis toegedien ongeveer 27 kg N, 0 kg P & 0 kg K 20 km vanaf Kelder/depot; Benodig 55 OWK Kelder aandele/ton druiwe gelewer
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar Wanneer die Prys van Druiwe wissel van R 829 tot R 1,121 en die Hoeveelheid van Druiwe wissel van 3.400 tot 4.600
+Prys/Eenheid
+Opbrengs/Hektaar R 975
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar
+Opbrengs/Ha
+COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Datum Pryse Aangepas: Item BRUTO INKOMSTE a Produkinkomste: Wyndruiwe -Sultana November 2008 Hoev Elk 17.000 Ton Eenh Vertakking as % van Totale Boerdery : Prys Aantal Waarde Kere Ha R 16,575.00 R 975.00 1 R 16,575.00 R 0.00 R 0.00 25% Eenheid R 975.00 R 975.00 R 0.00
+b Bemarkingskoste: Kwota -Nie-lewering 7.000 Ton TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE min DIREK TOEDEELBARE VERANDERLIKE KOSTE VOOROESKOSTE a Plant Materiaal: Ander R 20.00 R 0.00 R 0.00 R 0.00 1 R 140.00 R 8.24 R 140.00 R 8.24 R 0.00 R 0.00 R 16,435.00 R 966.76 R 6,837.50 R 402.21 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+b Bemesting: Korrel Kunsmis KAN 28 2:3:4 30 0.5% Zn 100.000 Kg 200.000 Kg R 7.80 R 9.52 1 1 R 2,684.00 R 780.00 R 1,904.00 R 157.88 R 45.88 R 112.00
+d Plaagbeheer: Chemies R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+f Algemeen: Opleistelsel Materiaal R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+g Besproeiing: Water Skema Boegoeberg Elektrisiteit 1.000 Jaar R 1,061.00 R 0.00 R 0.00 R 0.00 1 R 1,061.00 R 1,061.00 R 0.00 R 0.00 R 0.00 R 62.41 R 62.41 R 0.00 R 0.00 R 0.00
+h Los-& Seisoensarbeid: Losarbeid Besproeiing -Arbeid Seisoensarbeid Snoei -Arbeid 4.000 Uur 1684.000 Stokke R 7.00 R 0.00 R 0.80 R 0.00 16 1 R 1,795.20 R 448.00 R 0.00 R 1,347.20 R 0.00 R 105.60 R 26.35 R 0.00 R 79.25 R 0.00
+i Kontrakwerk: R 0.00
+R 0.00 Bewerking R 0.00 R 0.00
+R 140.00 a Kontrakwerk: R 0.00
+R 0.00 Oes R 0.00 R 0.00
+b Los-& Seisoensarbeid: R 2,380.00
+R 140.00 Seisoensarbeid Oes Druiwe -Arbeid
+Uur R 7.00
+c Verpakkingmateriaal: R 0.00
+R 0.00 Ander R 0.00 R 0.00
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 9,217.50
+R 542.21 MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R 7,217.50
+R 424.56 min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Veranderlike Koste Masjinerie R 824.12
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 899.12
+R 52.89 BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R 6,318.38
+R 371.67 min ANDER KOSTE
+Vaste Arbeid 3.000
+R 229.41 Vaste Koste Masjinerie R 605.89
+TOTAAL ANDER KOSTE R 4,505.89
+R 265.05 NETTO MARGE BO GESPESIFISEERDE KOSTE R 1,812.49
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998 Tegnies versorg deur: Gewasproduksie Afdeling Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 128:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha) Totale kunsmis toegedien ongeveer 41 kg N, 20 kg P & 27 kg K 20 km vanaf Kelder/depot; Benodig 55 OWK Kelder aandele/ton druiwe gelewer
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar Wanneer die Prys van Druiwe wissel van R 829 tot R 1,121 en die Hoeveelheid van Druiwe wissel van 14.450 tot 19.550
+Prys/Eenheid
+Opbrengs/Hektaar R 829 R 902 R 975 R 1,048 R 1,121
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar
+Opbrengs/Ha COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Datum Pryse Aangepas: Item BRUTO INKOMSTE a Produkinkomste: Wyndruiwe -Sultana November 2008 Hoev Elk 24.000 Ton Eenh Vertakking as % van Totale Boerdery : Prys Aantal Waarde Kere Ha R 23,400.00 R 975.00 1 R 23,400.00 R 0.00 R 0.00 25% Eenheid R 975.00 R 975.00 R 0.00
+b Bemarkingskoste: Kwota -Nie-lewering 0.000 Ton TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE min DIREK TOEDEELBARE VERANDERLIKE KOSTE VOOROESKOSTE a Plant Materiaal: Ander R 20.00 R 0.00 R 0.00 R 0.00 1 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 23,400.00 R 975.00 R 6,908.70 R 287.86 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+b Bemesting: Korrel Kunsmis KAN 28 2:3:4 30 0.5% Zn 100.000 Kg 200.000 Kg R 7.80 R 9.52 1 1 R 2,684.00 R 780.00 R 1,904.00 R 111.83 R 32.50 R 79.33
+d Plaagbeheer: Chemies R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+f Algemeen: Opleistelsel Materiaal R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+g Besproeiing: Water Skema Boegoeberg Elektrisiteit 1.000 Jaar R 1,061.00 R 0.00 R 0.00 R 0.00 1 R 1,061.00 R 1,061.00 R 0.00 R 0.00 R 0.00 R 44.21 R 44.21 R 0.00 R 0.00 R 0.00
+h Los-& Seisoensarbeid: Losarbeid Besproeiing -Arbeid Seisoensarbeid Snoei -Arbeid 4.000 Uur 1684.000 Stokke R 7.00 R 0.00 R 0.80 R 0.00 16 1 R 1,795.20 R 448.00 R 0.00 R 1,347.20 R 0.00 R 74.80 R 18.67 R 0.00 R 56.13 R 0.00
+i Kontrakwerk: R 0.00
+R 0.00 Bewerking R 0.00 R 0.00
+R 140.00 a Kontrakwerk: R 0.00
+R 0.00 Oes R 0.00 R 0.00
+b Los-& Seisoensarbeid: R 3,360.00
+R 140.00 Seisoensarbeid Oes Druiwe -Arbeid
+Uur R 7.00
+c Verpakkingmateriaal: R 0.00
+R 0.00 Ander R 0.00 R 0.00
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 10,268.70
+R 427.86 MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R 13,131.30
+R 547.14 min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Veranderlike Koste Masjinerie R 1,003.08
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 1,078.08
+R 44.92 BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R 12,053.22
+R 502.22 min ANDER KOSTE
+Vaste Arbeid 3.000
+R 162.50 Vaste Koste Masjinerie R 735.97
+TOTAAL ANDER KOSTE R 4,635.97
+R 193.17 NETTO MARGE BO GESPESIFISEERDE KOSTE R 7,417.25
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998 Tegnies versorg deur: Gewasproduksie Afdeling Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 129:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha) Totale kunsmis toegedien ongeveer 41 kg N, 20 kg P & 27 kg K 20 km vanaf Kelder/depot; Benodig 55 OWK Kelder aandele/ton druiwe gelewer
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar Wanneer die Prys van Druiwe wissel van R 829 tot R 1,121 en die Hoeveelheid van Druiwe wissel van 20.400 tot 27.600
+Prys/Eenheid
+Opbrengs/Hektaar R 829 R 902 R 975 R 1,048 R 1,121
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar
+COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Datum Pryse Aangepas: November 2008 Vertakking as % van Totale Boerdery : 25%
+Elk Kere Ha Eenheid
+BRUTO INKOMSTE a Produkinkomste:
+TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE
+min DIREK TOEDEELBARE VERANDERLIKE KOSTE COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Ander
+Korrel Kunsmis
+Chemies
+Chemies
+Chemies
+Opleistelsel Materiaal
+Elektrisiteit
+Seisoensarbeid
+Bewerking
+Oes
+Seisoensarbeid
+Draad
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 83,222.96 #DIV/0!
+MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R -83,222.96 #DIV/0!
+min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 552.73 #DIV/0!
+BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R -83,775.69 #DIV/0!
+min ANDER KOSTE
+NETTO MARGE BO GESPESIFISEERDE KOSTE R -87,974.34 #DIV/0!
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed
+Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998
+Tegnies versorg deur: Gewasproduksie Afdeling
+Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 130:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging
+Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha)
+Totale kunsmis toegedien ongeveer 36 kg N, 44 kg P & 0 kg K
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar
+Wanneer die Prys van Druiwe R 7 tot wissel van R 10
+en die Hoeveelheid van Druiwe 0.000 tot wissel van 0.000
+Prys/Eenheid
+Opbrengs/Hektaar R 7 R 8 R 9 R 9 R 10
+Datum Pryse Aangepas: Item BRUTO INKOMSTE a Produkinkomste: Thompson Keur Graad Thompson Standaard Graad Thompson Industriele Graad November 2008 Hoev Elk 750.000 Kg 200.000 Kg 50.000 Kg Eenh Vertakking as % van Totale Boerdery : Prys Aantal Waarde Kere Ha R 7,475.00 R 8.50 1 R 6,375.00 R 5.00 1 R 1,000.00 R 2.00 1 R 100.00 25% Eenheid R 7.48 R 8.50 R 5.00 R 2.00
+b Bemarkingskoste: TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE min DIREK TOEDEELBARE VERANDERLIKE KOSTE VOOROESKOSTE a Plant Materiaal: Ander R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 7,475.00 R 9.97 R 3,261.00 R 4.35 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+b Bemesting: Korrel Kunsmis KAN 28 100.000 Kg R 7.80 R 0.00 1 R 780.00 R 780.00 R 0.00 R 1.04 R 1.04 R 0.00
+d Plaagbeheer: Chemies R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+f Algemeen: Opleistelsel Materiaal R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+g Besproeiing: Water Skema Boegoeberg Elektrisiteit 1.000 Jaar R 1,061.00 R 0.00 R 0.00 R 0.00 1 R 1,061.00 R 1,061.00 R 0.00 R 0.00 R 0.00 R 1.41 R 1.41 R 0.00 R 0.00 R 0.00
+h Los-& Seisoensarbeid: Losarbeid Besproeiing -Arbeid Jong Stokkies -Oplei Seisoensarbeid 4.000 Uur 1684.000 Stokke R 7.00 R 0.40 R 0.00 R 0.00 16 1 R 1,121.60 R 448.00 R 673.60 R 0.00 R 0.00 R 1.50 R 0.60 R 0.90 R 0.00 R 0.00
+i Kontrakwerk: R 0.00
+R 0.00 Bewerking R 0.00 R 0.00
+R 1.39 a Kontrakwerk: R 0.00
+R 0.00 Oes R 0.00 R 0.00
+b Los-& Seisoensarbeid: R 700.00
+R 0.93 Seisoensarbeid Oes Druiwe -Arbeid
+Uur R 7.00
+c Verpakkingmateriaal: R 345.00
+Rol R 345.00
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 4,306.00
+R 5.74 MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R 3,169.00
+R 4.23 min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Veranderlike Koste Masjinerie R 402.28
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 477.28
+R 0.64 BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R 2,691.72
+R 3.59 min ANDER KOSTE
+Vaste Arbeid 3.000
+R 5.20 Droogbaan m² R 41.60
+R 26.62 Vaste Koste Masjinerie R 294.05
+TOTAAL ANDER KOSTE R 24,162.05
+R 32.22 NETTO MARGE BO GESPESIFISEERDE KOSTE R -21,470.33
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998 Tegnies versorg deur: Gewasproduksie Afdeling Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 131:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha) Totale kunsmis toegedien ongeveer 27 kg N, 0 kg P & 0 kg K 20 km vanaf Kelder/depot; 4 ton druiwe realiseer 1 ton rosyne
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar Wanneer die Prys van Druiwe wissel van R 6 tot R 9 en die Hoeveelheid van Druiwe wissel van 850.000 tot 1,150.000
+Prys/Eenheid
+Opbrengs/Hektaar R 6.35 R 6.91 R 7.48 R 8.04 R 8.60
+COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Datum Pryse Aangepas: Item BRUTO INKOMSTE a Produkinkomste: Thompson Keur Graad Thompson Standaard Graad Thompson Industriele Graad November 2008 Hoev Elk 3000.000 Kg 800.000 Kg 200.000 Kg Eenh Vertakking as % van Totale Boerdery : Prys Aantal Waarde Kere Ha R 29,900.00 R 8.50 1 R 25,500.00 R 5.00 1 R 4,000.00 R 2.00 1 R 400.00 25% Eenheid R 7.48 R 8.50 R 5.00 R 2.00
+b Bemarkingskoste: TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE min DIREK TOEDEELBARE VERANDERLIKE KOSTE VOOROESKOSTE a Plant Materiaal: Ander R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 29,900.00 R 9.97 R 6,837.50 R 2.28 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+b Bemesting: Korrel Kunsmis KAN 28 2:3:4 30 0.5% Zn 100.000 Kg 200.000 Kg R 7.80 R 9.52 1 1 R 2,684.00 R 780.00 R 1,904.00 R 0.89 R 0.26 R 0.63
+d Plaagbeheer: Chemies R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+f Algemeen: Opleistelsel Materiaal R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+g Besproeiing: Water Skema Boegoeberg Elektrisiteit 1.000 Jaar R 1,061.00 R 0.00 R 0.00 R 0.00 1 R 1,061.00 R 1,061.00 R 0.00 R 0.00 R 0.00 R 0.35 R 0.35 R 0.00 R 0.00 R 0.00
+h Los-& Seisoensarbeid: Losarbeid Besproeiing -Arbeid Seisoensarbeid Snoei -Arbeid 4.000 Uur 1684.000 Stokke R 7.00 R 0.00 R 0.80 R 0.00 16 1 R 1,795.20 R 448.00 R 0.00 R 1,347.20 R 0.00 R 0.60 R 0.15 R 0.00 R 0.45 R 0.00
+i Kontrakwerk: R 0.00
+R 0.00 Bewerking R 0.00 R 0.00
+R 0.93 a Kontrakwerk: R 0.00
+R 0.00 Oes R 0.00 R 0.00
+b Los-& Seisoensarbeid: R 2,800.00
+R 0.93 Seisoensarbeid Oes Druiwe -Arbeid
+Uur R 7.00
+c Verpakkingmateriaal: R 0.00
+R 0.00 Ander R 0.00 R 0.00
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 9,637.50
+R 3.21 MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R 20,262.50
+R 6.75 min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Veranderlike Koste Masjinerie R 817.66
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 892.66
+R 0.30 BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R 19,369.84
+R 6.46 min ANDER KOSTE
+Vaste Arbeid 3.000
+R 1.30 Vaste Koste Masjinerie R 576.70
+TOTAAL ANDER KOSTE R 4,476.70
+R 1.49 NETTO MARGE BO GESPESIFISEERDE KOSTE R 14,893.14
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998 Tegnies versorg deur: Gewasproduksie Afdeling Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 132:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha) Totale kunsmis toegedien ongeveer 41 kg N, 20 kg P & 27 kg K 20 km vanaf Kelder/depot; 4 ton druiwe realiseer 1 ton rosyne
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar Wanneer die Prys van Druiwe wissel van R 6 tot R 9 en die Hoeveelheid van Druiwe wissel van 3,400.000 tot 4,600.000
+Prys/Eenheid
+Opbrengs/Hektaar R 6.35 R 6.91 R 7.48 R 8.04 R 8.60
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar
+Opbrengs/Ha COMBUD DEPARTEMENT VAN LANDBOU & GRONDHERVORMING: NOORD-KAAP PROVINSIE
+Datum Pryse Aangepas: Item BRUTO INKOMSTE a Produkinkomste: Thompson Keur Graad Thompson Standaard Graad Thompson Industriele Graad November 2008 Hoev Elk 4500.000 Kg 1200.000 Kg 300.000 Kg Eenh Vertakking as % van Totale Boerdery : Prys Aantal Waarde Kere Ha R 44,850.00 R 8.50 1 R 38,250.00 R 5.00 1 R 6,000.00 R 2.00 1 R 600.00 25% Eenheid R 7.48 R 8.50 R 5.00 R 2.00
+b Bemarkingskoste: TOTAAL BRUTO INKOMSTE min BEMARKINGSKOSTE min DIREK TOEDEELBARE VERANDERLIKE KOSTE VOOROESKOSTE a Plant Materiaal: Ander R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 44,850.00 R 9.97 R 6,908.70 R 1.54 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+b Bemesting: Korrel Kunsmis KAN 28 2:3:4 30 0.5% Zn 100.000 Kg 200.000 Kg R 7.80 R 9.52 1 1 R 2,684.00 R 780.00 R 1,904.00 R 0.60 R 0.17 R 0.42
+d Plaagbeheer: Chemies R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+f Algemeen: Opleistelsel Materiaal R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00 R 0.00
+g Besproeiing: Water Skema Boegoeberg Elektrisiteit 1.000 Jaar R 1,061.00 R 0.00 R 0.00 R 0.00 1 R 1,061.00 R 1,061.00 R 0.00 R 0.00 R 0.00 R 0.24 R 0.24 R 0.00 R 0.00 R 0.00
+h Los-& Seisoensarbeid: Losarbeid Besproeiing -Arbeid Seisoensarbeid Snoei -Arbeid 4.000 Uur 1684.000 Stokke R 7.00 R 0.00 R 0.80 R 0.00 16 1 R 1,795.20 R 448.00 R 0.00 R 1,347.20 R 0.00 R 0.40 R 0.10 R 0.00 R 0.30 R 0.00
+i Kontrakwerk: R 0.00
+R 0.00 Bewerking R 0.00 R 0.00
+R 0.93 a Kontrakwerk: R 0.00
+R 0.00 Oes R 0.00 R 0.00
+b Los-& Seisoensarbeid: R 4,200.00
+R 0.93 Seisoensarbeid Oes Druiwe -Arbeid
+Uur R 7.00
+c Verpakkingmateriaal: R 0.00
+R 0.00 Ander R 0.00 R 0.00
+TOTAAL DIREK TOEDEELBARE VERANDERLIKE KOSTE R 11,108.70
+R 2.47 MARGE NA DIREK TOEDEELBARE VERANDERLIKE KOSTE R 33,741.30
+R 7.50 min NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE
+Veranderlike Koste Masjinerie R 993.96
+TOTAAL NIE-DIREK TOEDEELBARE VERANDERLIKE KOSTE R 1,068.96
+R 0.24 BRUTO MARGE NA TOTALE TOEDEELBARE VERANDERLIKE KOSTE R 32,672.34
+R 7.26 min ANDER KOSTE
+Vaste Arbeid 3.000
+R 0.87 Vaste Koste Masjinerie R 694.75
+TOTAAL ANDER KOSTE R 4,594.75
+R 1.02 NETTO MARGE BO GESPESIFISEERDE KOSTE R 28,077.58
+Grootte Bewerk : 20 ha Besproeiing Tipe : Vloed Grootte Vertakking : 5 ha
+Opgestel deur: A.L. Swart, 1998 Tegnies versorg deur: Gewasproduksie Afdeling Gegewens aangepas: A.L. Swart, 2006
+Notas tot Begroting 133:
+Opleistelsel: T-Kap; Plant spasiering: 3.3m x 1.8m; Stokkies: 1,684 + 10% Vervanging Boordgrootte = 5 ha; Blokgrootte = 200m x 50m (1 ha) Totale kunsmis toegedien ongeveer 41 kg N, 20 kg P & 27 kg K 20 km vanaf Kelder/depot; 4 ton druiwe realiseer 1 ton rosyne
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar Wanneer die Prys van Druiwe wissel van R 6 tot R 9 en die Hoeveelheid van Druiwe wissel van 5,100.000 tot 6,900.000
+Prys/Eenheid
+Opbrengs/Hektaar R 6.35 R 6.91 R 7.48 R 8.04 R 8.60
+PARAMETRIESE ANALISE
+Bruto Marge Na Totale Toedeelbare Veranderlike Koste per Hektaar

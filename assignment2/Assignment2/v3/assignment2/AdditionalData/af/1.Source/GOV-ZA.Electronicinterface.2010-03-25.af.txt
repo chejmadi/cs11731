@@ -1,0 +1,31 @@
+Aansoek om SAID- elektroniese koppelvlak
+Beskrywing
+Stappe om te volg
+Regsraamwerk
+Diensstandaard
+Koste
+Vorms om in te vul
+Kontakbesonderhede
+Beskrywing
+Hierdie diens stel 'n individu, instelling of organisasie in staat om deur middel van gedefinieerde tegnologiese media 'n elektroniese koppelvlak met die Suid-Afrikaanse Inkomstediens tot stand te bring. Die nuwe inkomstebelastingstelsel is ontwerp om papierwerk sover moontlik uit te skakel en om die meeste prosesse wat met die hand uitgevoer word, op so 'n wyse te outomatiseer dat alle belastingbetalers gelykwaardig behandel word. Daar is verskeie elektroniese koppelvlakke ontwikkel.
+n Koppelvlakgebruikershandleiding kan op die SAID webwerf geraadpleeg word en sal die meeste van u vrae kan beantwoord.
+Bo
+Stappe om te volg
+Registreer as 'n koppelvlakgebruiker deur die elektroniesekoppelvlak-registrasievorm INF001 in te vul en per e-pos aan its.interfaces@sars.gov.za te versend, of dit aan die SAID-koppelvlakadministrasie, Posbus 402, Pretoria, 0001 te pos. Uitstel vir die inhandiging van inkomstebelastingopgawes kan elektronies aangevra word sonder om te registreer.
+Skryf die volgende besonderhede, wat die SAID ná registrasie sal verskaf, neer:
+jou wagwoord, wat toegang tot die SAID-netwerk verleen die stelsel-identifikasiekode wat die SAID aan jou organisasie toegeken het die gebruikersidentifikasiekode en die wagwoord wat toegang verleen tot die SAID-lêerbediener waarheen die datalêer gestuur moet word netwerkadres of skakelnommers in die geval koppelings met 'n Openbare Skakeltelefoonnetwerk en Geïntegreerde Dienste Digitale Netwerk .
+Kry datakodifiseringsagteware en die instruksies vir die installeringsproses by die SAID. Die SAID sal die sagteware normaalweg by die organisasie aflewer.
+Installeer die datakodifiseringsagteware.
+Bevestig ontvangs van die proef-datalêers aan die SAID-koppelvlakadministrateur en stel die koppelvlak in werking deur egte datalêers terug te stuur.
+Bo
+Regsraamwerk
+Bo
+Diensstandaard
+Die SAID het diensstandaarde daargestel wat oor twee jaar ingefaseer sal word. Wanneer jy registreer of enige betaling maak, wil die SAID jou registrasie binne 10 werksdae korrek verwerk.
+Bo
+Koste
+Die diens is gratis.
+Bo
+Vorms om in te vul
+Bo
+Kontakbesonderhede

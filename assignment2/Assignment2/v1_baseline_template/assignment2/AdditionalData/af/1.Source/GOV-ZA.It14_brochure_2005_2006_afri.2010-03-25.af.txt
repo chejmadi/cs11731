@@ -1,0 +1,682 @@
+Inligting met betrekking tot Inkomstebelasting
+Tot U Diens
+Algemeen 1
+Besonderhede van Maatskappy / Beslote Korporasie 1
+Besonderhede van Openbare Amptenaar 1
+Aandeelhouding / Ledebelang 1
+Voorbereiding van die opgawe 2
+Aanslag, oudit en ander inligting
+Dormante Maatskappye 2
+Plek van effektiewe bestuur 2
+Internasionale hoofkantoormaatskappy 2
+Definisie van 'n Beheerde Buitelandse Maatskappy 2
+Kleinsakekorporasie 3
+Persoonlike Diensmaatskappy 3
+Finansiële inligting Algemene inligting 5 Staat van aandelekapitaal 5 Balansstaatinligting 5 Inkomstestaatinligting 5 Ander inligting 6 Belasbare inkomste / verlies soos bereken 6 Netto inkomste van BBM 7
+Beskikbare krediete 8
+Buitelandse dividende 9
+Kapitaalwins / Verlies 9
+Addisionele inligting / skedules verlang 11
+Mynbouskedules 24
+Ingevolge die Inkomstebelastingwet sluit die woordomskrywing van "maatskappy" 'n beslote korporasie in.
+Vrygestelde inrigtings moet dele 1 -5, en 6.5 invul.
+Die onderstaande besonderhede gee meer duidelikheid oor die wyse waarop die vorm ingevul moet word en die inligting wat verlang word. U aandag word ook gevestig op die Praktyknotas / "Interpretation Notes" wat deur die Kommissaris vir die Suid-Afrikaanse Inkomstediens uitgereik is.
+n Langtermynversekeringsmaatskappy moet 'n IB14Lopgawe indien ten opsigte van sy belastingberekeninge.
+Waar inligting in die inkomstebelastingopgawe aangevul word deur 'n skedule moet 'n kruisverwysing na die betrokke skedule gemaak word. Aantekeninge soos "sien aangehegte verrekeninge", ens. is nie aanvaarbaar nie.
+VERKLARING DEUR / BESONDERHEDE VAN OPENBARE AMPTENAAR
+Hierdie dele moet volledig voltooi en deel 2 moet deur die wetlik aangestelde Openbare Amptenaar onderteken word. Indien u nie 'n selfoon het nie, moet "Geen" ingevul word. U aandag word gevestig op die feit dat die Openbare Amptenaar verantwoordelik is om die handelinge, aangeleenthede of sake te verrig wat ingevolge die Inkomstebelastingwet deur 'n belastingpligtige verrig moet word, en in geval van versuim is hy aan die strawwe, soos bepaal, ten opsigte van versuim deur 'n belastingpligtige onderhewig.
+VOLTOOIING VAN DIE OPGAWE
+Dit is verpligtend vir 'n belastingpligtige om te verseker dat 'n akkurate en volledige openbaarmaking van alle vereiste gegewens en relevante besonderhede gemaak word in die belastingopgawe. Bykomend tot moontlike strafregtelike vervolging en die oplê van boetes soos voorgeskryf in die Inkomstebelastingwet vir wanvoorstelling, versuim, weglating, of verskaffing van onjuiste inligting, kan addisionele aanslae (tesame met rente) gehef word na 'n periode van drie jaar vanaf die datum van die oorspronklike aanslag. Om dit te vermy, en deur korrekte aanslae te hef, en om 'n meer doeltreffende inkomstebelastingstelsel mee te bring, is dit in almal se belang dat die inligting in die opgawe korrek en volledig is.
+Waar die maatskappy meer as een LBS, BTW, SDL en Arbeidsmakelaarsregistrasienommer het, moet die nommers van die grootste bedryf op die opgawe verstrek word en 'n skedule van die oorblywende nommers moet verstrek word. Indien daar geen registrasienommer betrokke is nie, moet 'n "0" in die regterkantste blok ingevul word.
+Indien enige terugbetaling verskuldig is aan die maatskappy en dit in 'n bankrekening betaal moet word, moet die vereiste besonderhede, in die betrokke spasie verstrek word. Let daarop dat die taknommer van die bank verskaf moet word.
+INLIGTINGSBROSJURE
+Aangesien baie belastingpligtiges van die dienste van rekenmeesters, boekhouers of belastingkonsultante gebruik maak en gevolglik nie hierdie brosjure benut nie, moet u aandui of u 'n inligtingsbrosjure vir die volgende jaar van aanslag benodig.
+Voorsien inligting soos in die opgawe versoek.
+Voorsien inligting soos in die opgawe versoek.
+Voorberei deur" is die kontakpersoon indien enige verdere besonderhede in verband met die opgawe verlang word.
+Die opgawe moet vergesel word van die volgende dokumente, state en skedules:
+a Jaarlikse finansiële state geteken deur ten minste twee direkteure in die geval van 'n privaat maatskappy of een lid van 'n beslote korporasie, ondersteun deur 'n verslag van die ouditeur / rekenkundige beampte.
+b In die geval van 'n gekwalifiseerde verslag moet die ouditeur / rekeningkundige beampte die redes en omstandighede verstrek wat aanleiding gegee het tot hierdie kwalifikasie.
+c 'n Volledige inkomstestaat d Waar toepaslik, die skedules soos vereis in Deel 12.
+DORMANTE MAATSKAPPYE
+Die balansstaatinligtingsgedeelte moet voltooi word waar die maatskappy oor bates, laste en / of reserwes beskik. Indien die maatskappy inkomste gedurende die jaar verkry het, moet die res van die opgawe voltooi word.
+PLEK VAN EFFEKTIEWE BESTUUR
+Paragraaf (b) van die definisie van "inwoner" in Artikel 1 van die Inkomstebelastingwet definieer "inwoner" as volg:
+enige persoon (behalwe 'n natuurlike persoon), wat ingelyf, opgerig of ingestel is: of wat sy plek van effektiewe bestuur in die Republiek het.
+INTERNASIONALE HOOFKANTOORMAATSKAPPY
+Van toepassing net vir finansiële jare geeindig op of voor 31/5/2004
+n "Internasionale hoofkantoormaatskappy" word omskryf as 'n maatskappy ­
+die totale ekwiteitsaandelekapitaal waarvan deur persone wat nie inwoners of trusts is nie, gehou word;
+waar enige indirekte belang wat deur inwoners en trusts in daardie ekwiteitsaandelekapitaal gehou word nie 5 persent in totaal van die totale ekwiteitsaandelekapitaal van die maatskappy te bowe gaan nie; en waar 90 persent van die waarde van die bates van daardie maatskappy belange in die ekwiteitsaandelekapitaal en leningskapitaal van filiale van daardie maatskappy wat nie inwoners is nie, waarin daardie maatskappy 'n voordelige belang van ten minste 50% hou, verteenwoordig.
+DEFINISIE VAN 'N BEHEERDE BUITELANDSE MAATSKAPPY (BBM)
+n Beheerde Buitelandse Maatskappy is 'n buitelandse maatskappy waar meer as 50% van die totale deelnemende belange en / stemreg in daardie buitelandse maatskappy deur een of meer inwoner hetsy direk of indirek gehou word.
+n Persoon wat minder as 5% van die deelnemende belange in 'n buitelandse maatskappy of 'n genoteerde maatskappy of 'n skema hou, word geag nie 'n inwoner te wees nie by die vasstelling of inwoners direk of indirek meer as 50% van die deelnemende regte hou in daardie maatskappy of enige ander buitelandse maatskappy waarin daardie persoon enige deelnemende belange indirek hou as gevolg van die belang in daardie genoteerde maatskappy of skema, tensy meer as 50% van die deelnemende belange of stemreg van daardie maatskappy of ander buitelandse maatskappy deur persone wat verbonde persone met betrekking tot mekaar is, gehou word.
+Definisie van deelnemende regte
+Deelnemende regte met betrekking tot 'n buitelandse maatskappy is die reg om, regstreeks of onregstreeks te deel in die aandelekapitaal, aandelepremie, lopende of opgehoopte winste of reserwes van daardie buitelandse maatskappy, hetsy van 'n kapitale aard of nie.
+KLEINSAKEKORPORASIE
+Merk die "Ja" of "Nee" blokkie met 'n "X" om aan te dui of die maatskappy as 'n Kleinsakekorporasie beskou kan word.
+Kleinsakekorporasies is enige beslote korporasie of enige maatskappy waarvan al die aandele / ledebelange gedurende die volle jaar van aanslag deur aandeelhouers of lede wat natuurlike persone is gehou is, waar nie een van die aandeelhouers of lede ter eniger tyd gedurende die jaar van aanslag enige aandele of enige belang in die ekwiteit van enige ander maatskappy gehou het, behalwe 'n maatskappy wat op die aandelebeurs genoteer is of 'n effektegroep, aandeleblokskemas, en verenigings vir die bestuur van kollektiewe belange van lede, soos deur die kommissaris goedgekeur.
+Die ander voorwaardes om as 'n Kleinsakekorporasie geklassifiseer te word is dat:
+Die bruto inkomste van die maatskappy / beslote korporasie vir die jaar van aanslag nie R6 miljoen te bowe gaan nie ten opsigte van 'n volle jaar;
+Nie meer as 20% van die bruto inkomste van die maatskappy of beslote korporasie gesamentlik uit: beleggingsinkomste en inkomste uit hoofde van die lewering van 'n persoonlike diens, verkry is nie; en
+Die maatskappy/beslote korporasie nie 'n werknemermaatskappy is nie.
+PERSOONLIKE DIENSMAATSKAPPY
+Merk die "Ja" of "Nee" blokkie met 'n "X".
+Dui die geldige arbeidsmakelaarsvrystellingsertifikaatnommer aan.
+Dui die aantal nie-verbonde werknemers in die maatskappy se diens aan wat nie verbonde persone met betrekking tot die maatskappy is nie.
+n Verbonde persoon met betrekking tot 'n maatskappy beteken ­
+die houermaatskappy soos omskryf in Artikel 1 van die Maatskappywet van 1973;
+sy filiaal soos aldus omskryf;
+enige ander maatskappy waar beide bedoelde maatskappye filiale (soos aldus omskryf) van dieselfde houermaatskappy is;
+enige persoon, behalwe 'n maatskappy, soos omskryf in Artikel 1 van die Maatskappywet, wat afsonderlik of gesamentlik met 'n verbonde persoon met betrekking tot homself, regstreeks of onregstreeks ten minste 20% van die maatskappy se ekwiteitsaandelekapitaal of stemregte hou;
+enige ander maatskappy indien ten minste 20% van die ekwiteitsaandelekapitaal van bedoelde maatskappy deur bedoelde ander maatskappy gehou word, en geen aandeelhouer die meerderheid stemregte van bedoelde maatskappy hou nie;
+enige ander maatskappy indien bedoelde ander maatskappy bestuur of beheer word deur enige persoon (A) wat 'n verbonde persoon met betrekking tot bedoelde maatskappy is, of wat 'n verbonde persoon is met betrekking tot (A), en waar bedoelde maatskappy 'n beslote korporasie is ­
+enige lid;
+enige familielid van bedoelde lid of enige trust wat 'n verbonde persoon is met betrekking tot bedoelde lid, en enige ander beslote korporasie of maatskappy wat 'n verbonde persoon is met betrekking tot ­
+enige lid van bedoelde beslote korporasie, of enige familielid van bedoelde lid of enige trust wat 'n verbonde persoon is met betrekking tot bedoelde lid.
+n Persoonlike diensmaatskappy beteken enige maatskappy (behalwe 'n maatskappy wat 'n arbeidsmakelaar is) waar enige diens ten behoewe van daardie maatskappy aan 'n kliënt van daardie maatskappy persoonlik deur enige persoon wat 'n verbonde persoon met betrekking tot bedoelde maatskappy / beslote korporasie is, gelewer word, en ­
+bedoelde persoon as 'n werknemer van bedoelde kliënt geag sou gewees het indien daardie diens direk aan bedoelde kliënt deur bedoelde persoon gelewer is anders as namens bedoelde maatskappy; of bedoelde persoon (of bedoelde maatskappy) onderworpe is aan die beheer of toesig van bedoelde kliënt met betrekking tot die wyse waarop, of werksure waartydens die pligte verrig word of verrig staan te word ter lewering van bedoelde diens; of die bedrae betaal of wat betaalbaar is by gereelde daaglikse, weeklikse, maandelikse of ander tussenposes; of waar meer as 80 persent van die maatskappy / beslote korporasie se inkomste verkry is vir dienste gelewer, t.o.v. die betrokke jaar van aanslag en die inkomste so verkry, ontvang is van een kliënt van die betrokke maatskappy/beslote korporasie.
+LET WEL:
+n Maatskappy / beslote korporasie is nie 'n persoonlike diensmaatskappy nie waar die bedoelde maatskappy / beslote korporasie gedurende die hele jaar van aanslag meer as drie voltydse werknemers in diens gehad het wat op 'n voltydse basis betrokke was by die besigheid van bedoelde maatskappy / beslote korporasie om bedoelde diens te lewer, behalwe enige werknemer wat 'n verbonde persoon met betrekking tot bedoelde maatskappy/beslote korporasie is.
+PROVINSIE WAAR HOOFBEDRYF BEOEFEN WORD
+Die kodes vir die onderskeie provinsies is ­
+Oos-Kaap 08 Wes-Kaap
+Noord-Kaap
+BRONKODE VAN HOOFBEDRYF
+Hoofbedryf is die belangrikste aktiwiteit wat deur die maatskappy beoefen word. (Verwys na tabel hieronder wat alfabeties gerangskik is vir maklike verwysing)
+BRONKODE VAN HOOFBRON VAN INKOMSTE
+Dit is die bron waaruit die hoogste bruto inkomste gegenereer word. Dit is nie noodwendig die belangrikste aktiwiteit wat deur die maatskappy beoefen word nie.
+LET WEL:
+BRON-KODE BESKRYWING BRON-KODE BESKRYWING
+Agentskappe en ander dienste 34 Metaal 12
+Ander vervaardigingsnywerhede 18 Metaalprodukte (uitgesonderd masjinerie en toerusting) 13
+Bakstene, keramiek, glas, sement en dergelike produkte 11 Mynwese en steengroefwerk 02
+Chemikalieë en chemiese-, rubber-en plastiekprodukte 09 Navorsings-en wetenskaplike institute 28
+Elektrisiteit, gas en water 19 Onderwysdienste 27
+Finansiering, versekering, vasteeiendomenbesigheidsdienste 25 Ontspanning en kulturele dienste 31
+Gespesialiseerde hersteldienste 33 Papier, drukwerk en uitgewery 08
+Groothandel 21 Persoonlike en huishoudelike dienste 32
+Hout, houtprodukte en meubels 07 Steenkool-en petroleumprodukte 10
+Kleinhandel (ingeslote posbestellings) 22 Tekstielstowwe 04
+Klerasie en skoeisel 05 Verversings en akkommodasie 23
+Konstruksie 20 Vervoer, opberging en kommunikasie 24
+Landbou, bosbou en vissery 01 Vervoertoerusting (uitgesonderd motorvoertuie onderdele en toebehore) 16
+Langtermynversekeraars 26 Voedsel, drank en tabak 03
+Leer, leerprodukte en pelse (uitgesonderd skoeisel en klerasie) 06 Voertuie, onderdele en toebehore 15
+Maatskaplike en verwante gemeenskapsdienste 30 Werkverskaffing (salaris) 35
+Masjinerie en verwante items 14 Wetenskaplike, optiese en dergelike toerusting 17
+Mediese, tandheelkundige, ander gesondheidsdienste en veeartsenykundige dienste 29
+ALGEMENE INLIGTING
+Kansellasies of wysigings moet deur die Openbare Amptenaar geparafeer word.
+Swart of blou ink moet gebruik word om deel 6 in te vul.
+Negatiewe tekens of hakies moet nie gebruik word nie.
+Syfers volgens die finansiële jaarstate van die maatskappy (nie groeps- of gekonsolideerde finansiële jaarstate nie) moet gebruik word vir die invul van hierdie gedeelte.
+STAAT VAN AANDELEKAPITAAL
+Alle veranderinge in aandelekapitaal in die maatskappy moet in hierdie gedeelte getoon word. Geliewe te let dat die opening en sluiting saldo's nie in hierdie gedeelte aangevra word nie.
+n Rekonsiliasie van die saldo's per Balansstaatinligting (Totaal C1 en Totaal C2) ten opsigte van die vorige jaar, aangesuiwer met die veranderinge in aandelekapitaal vir die huidige jaar moet gedoen word. Die bedrag moet dieselfde wees as die saldo's per balansstaatinligting ten opsigte van die huidige jaar (Totaal C1 en Totaal C2).
+Dit is belangrik om daarop te let dat die bedrae moet rekonsilieer anders kan dit, inter alia, die saak identifiseer vir ouditdoeleindes. Voorts is dit dus belangrik dat die opgawe vergesel word van 'n skedule wat die "Ander kredietveranderinge vir die jaar" en "Ander debiet veranderings vir die jaar", aandui.
+BALANSSTAATINLIGTING
+Alle bedrae wat in die opgawe aangetoon word, moet ooreenstem met die bedrae wat op die maatskappy se balansstaat voorkom.
+Voorraad voorhande" verteenwoordig die totale waarde van die handelsvoorraad teen die einde van die finansiële jaar en sluit in onvoltooide-vervaardigde goedere, grondstowwe en verbruiksvoorrade asook onvoltooide werk. In die geval waar die bedrag op die balansstaat nie die bogenoemde items insluit nie, moet die bedrag in die opgawe aangepas word om genoemde items aan te toon. Die verskil tussen die bedrae op die balansstaat en die belastingopgawe moet dan as ander lopende bates of ander lopende laste aangetoon word. 'n Skedule ter verduideliking van die verskil moet saam met die opgawe ingedien word. Die bedrag in die opgawe aangetoon moet die bruto waarde wees van voorraad voorhande voor die aftrekking van enige voorsienings of reserwes. In die geval waar die finansiële jaarstate nie 'n breedvoerige omskrywing bevat van die waardasie­metode ten opsigte van elke kategorie van voorraad nie, moet volle besonderhede daarvan ingedien word.
+Voorsiening vir voorraad en werk-in-proses": Dui die totaal van alle voorsiening en reserwes gemaak vir of ten opsigte van voorraad voorhande en werk-in-proses, aan.
+Vooruitbetalings" sluit deposito's in.
+INKOMSTESTAATINLIGTING
+By die voltooiing van die betrokke deel van die opgawe moet die normale rekenkundige betekenis van die terme wat in deel 6.3 van die opgawe voorkom, gevolg word. In die geval waar 'n maatskappy nie enige koste van verkope het nie, bv. 'n eiendomverhurings-maatskappy, sal die omset en die bruto wins dieselfde wees.
+Voorraadaansuiwerings". Hierdie verteenwoordig nie die verandering tussen openings-en sluitingsvoorraad nie. Dit verteenwoordig die afskrywing van uitgediende, stadig-verhandelbare items of beskadigde items wat afgeskryf is gedurende die jaar van aanslag (debietbedrag).
+Voorraadaansuiwerings". Vorige jaar se afskrywings van uitgediende en stadig-bewegende voorraad teruggeskryf (kredietbedrag). "Ander inkomste". Enige bedrae buitengewone-inkomste wat nie as "omset" beskou kan word nie. Besonderhede hiervan moet op 'n aangehegte skedule uiteengesit word.
+Konsultasie, regs- en professionele fooie" is bedrae betaal vir sodanige dienste anders as ouditeursvergoeding vir ouditdienste. "Salarisse en lone" (mediese-, pensioen- en voorsorgfonds bydraes uitgesluit).
+Bruto wins/verlies
+Verkope (omset) moet alle verkope insluit maar inkomste-items soos per deel 6.3.2 uitsluit.
+Kostes van verkope (voorraadaansuiwerings uitgesluit): 'n Uiteensetting van alle kostes wat aan die item toegedeel is moet voorsien word. Hierdie item moet tipies aankope, opening en sluitingsvoorraad sowel as direkte en indirekte toeskryfbare kostes, insluit.
+Bruto wins/verlies - subtotaal: Hierdie is 'n kontroletotaal van Verkope - Koste van verkope + Aansuiwerings (terugskrywings) - Voorraadaansuiwerings (afskrywings).
+ANDER INLIGTING
+Waar toelaes geëis word, moet die totale toelaag geëis, getoon word en nie die verandering / beweging vir die jaar nie.
+Herwinnings" sluit in alle bedrae soos omskryf in Artikels 8 en 8 van die Inkomstebelastingwet. Terugskrywings van toelaes wat in vorige jare toegestaan is, moet ook by hierdie syfer in berekening gebring word, asook enige verhalings ten opsigte van bruikhuurooreenkomste wat beëindig is.
+BELASBARE INKOMSTE / VERLIES SOOS BEREKEN
+In alle gevalle waar die rekeningkundige en belastinghantering verskil, moet die totale rekenkundige bedrag teruggeskryf word en terselfdertyd moet die volle bedrag vir belastingdoeleindes verklaar word.
+Voorbeeld: Vooruitbetalings word vir rekenkundige doeleindes in die Inkomstestaat geëis maar word ingevolge Artikel 23H beperk. Die gedeelte wat beperk word moet teruggetel word teenoor die lynitem in 6.4.2.1. Indien die betaling in die balansstaat verskyn moet slegs die kwalifiserende gedeelte teenoor 6.4.1.2 getoon word.
+Beskrywing: In die geval van 'n mynmaatskappy moet die berekende belasbare inkomste vir die onderskeie aktiwiteite ingevul word.
+Slegs rande: Vul in die bedrag bereken, voordat enige vasgestelde verlies vanaf die vorige jaar in berekening gebring word.
+Vrygestelde inrigtings moet die kodes, soos aangedui in die bronkodebrosjure, gebruik om aan te dui onder watter artikel van die Inkomstebelastingwet vrystelling goedgekeur is. 'n "0" moet in die "Slegs Rande" kolom ingevul word, tensy die inrigting slegs gedeeltelike vrystelling het, en daar wel belasbare inkomste vir die jaar van aanslag is.
+Voorbeeld vir die berekening van die netto wins / verlies soos weergegee in deel 6.4.3
+Bruto wins (positief-krediet) / verlies (negatief-debiet) 100 0 00 bruto wins 50 000 verlies
+Plus inkomste-items subtotaal 6.3.2 (positief- krediet) 30 0 00 30 000
+Minus uitgawe- items subtotaal 6.3.3 (negatief-debiet) 80 000 80 000
+n Netto wins (positief-krediet) bedrag moet teenoor kode 4532 getoon word 50 000
+n Netto verlies (negatief- debiet) bedrag moet teenoor kode 4533 getoon word 100 000
+Minus kontrole totaal 6.4.1 25 000 25 000
+Plus kontrole totaal 6.4.2 10 000 10 000
+Berekende wins / verlies (toon die bedrag in 6.4.3) 35 000 115 000
+Dui die bronkode aan wat betrekking het op die tipe van inkomste van die maatskappy. Die bronkode van die hoofbron van inkomste sal dieselfde wees as die inkomste soos par. 5.17 indien 'n berekende wins. Indien dit 'n berekende verlies is sal dit 'n soortgelyke kode wees maar 'n onewe nommer.
+LET WEL:
+Moet nie negatiewe tekens of hakies gebruik nie.
+NETTO INKOMSTE VERKRY VAN 'N BEHEERDE BUITELANDSE MAATSKAPPY (BBM)
+Die netto inkomste van 'n BBM vir 'n buitelandse jaar van belasting is 'n bedrag gelyk aan die belasbare inkomste van die BBM. Die belasbare bedrag moet vasgestel word ingevolge die bepalings van die Inkomstebelastingwet, 1962. Vir doeleindes van die berekening van belasbare inkomste word slegs die BBM as belastingpligtige beskou. Die BBM word voorts ook as 'n inwoner maatskappy beskou ten opsigte van die toepassing van sekere bepalings van die Inkomstebelastingwet. Die aftrekkings en toelaes van die BBM is egter beperk tot die inkomste van die BBM. Geen toeskryfbare verliese ten opsigte van die BBM sal toegelaat word nie, maar sal oorgedra word na die daaropvolgende buitelandse jaar van belasting .
+TOESKRYFBARE NETTO WINS VAN BEHEERDE BUITELANDSE MAATSKAPPYAAN 'N DEELNEMENDE INWONER
+In gevalle waar 'n inwoner, tesame met verbonde persone met betrekking tot die inwoner, 10% of meer as 10% van die deelnemende regte in 'n BBM hou, moet so 'n inwoner die proporsionele bedrag gelyk aan die netto inkomste van die BBM wat toeskryfbaar is aan die inwoner, gebaseer op die deelnemende regte wat die inwoner hou op die laaste dag van die jaar van aanslag van sodanige BBM, insluit.
+Waar 'n buitelandse maatskappy, gedurende enige tydstip van die jaar van belasting van die buitelandse maatskappy, 'n Beheerde Buitelandse Maatskappy word, moet die inwoner een van die volgende vergelykings gebruik ten einde te bepaal watter bedrag ingesluit moet word by die inkomste van die inwoner -
+Vergelyking 1
+Inwoner se deelnemende regte in BBM
+Hoeveelheid dae wat die buitelandse maatskappy gedurende Netto inkomste vir die hele x x
+Totale deelnemende regte in BBM die buitelandse jaar van belasting 'n BBM was buitelandse jaar van belasting
+Totale hoeveelheid dae in die buitelandse jaar van aanslag Vergelyking 2
+Inwoner se deelnemende regte in BBM
+Netto inkomste vir die tydperk wat die buitelandse maatskappy
+Totale deelnemende regte in BBM gedurende die buitelandse jaar van aanslag 'n BBM was
+Soos bepaal op die laaste dag van jaar van aanslag van die BBM.
+Waar die buitelandse maatskappy, gedurende enige tydstip van die buitelandse jaar van aanslag van die buitelandse maatskappy, nie meer 'n BBM is nie moet die inwoner een van die volgende vergelykings gebruik om die bedrag te bepaal wat by die inwoner se inkomste ingesluit moet word -
+Vergelyking 1
+Inwoner se deelnemende regte in BBM
+Totale deelnemende regte in BBM x Hoeveelheid dae wat die buitelandse maatskappy gedurende die buitelandse jaar van belasting 'n BBM was Totale hoeveelheid dae in die buitelandse jaar van aanslag x Netto inkomste vir die hele buitelandse jaar van belasting
+Vergelyking 2
+Inwoner se deelnemende regte in BBM
+Totale deelnemende regte in BBM x Netto inkomste vir die tydperk wat die buitelandse maatskappy gedurende die buitelandse jaar van aanslag 'n BBM was
+Soos bepaal net voordat die buitelandse maatskappy opgehou het om 'n BBM te wees.
+Uitsluitings
+Die belangrikste uitsluitings van artikel 9D is as volg:
+Enige inkomste van 'n BBM wat onderhewig was aan belasting in 'n aangewese land teen 'n kwalifiserende statutêre koers is uitgesluit. 'n Kwalifiserende statutêre koers is 'n statutêre maatskappy koers van ten minste 27% op inkomste en 13.5% op kapitaalwins.
+Die aktiewe besigheidsinkomste van die BBM wat toeskryfbaar is aan 'n besigheidsaak is ook vrygestel van inkomste­belasting tensy die inkomste diversionêr of passief van aard is.
+Passiewe inkomste beteken inkomste in die vorm van dividende, rente, tantième, huurinkomste, annuïteite, versekeringspremies, of inkomste van dergelike aard of enige kapitaalwins ten opsigte van die beskikking oor 'n bate ten opsigte waarvan enige sodanige inkomste verdien kan word, of enige buitelandse valuta-wins, bepaal ingevolge artikel 24I, ten opsigte van enige buitelandse ekwiteitsinstrument of buitelandse valuta-wins. Waar die inkomste egter 'n de minimus persentasie van alle ontvangstes en toevallings vanuit sekere finansiële instansies verkry is, sal die vrystelling steeds geld.
+Versuim om ingevolge artikel 72A inligting te verskaf ten opsigte van die deelnemende regte in 'n BBM, kan tot gevolg hê dat alle uitsluiting ingevolge artikel 9D, behalwe die uitsluiting met betrekking tot die bedrae wat onderhewig is aan belasting in 'n aangewese land, van ten minste 27% op inkomste en 13.5 % op kapitaalwins, verbeur word.
+Toon die bedrae in rand en sent. Indien die oorspronklike sertifikate nie aangeheg is nie, sal die krediet nie toegestaan word nie.
+Die volgende dokumentasie is voorbeelde van bewyse wat aanvaar sal word as bewys vir bedrae wat betaal is ten opsigte van buitelandse belasting:
+Indien buitelandse belasting deur die bron teruggehou is -die oorspronklike dokumentasie ontvang vanaf die betrokke bron.
+Indien buitelandse belasting nie deur die bron teruggehou is nie -'n belastingaanslag of kwitansie uitgereik deur die betrokke belastingowerheid.
+Verligting van dubbelbelasting n Suid-Afrikaanse inwoner is onderhewig aan normale belasting verkry uit wêreldwye inkomste (d.i. inkomste verkry vanuit bronne binne en buite die Republiek). Enige inkomste deur 'n inwoner verkry vanuit 'n buitelandse bron mag dalk reeds of kan dalk onderhewig wees aan belasting in 'n ander land wat dubbelbelasting tot gevolg kan hê. Artikel 6quat maak voorsiening vir die verligting van dubbelbelasting in die sin dat, waar buitelandse belasting gehef is op inkomste wat in belasbare inkomste ingesluit is, onderhewig aan sekere voorwaardes, dit as korting toegestaan kan word teenoor die Suid-Afrikaanse belastingaanspreeklikheid.
+Voorwaardes vir die toestaan van korting
+Die som van die bedrae betaal ten opsigte van buitelandse belasting kan, onderworpe aan sekere voorwaardes, kwalifiseer as korting. Die voorwaardes is as volg:
+Die belasting moet betaalbaar gewees het ten opsigte van inkomste (geliewe te let dat kapitaalwins ingesluit is in die Inkomstebelastingwet en derhalwe beskou kan word as inkomste);
+Die belasting moes gehef gewees het ingevolge die wette van die betrokke land, hetsy op nasionale, staats, plaaslike of enige ander vlak van regering;
+Die belasting moes as betaalbaar bewys gewees het, d.i. 'n wetlike verpligting vir die betaling daarvan moet bestaan;
+Die belasting moet betaalbaar wees sonder die reg van verhaling deur enige persoon (behalwe die reg van verhaal ingevolge 'n reg om enige verliese wat gedurende enige jaar van aanslag ontstaan het na 'n jaar van aanslag wat bedoelde jaar van aanslag voorafgaan, terug te dra);
+Die belasting moet betaalbaar wees ten opsigte van die bedrae wat by die inkomste van die inwoner ingereken is.
+Bedrae verkry vanuit buitelandse bronne wat kwalifiseer
+Om te kwalifiseer vir 'n korting in terme van artikel 6quat, moet die buitelandse belasting betaalbaar wees ten opsigte van enige van die volgende inkomste verkry vanaf 'n buitelandse bron wat by die inwoner se belasbare inkomste ingesluit moet word:
+Inkomste, bv professionele dienste inkomste, vergoeding, rente, tantième, huur, pensioene, annuïteite, ens., buitelandse dividende uitgesluit. Artikel 6quat1ai;
+n Bedrag gelykstaande aan die proporsionele bedrag van die netto inkomste verkry vanaf 'n buitelandse maatskappy wat uitdruklik ingesluit is by die inkomste van die inwoner ingevolge artikel 9D. Artikel 6quat1b;
+Inkomste vekry deur 'n inwoner in die vorm van buitelandse dividende. Artikel 6quat1d;
+n Belasbare kapitaalwins verkry vanuit 'n buitelandse bron. Artikel 6quat1e;
+Enige bedrae waarna paragrawe a tot d verwys wat ontvang en toegeval het aan 'n spesifieke persoon, byvoorbeeld 'n trust, maar wat geag word verkry is deur 'n ander persoon die inwoner. Artikel 6quat1fi en ii;
+n Bedrag waarna verwys word in paragrawe a tot d, wat deel vorm van die kapitaal van 'n trust wat in die buiteland gestig is, wat beskou word verkry te gewees het deur die inwoner vir inkomstebelasting of kapitaalwinsdoeleindes. Artikel 6quat1fiii
+Beperking ten opsigte van die korting
+Die bedrag aan buitelandse belasting wat as 'n artikel 6quat korting toegestaan sal word, sal ingevolge die volgende formule op 'n pro rata basis bereken word:
+Belasbare inkomste verkry vanuit buitelandse bronne (A)
+x Normale belasting betaalbaar op (B)Totale belasbare inkomste verkry vanaf alle bronne(B)
+Die oordra van die oorskotbedrag buitelandse belasting
+Waar die som van buitelandse belasting betaal die bedrag aan korting oorskry, mag die oorskotbedrag oorgedra word na die daaropvolgende jaar van aanslag om as 'n korting teen die normale belasting betaalbaar oorweeg te word.
+Gevalle waar geen korting ter sprake is nie
+Geen korting sal toegestaan word nie indien 'n inwoner ingevolge artikel 9E , 10 (k)(ii) of 11C sou kies dat die inkomste ontvang vanaf 'n buitelandse bron in die vorm van dividende in sy hande belas sal word na die aftrekking van die onderliggende terughoudingsbelasting.
+Sou die inwoner kies dat verligting ingevolge 'n dubbelbelastingooreenkoms toegepas word, sal geen verdere verligting ingevolge artikel 6quat toegepas word nie.
+Buitelandse dividende is 'n dividend ontvang deur of toegeval aan 'n buitelandse maatskappy soos omskryf in Artikel 9D. Artikel 10 (k)(ii) omskryf die omstandighede waaronder 'n buitelandse dividend van belasting vrygestel sal wees.
+Vasstelling van 'n kapitaalwins of -verlies n BKW-gebeurtenis word voorafgegaan deur die beskikking oor 'n bate. Tensy so 'n beskikking of geagte beskikking plaasvind/voorkom, ontstaan geen wins of verlies nie. BKW is van toepassing op alle bates waaroor voor of op 1 Oktober 2001 (waardasiedatum) beskik is. Slegs die wins of verlies wat vanaf 1 Oktober 2001 tot datum van beskikking toegeval het, sal binne die BKW wetgewing val.
+n Bate word so wyd as moontlik gedefinieer en sluit in enige eiendom van watter aard ook al, asook enige belang daarin.
+n Beskikking dek enige gebeurtenis, daad, toegeeflikheid of werking van die reg, wat die skepping, wysiging, oordrag, of vernietiging van 'n bate tot gevolg het. Dit sluit ook sekere gebeurtenisse in wat as beskikkings behandel word, soos die verandering in die gebruik van 'n bate.
+Sodra beskik is oor 'n bate konstitueer/vorm die bedrag wat ontvang is of toegeval het die opbrengs van die beskikking.
+Die basiskoste van die bate is gewoonlik die onkoste werklik aangegaan in die verkryging van die bate tesame met uitgawes wat direk verband hou met die verbetering en direkte kostes in verband met die aanskaffing en beskikking en sekere eiendomskostes. Die basiskostes sluit nie enige bedrae in wat andersins toegelaat is as 'n aftrekking vir inkomstebelastingdoeleindes nie.
+Hoe word die basiskoste van 'n bate wat op 1 Oktober 2001 reeds in u besit was, bereken?
+Ten einde die gedeelte van die wins wat betrekking het op die periode voor 1 Oktober 2001 uit te sluit kan enige van die volgende metodes gebruik word:
+% van die opbrengs by beskikking sal as die basiskoste geag word (geen rekords beskikbaar en markwaarde kan nie bepaal word nie); OF
+Markwaarde van die bate soos op 1 Oktober 2001 (die "waardasiedatum");OF
+Die Wet bepaal dat sekere vereistes nagekom moet word wanneer daar van die markwaardemetode gebruik gemaak word.
+Tydsbestek waarbinne waardasies moet plaasvind
+Alle waardasies moet gedoen word asof op 1 Oktober 2001 en moes gedoen gewees het voor 30 September 2004.
+Deur wie mag waardasies gedoen word?
+Die Wet is nie voorskriftelik nie en die verantwoordelikheid en die onus rus op die persoon/entiteit om die regsgeldigheid van so 'n waardasie te staaf.
+Vereistes vir die indiening van waardasiesertifikate
+Indien die markwaardemetode van basiskoste gebruik word, moet 'n afskrif van die waardasiesertifikaat ingedien word saam met die betrokke inkomstebelastingopgawe wat verwys na die jaar van aanslag waarin die beskikking plaasgevind het. Sekere waardasies moet egter vroeër, saam met die eerste belastingopgawe wat na 30 September 2004 vereis word, ingedien word. Die onderstaande tabel dui hierdie tipes van bates aan.
+Tipe bate Van toepassing Waar markwaarde hoër is
+Ontasbare bates Per bate R1 miljoen
+Ongelyste bates Alle aandele wat deur die aandeelhouer in die maatskappy gehou word R10 miljoen
+Alle ander bates Per bate R10 miljoen
+Reëls wat winste en verliese beperk
+Sekere reëls wat nie deur hierdie brosjure aangespreek word nie is in plek om winste en verliese te beperk wanneer die markwaardemetode gebruik word. Hierdie reëls voorkom fiktiewe verliese wat veroorsaak word deur oordrewe waardasies, asook ontbering indien bates bo markwaarde soos op 1 Oktober 2001 verkoop word, maar teen laer as die oorspronklike koste.
+Hierdie metode mag gebruik word indien rekords beskikbaar is van die datum van verkryging en die koste van die bate. Die volgende formule word gebruik om die tydtoedelingsbasiskoste van die bate te bepaal.
+Wins x Periode besit voor waardasiedatum
+Oorspronklike koste +
+Periode besit voor en na waardasiedatum
+Verbeterings of toevoegings wat aangebring is voor 1 Oktober 2001 word beskou asof dit plaasgevind het tydens verkryging van die bate. Die periode voor 1 Oktober 2001 word beperk tot 20 jaar.
+Die totale koste van toevoegings wat gemaak is na waardasiedatum vorm deel van die basiskoste (geen toedeling).
+LET WEL:
+Die 20-jaar beperking geld nie waar daar geen toevoegings of verbeterings aangebring is voor die waardasiedatum nie.
+Die insluitingskoerse vir die bepaling van die belasbare inkomste ten opsigte van BKW
+Die berekende netto kapitaalwins wat betrekking het op die betrokke jaar van aanslag word vermenigvuldig met die insluitingskoers om die belasbare kapitaalwins te bepaal. Die bepaalde kapitaalwins word voorts ingesluit by die belasbare inkomste vir die betrokke jaar van aanslag.
+Tipe belastingpligtige Insluitingskoers % Statutêre skale
+Maatskappye en beslote korporasies 50 29
+Kleinsakekorporasies 50 0 - 29
+Werknemersmaatskappye 50 34
+Permanente sake (takke) 50 34
+Belastingvakansiemaatskappye 50 0
+Gebruik onderstaande bronkodes t.o.v. Kapitaalwinste en -verliese se hoofbatetipes om die skedule te voltooi:
+Beskrywing van bates
+Vaste onroerende bates (bv. grond, geboue, mineraleregte)... 6502 6530
+Verlies: Vaste onroerende bates (bv. grond, geboue, mineraleregte)... 6503 6531
+Primêre woning (bv. huis, meenthuis, woonstel, boothuis, karavaan)... 6504 6532
+Verlies: Primêre woning (bv. huis, meenthuis, woonstel, boothuis, karavaan)... 6505 6533
+Finansiële instrumente genoteer (bv. aandele, eenhede in effektetrust, effekte, termynooreenkomste, opsies)... 6506 6534
+Verlies: Finansiële instrumente genoteer (bv. aandele, eenhede in effektetrust, effekte, termynooreenkomste, opsies). 6507 6535
+Finansiële instrumente ongenoteer bv. aandele, skuldbriewe, promesses, effekte, opsies, vooruitooreenkomste, ruilooreenkomste, skuld... 6508 6536
+Verlies: Finansiële instrumente ongenoteer bv. aandele, skuldbriewe, promesses, effekte, opsies, vooruitooreen­
+Ontasbare bates bv. klandisiewaarde, handelsmerke, patente, kopieregte, agentskappe franchises, lisensies, fidusiêre reg, vruggebruik of ander dergelike reg op eiendom... 6510 6538
+Verlies: Ontasbare bates bv. klandisiewaarde, handelsmerke, patente, kopieregte, agentskappe franchises, lisensies, fidusiêre reg, vruggebruik of ander dergelike reg op eiendom... 6511 6539
+Installasies en masjinerie... 6514 6540
+Verlies: Installasies en masjinerie... 6515 6541
+Ander roerende bates wat vir besigheidsdoeleindes gebruik is bv. vliegtuie, bote, motorvoertuie, kantoormeubels en toerusting... 6516 6542
+Verlies: Ander roerende bates wat vir besigheidsdoeleindes gebruik is bv. vliegtuie, bote, motorvoertuie, kantoormeubels en toerusting... 6517 6543
+Ander roerende bates uitgesluit persoonlike gebruiksbates bv. Krugerrande, bote vir persoonlike gebruik meter en vliegtuie vir persoonlike gebruik 450 kg... 6518 6544
+Verlies: Ander roerende bates uitgesluit persoonlike gebruiksbates bv. Krugerrande, bote vir persoonlike gebruik 10 meter en vliegtuie vir persoonlike gebruik 450 kg... 6519 6545
+Skedules moet voorberei word ten opsigte van alle vrae waarop bevestigend geantwoord is. Die skedules met betrekking tot die vrae wat "groen"gedruk is moet aan u opgawe geheg word terwyl die skedules met betrekking tot die vrae wat in "swart" gedruk is op aanvraag beskikbaar moet wees.
+A KAPITAAL / INKOMSTE VERWANTE VRAE
+Veranderings en verbeterings
+Veranderings en verbeterings aan bates (uitgesluit herstelwerk en onderhoud). Bedrae moet verstrek word met 'n kort beskrywing van die aard van die veranderings en / of verbeterings.
+Herstelwerk en onderhoud
+Aard van betaling per kategorie; en
+Kort verduideliking van materiële items.
+Betalings ten opsigte van uitskakeling van mededinging n Skedule wat die aard en bedrag van sodanige betalings aantoon en afskrifte van die ooreenkomste moet ingedie word.
+Verliese as gevolg van diefstal, bedrog en verduistering
+Berei 'n dokument voor wat die verwantskap tussen die oortreder en die maatskappy aantoon.
+Konsultasie, regskoste en professionele dienste
+Naam van persoon aan wie betaling gemaak is;
+Datum van betaling;
+Aard en doel van elke diens gebruik; en
+Bedrag betaal.
+Krugerrande, Wissels, Verhandelbare depositosertifikate, Bankaksepte, Bewyse aan toonder, Skatkisbiljette, Landbankwissels, Termynkontrakte, Opsies en ander verhandelbare sekuriteite, Promesses of enige soortgelyke instrument en Versamelstukke.
+a Aankope en verkryging:
+Beskrywing van bate en / of nommer van sertifikaat;
+Datum van aankope;
+Aankoopprys; en
+Doel waarvoor aangekoop.
+Verkope en ander delgings
+Beskrywing van bate en / of nommer van sertifikaat;
+Datum van aankope;
+Aankoopprys;
+Datum van verkope / beskikking / aflossing;
+Verkoopprys / aflossingswaarde;
+Wins of verlies met verkoop / beskikking / aflossing; en
+Omstandighede wat aanleiding gegee het tot die verkoop / beskikking / aflossing.
+b Heg 'n skedule aan waarin die verhandelbare effekte aangedui word en toon watter items beinvloed en watter nie beinvloed sal word deur die verandering nie.
+Artikel 9B keuse
+Keuse uitgeoefen en die datum daarvan;
+Indien 'n kapitaalkeuse gemaak is, verstrek besonderhede van onkoste of verliese wat ingevolge Artikel 9B teruggetel is. (Dit sluit die onkoste of verliese wat verband hou met dividende uit);
+Beskrywing van aandeel;
+Datum van aankope;
+Aankoopprys;
+Datum van verkope;
+Verkoopprys; en
+Wins en / of verlies.
+Reiskoste buite die Republiek
+Heg 'n reisplan ten opsigte van elke reis wat onderneem is aan, wat die volgende aantoon:
+Deur wie die reis onderneem is;
+Amp in die maatskappy beklee;
+Datums van vertrek en terugkeer;
+Name en adresse van firmas besoek;
+Tydsduur van besoek aan elke firma;
+Doel van elke besoek;
+Volledige besonderhede, afsonderlik gegroepeer, ten opsigte van uitgawes aangegaan;
+Gedeelte van totale nie-bedryfsuitgawes hierbo ingesluit; en
+Indien 'n gade die reisiger vergesel het, moet die uitgawes toeskryfbaar aan die gade gespesifiseer word.
+B WERKNEMERS / BESOLDIGING VERWANTE VRAE
+Vergoeding betaal aan werknemers, direkteure of lede ten opsigte van die verlies aan amp, ens.
+Berei dokumentasie voor wat die bedrae, asook die omstandighede wat aanleiding gegee het tot die betalings, aandui.
+Assuransiepremies betaal op die lewens van werknemers of direkteure
+Besonderhede van die premies, polis en begunstigde moet verstrek word.
+n Sertifikaat uitgereik deur die versekeraar, wat bevestig dat die polis 'n polis is soos beoog in Artikel 11(w), moet ingedien word.
+Handelsbeperking
+Die balans oorgedra vanaf die vorige jaar van aanslag; en
+Die bedrag oorgedra na die volgende jaar van aanslag.
+Werkgewer bydraes tot mediesefondse n Berekening van die persentasie van die bydraes tot die totale vergoeding van elke kategorie werknemers ten opsigte waarvan bydraes gemaak is.
+Werkgewerbydraes tot pensioen-, voorsorg- en bystandfondse
+Besonderhede van enige enkelbedragbydraes tesame met redes vir die bydraes; en
+Berekening van die persentasie van die bydraes tot die totale vergoeding van elke kategorie werknemers ten opsigte waarvan bydraes gemaak is.
+Na-aftrede voordele
+Voorsien 'n afskrif van die ooreenkoms of kontrak tussen die maatskappy en enige ander persoon ten opsigte van na­aftrede voordele.
+Leerlingooreenkomste Artikel 12H en 12H 
+n IB180 moet voltooi en ingehandig word vir elke leerlingooreenkoms ten opsigte waarvan 'n aftrekking geëis word.
+Bedrag verhaal ten opsigte van elke leerling en afskrifte van die IB180 ten opsigte van die betrokke leerders met betrekking tot die bedrae verhaal.
+Bedrae of rente betaal en / of gekrediteer aan enige direkteure, aandeelhouers, lede en hul gades, kinders of trusts
+Bedrag betaal en / of gekrediteer vir die jaar geëindig 28 Februarie 2006 per direkteur, aandeelhouers, ens.; en
+Besonderhede van enige belegging, vaste eiendom en/of ander bates oorgedra teen minder as markwaarde.
+Volledige besonderhede van die skema; en
+Name en belastingverwysingsnommers van die werknemers / direkteure wat deelneem aan die skema.
+FINANSIERING VERWANTE VRAE
+Rente ontvang
+Naam van maatskappy;
+Berekening van bedrag ontvang;
+Bedrag ontvang; en
+Datum ontvang.
+Rente betaal
+Kategorieë van rente wat op 'n maandelikse basis betaal is;
+Berekening van bedrag betaal;
+Bron van fondse wat gebruik is vir die finansiering van die lening;
+Doel van die lening; en
+Betalingsvoorwaardes van die lening.
+Aard van die bate;
+Naam van die verhuurder;
+Oorspronklike koste van die bate;
+Aanvangsdatum van die bruikhuurooreenkoms;
+Vervaldatum van bruikhuurooreenkoms; en
+Maandelikse paaiement betaalbaar tydens die ooreenkoms tydperk.
+Volle besonderhede van die bate, insluitende die oorspronklike koste daarvan vir die verhuurder indien bekend.
+Hoe is daar met die bate gehandel nadat die ooreenkoms verstryk het;
+Volle besonderhede van enige sekondêre huurooreenkoms aangegaan;
+Markwaarde van die bate op die tydstip wat die ooreenkoms afgeloop het; en
+Indien die bate oorgedra, afgestaan of geskenk was by beëindiging van die huurooreenkoms, moet die volle besonderhede van die begunstigde verstrek word.
+Verbeterings aan gehuurde eiendom en premies vir die reg van gebruik of besetting van grond, geboue en / of ander bates
+Naam en inkomstebelastingverwysingsnommer van die verhuurder van die grond, geboue en / of ander bates;
+Die verwantskap tussen die maatskappy en die verhuurder van die grond, geboue en / of ander bates;
+Volle besonderhede van enige opsie of reg wat verkry is of verkry sal word deur die maatskappy of enige verbonde persoon om die gehuurde grond, geboue en / of ander bates te koop; en
+Afskrifte van die huur- en ander verwante ooreenkomste, indien nie reeds voorheen ingedien nie.
+Afskrif van enige reëling aangegaan indien dit nie voorheen ingedien is nie; en
+Volledige berekening van enige aanpassing soos vereis ingevolge Artikel 23G.
+Besonderhede van elke finansiële instrument of klas van finansiële instrument, insluitende die aard en voorwaardes daarvan;
+Besonderhede van die spesifieke metode gevolg by die berekening van die rente toegeval en / of aangegaan vir belastingdoeleindes, vir elke finansiële instrument of klas van finansiële instrument; en
+Besonderhede van hoe die aangepaste wins of verlies by oordrag of aflossing van enige finansiële instrument of klas van finansiële instrument vir belastingdoeleindes hanteer is.
+Tekort aan ekonomiese stabilitiet -daar is dikwels 'n tekort aan ekonomiese stabiliteit of 'n risiko vir die deelnemende partye;
+Die gebruik van belasting-onafhanklike entiteite -gestruktureerde finansiële transaksies gebruik buitelandse of belastingvrygestelde entiteite om belasbare inkomste te absorbeer of belastingaanspreeklikheid te verskuif;
+Oodra van voordele en risiko's. Sekere enititeite word vergoed vir die gebruik van hul belastingbasis. Die wesenlike komponent van die belastingvoordeel van die totale finansieringskoste word gewoonlik bepaal deur 'n gerekenariseerde kostemodel. 'n Gedeelte van hierdie voordeel word oorgedra aan 'n kliënt tesame met die geassosieerde risiko's. Transaksies wat onderhewig is aan enige vorm van konfidensialiteit ten opsigte van die belastingaspekte van die transaksie is in hierdie kategorie ingesluit;
+Tydsverskille tussen rekenkundige winste en winste of verliese vir belastingdoeleindes;
+Onversoenbare verskille tussen belasbaarheid van inkomste en aftrekbaarheid van uitgawes;
+Omskakeling van belasbare inkomste na kapitaal of vrygestelde inkomste; en
+Wisselvallige toepassing van belasting van transaksies deur die partye.
+Voorsien die volgende ten opsigte van elke gestruktureerde finansiële transaksie aangegaan:
+Uiteensetting van transaksie;
+Feitelike vloeidiagram wat alle transaksies en kontantvloei insluit;
+Bedrag afgesit teen belastingbasis (indien enige);
+Naam van die entiteit wat die finale belastingrisiko dra; en
+Naam van die entiteit wat die transaksie bemark.
+Aankoop van verhandelbare effekte of eiendom vir toekomstige aflewering
+Oorsig van die transaksie;
+Datum en beskrywing van die transaksie;
+Bedrag en / of waarde; en
+Besonderhede van die partye tot die transaksie insluitend die verhouding tot die maatskappy.
+Leningooreenkomste, ander dan ooreenkomste met 'n geregistreerde bank
+Oorsig van die transaksie;
+Datum en beskrywing van die transaksie;
+Bedrag en / of waarde; en
+Besonderhede van die partye tot die transaksie insluitend die verhouding tot die maatskappy.
+Terugbetaling van lening
+Oorsig van die transaksie;
+Datum en beskrywing van die transaksie;
+Bedrag en / of waarde; en
+Besonderhede van die partye tot die transaksie insluitend die verhouding tot die maatskappy.
+Nie-produktiewe rente ten opsigte van geleende fondse en voorskotte
+Spesifiseer:
+Hoe was die lening of voorskot gefinansier;
+Doel van die lening of voorskot;
+Terugbetalingsvoorwaardes;
+Rente aangegaan deur die maatskappy weens die toestaan van die lening of voorskot; en
+Rente toegeval aan die maatskappy ten opsigte van die lening of voorskot.
+a Voltooi die RA07 beskikbaar op die SARS webwerf, en heg aan u opgawe.
+Indien "ja", voorsien volledige besonderhede
+Bates / ekwiteitsinstrumente verkry of oor beskik Artikels 24M en 24 N
+Indien "ja", voorsien volledige besonderhede
+D ANDER -BELASTINGTOELAES / BEPERKINGS
+Aftrekbare skenkings
+Skenkings moet gelys word en die oorspronklike kwitansies soos voorgeskryf in Artkiel 18A, moet ingedien word. Die bepalings van Artikel 18A van die Inkomstebelastingwet is gewysig en bepaal dat 'n aftrekking teen die belasbare inkomste van 'n belastingpligtige toegelaat sal word ten opsigte van enige skenkings gemaak aan -
+i enige goedgekeurde openbare weldaadsorganisasie; of ii enige instelling, raad of liggaam in Artikel 101cAi bedoel wat enige openbare weldaadsaktiwiteit in die Republiek beoefen;
+enige openbare weldaadsorganisasie deur die Kommissaris goedgekeur ingevolge Artikel 30 van die Inkomste­belastingwet ­
+fondse voorsien slegs aan enige openbare weldaadsorganisasie, instelling, raad of liggaam in (a)(ii) hierbo bedoel; en ii gedurende die openbare weldaadsorganisasie se voorafgaande jaar van aanslag ten minste 75% van skenkings wat as aftrekking kwalifiseer, uitgedeel het of die verpligting aangegaan het om dit aldus uit te deel.
+Buitengewone en afsonderlik aantoonbare items
+Gegewens soos voorgeskryf ingevolge die Algemene Aanvaarde Rekeningkundige Praktyk (AARP), moet verstrek word tesame met breedvoerige besonderhede van bedrae en aard van elke item.
+Buitelandse valutaverskille
+Besonderhede van hoe die verskille in die finansiële jaarstate geopenbaar is;
+Besonderhede van hoe die verskille vir inkomstebelastingdoeleindes hanteer is;
+Besonderhede van elke transaksie / lening of klas van transaksie / lening wat tot die verskille aanleiding gegee het; en
+Besonderhede van die spesifieke metode gevolg in die berekening van die verskille vir belastingdoeleindes.
+Skenking, oormaking of ander beskikking
+Datum en beskrywing van die transaksie;
+Bedrag of waarde daarvan; en
+Besonderhede van die betrokke partye, insluitend die verhouding met die maatskappy, direkteure en lede.
+Artikel 24C toelae
+Besonderhede van die kontrakte;
+Totale inkomste van die kontrakte;
+Totale uitgawes aangegaan met die kontrakte;
+Bedrae ontvang ten opsigte van die huidige jaar; en
+Bedrae gespandeer ten opsigte van die inkomste.
+Uitgestelde inkomste
+Aard van die inkomste;
+Bedrag ontvang;
+Bedrag betaal;
+Tydperk waarna die inkomste verwys; en
+Belastinghantering ten opsigte van die inkomste.
+Toevallings
+Aard van toevalling; en
+Bedrag voorsien.
+Verkoop of aankoop van 'n lopende saak
+Afskrif van die koop- / verkoopooreenkoms;
+Afskrifte van alle beslissings ontvang; en
+Besonderhede van enige verwantskap tussen die betrokke partye.
+Oninbare en / of twyfelagtige skulde (BTW uitgesluit)
+Oninbare skulde:
+Naam en adres van elke debiteur;
+Bedrag van die skuld;
+Datum waarop die skuld aangegaan is;
+Aard van die skuld; en
+Rede waarom die skuld as oninbaar beskou word.
+Twyfelagtige skulde:
+Is twyfelagtige skuldtoelae volgens die formule of spesifieke debiteurmetode geëis;
+Indien die formulemetode gebruik word, verskaf al die totale ten opsigte van gemiddelde twyfelagtige skulde, oninbare skulde en verhalings vir die voorafgaande vier jare; en
+Indien die spesifieke debiteurmetode gebruik word, verskaf inligting soos vir oninbare skulde hierbo.
+Slytasiebatetoelae en verhaling van enige vaste batetoelae
+Datum waarop bate in gebruik geneem is;
+Aard van die bate;
+Aankoopprys;
+Datum van verkope, verruiling of vervreemding;
+Verkoopprys of ruilwaarde;
+Rede vir verkoop, verruiling of vervreemding; en
+Belastingwaarde van bate op datum van beskikking of vervreemding.
+Strategiese Industriële Projek b Voorsien 'n afskrif van die dokument van goedkeuring wat deur die Minister van Handel en Nywerheid uitgereik is.
+Voorsienings en / of reserwes geskep, vermeerder of verminder
+Aard van elke voorsiening of reserwe;
+Saldo -lopende jaar van aanslag;
+Saldo -vorige jaar van aanslag; en
+Indien dit as 'n aftrekking geëis word, moet redes voorsien word.
+Artikel 23H
+Voorsien die volgende inligting ten opsigte van elke ontrekking geëis in terme van Artikel 23H.
+Naam van ontvanger;
+Aard van betaling;
+Bedrag betaal;
+Datum van betaling; en
+Tydperk wat deur betaling gedek word bv. 1 Maart 2006 tot 28 Februarie 2007.
+Rolprenttoelae Artikel 24F
+Indien die maatskappy nie die geopenbaarde vennoot is nie, moet die volgende gegewens verstrek word indien dit nie voorheen verskaf is nie:
+Is die maatskappy 'n vennoot in 'n "en commandite" vennootskap?
+Inkomstebelastingverwysingsnommer van elke vennoot;
+Datum waarop rolprentregte gekoop is of die belang / aandeel in die vennootskap verkry is;
+Afskrif van die koopkontrak;
+Naam van die rolprent / vennootskap;
+Afskrifte van alle waarborge ontvang;
+Afskrif van die vennootskapsooreenkoms;
+Afskrif van die minimum verkope waarborgooreenkoms / winsdelingsooreenkoms; en
+Finansiële state en 'n berekening van elke vennoot se deel van die wins / verlies.
+Indien die maatskappy nie die geopenbaarde vennoot is nie, verstrek die volgende besonderhede:
+Naam van die rolprent / vennootskap.
+Naam en inkomstebelastingverwysingsnommer van die geopenbaarde vennoot.
+Finansiële state en 'n berekening van elke vennoot se deel van die wins / verlies.
+Indien 'n sub-vennootskapstruktuur ingestel is, die naam en inkomstebelastingverwysingsnommer van die geopenbaarde vennoot ten opsigte van die sub-vennootskap.
+Boerderybedrywighede
+Volledige inkomstestate vir boerderybedrywighede beoefen. Plaaslike en buitelandse boerderybedrywighede moet afsonderlik uiteengesit word;
+Skedule van beginsaldo's, bewegings (aankope, verkope, aanwas, vrektes, privaat gebruik, ens.) en eindsaldo's van lewende hawe, teen standaardwaardes;
+Skedule van onkoste geëis ingevolge Paragraaf 12 van die Eerste Bylae met aanduiding van die subparagraaf waaronder bedoelde onkoste geëis word; en
+Skedule van uitgawes aangegaan ten opsigte van die aanplanting en instandhouding van plantasies.
+Belastingvakansie
+Afskrif van die kennisgewing uitgereik deur die Streeknywerheidsontwikkelingsraad wat sertifiseer dat die maatskappy vir belastingvakansiestatus kwalifiseer; en
+Afskrif van kennisgewing van enige verandering of terugtrekking van die aanvanklike goedkeuring.
+Skenking, oormaking of ander beskikking
+Verstrek die volgende:
+Naam en adres van die persoon / maatskappy aan wie die bedrag betaal is.
+Bedrag.
+Verwantskap tussen die maatskappy en die ontvanger van die skenking.
+Veranderings in aandeelhouding / ledebelange
+Besonderhede van alle veranderings in aandeelhouding/ledebelange gedurende die jaar van aanslag (uitgesonderd genoteerde maatskappye); en
+Besonderhede van enige verandering in effektiewe beheer.
+Besigheidstransaksies op die Internet
+Die maatskappy se e-pos en webwerf-adresse;
+Toon die verkope en aankope van goedere en dienste afsonderlik aan en dui aan of dit van 'n Suid-Afrikaanse of buitelandse bron is;
+Indien die transaksies nie ingesluit is by die finansiële jaarstate nie, verskaf redes; en
+Die name, e-pos en webwerf-adresse van die vernaamste kliënte waarmee u handel gedryf het op die Internet.
+Voorsien 'n uiteensetting van die verandering
+Voorbeeld: As die brutowins persentasie 40% was in die vorige jaar van aanslag, mag dit nie 'n verskil van meer as 4% toon nie (10% van 40%). As dit meer as 44% of minder as 36% is, moet 'n verduideliking voorsien word.
+Ekonomiese substansie / vorm van die transaksie
+Oorsig van die transaksie;
+Datum en beskrywing van die transaksie;
+Bedrag bereken;
+Bedrag geëis as aftrekking of bedrag ingesluit in inkomste; en
+Besonderhede van die partye tot die transaksie, ingesluit die verhouding tot die maatskappy.
+Debiteure en Krediteure
+Voorsien 'n uiteensetting van die debiteure- en krediteurbalanse soos op jaareinde
+Uiteensetting ten opsigte van elke tipe debiteur en krediteur;
+Die redes waarom negatiewe balanse nie in inkomste ingesluit is nie, indien van toepassing; en
+Lys van krediteure wat langer as 12 maande uitstaande is.
+E GROEP / KAPITAAL EN RESERWES / DIVIDENDE / VERBONDE PERSONE
+Afskrifte van die volledige berekeninge van sekondêre belasting op maatskappye wat die dividendsiklusdatums, dividende verklaar, dividende ontvang en "netto bedrae" ten opsigte van elke dividend aantoon; en
+Afskrifte van die notules van dividendverklarings en / of 'n beskrywing van gebeure wat aanleiding gegee het tot die geagte dividende.
+Voorsien die staat soos versoek ingevolge Artikel 70 van die Inkomstebelastingwet
+Sluitingsuitverkoop, likwidasie of herstrukturering van die maatskappy / Artikel 85 van die Maatskappywet
+Voorsien die staat soos versoek ingevolge Artikel 70 van die Inkomstebelastingwet
+Keuse in terme van Artikel 64(B) (f)
+Voorsien volledige besonderhede van die transaksie
+Maatskappy se inwonerstatus verander gedurende die jaar van aanslag
+Voorsien volledige besonderhede van die omstandighede wat die verandering teweeg gebring het.
+Dividende ontvang
+Hierdie inligting hou verband met dividende ontvang deur die maatskappy ten opsigte van aflosbare voorkeuraandele of enige ander aandele wat "geaffekteerde stukke" soos omskryf in Artikels 8E en 103 insluit.
+Afskrifte van kontrakte, ooreenkomste of besluite wat betrekking het op die uitreiking van die aandele en / of die sessie van rente / dividende, die voorwaardes vir aflossing, die "reg van verkryging", die koers van dividende betaalbaar en die voorwaardes vir die betaling van dividende;
+Besonderhede van die bedrae gesedeer en die bedrae in ruil ontvang; en
+Volledige besonderhede van alle voorkeuraandele uitgereik en / of afgelos.
+Vennootskap, gesamentlike onderneming of trust
+Indien 'n "en commandite" vennootskap gesluit is, moet die toepaslike besonderhede soos uiteengesit in deel D14 verstrek word. Andersins moet 'n afskrif van die volgende aangeheg word:
+Finansiële jaarstate van die vennootskap, gesamentlike onderneming of trust.
+Berekening van elke deelnemer se deel van die wins / verlies.
+Ooreenkoms van die vennootskap, gesamentlike onderneming of trust indien dit nie voorheen ingedien is nie.
+Korporatiewe transaksies
+Indien die maatskappy deelgeneem het in enige van die transaksies in die opgawe vermeld moet volledige inligting voorsien word ten opsigte van die transaksie met betrekking tot die partye tot die transaksie, die kapitaal / handelsvoorraad, aard en beskrywing van die bates oorgeplaas of bekom, en enige verpligtinge oorgeplaas.
+Indien "ja" geantwoord op vrae (a), (d) en (f), waar die partye gekies het dat die voorsiening toegepas word, of in die geval van (b), (c) en (e) waar die partye gekies het dat die voorsiening nie toegepas word nie, moet 'n geskrewe dokument wat die besluit deur die toepaslike partye geneem aandui, aangeheg word.
+Intergroeptransaksies
+Meld "ja" of "nee" in die opgawe
+18 Maande hou-periodevereiste / intergroeptransaksies
+Meld "ja" of "nee" in die opgawe
+Transaksies met verbonde persone (uitgesluit Artikel 31)
+Die transaksie wat hier beoog word, is alle intergroep transaksies wat nie normale bedryfsaktiwiteite is nie. Voorbeelde van nie-bedryfsaktiwiteite is oordragte van bates in die groep, huur, rente of adminstrasiegelde betaal deur een maatskappy aan 'n ander binne dieselfde groep.
+Voorsienings en/of reserwes geskep, vermeerder of verminder
+Aard van elke voorsiening of reserwe;
+Saldo -lopende jaar van aanslag;
+Saldo -vorige jaar van aanslag; en
+Indien dit as 'n aftrekking geëis word, moet redes voorsien word.
+Korporatiewe veranderings
+Afskrifte van alle veranderings aan die memorandum / akte van oprigting;
+Besonderhede van enige uitreiking of aflossing van voorkeuraandele;
+Besonderhede van enige gekapitaliseerde aandele / regte gedurende die jaar van aanslag uitgereik; en
+Besonderhede van enige transaksie ten opsigte van die terugkoop van aandele.
+F VERSEKERING VERWANTE VRAE
+Maandelikse en / of jaarlikse premies n Ontleding van maandelikse en jaarlikse premies ontvang deur of toegeval aan die maatskappy, onderskei tussen plaaslike en buitelandse bronne.
+Assuransiepolisse
+Sessies:
+Volledige besonderhede van die polis;
+Naam, adres en inkomstebelastingverwysingsnommer van die sessionaris;
+Omstandighede wat tot die sessie aanleiding gegee het;
+Waarde van die polis oorgedra;
+Totale premies tot op datum van sessie betaal; en
+Huidige afkoopwaarde.
+Lenings / voorskotte verkry:
+Volle besonderhede van die polis;
+Datum waarop lening of voorskot verkry is; en
+Doel waarvoor die lening of voorskot aangewend is.
+Versekeringspremies:
+Volle besonderhede van die maatskappy of organisasie (NIE die makelaar) wat die risiko onderskryf, insluitende die ligging (bv. land en plek van besigheid) en die aandeelhouers, indien bekend;
+Rede waarom die risiko nie by plaaslike versekeraar geplaas is nie;
+Besonderhede van dekking verkry en verwante premies; en
+Besonderhede van enige premies terugbetaal, kommissie verdien of eise verhaal.
+Voorsien afskrifte van die jaarlikse opgawes ingedien by die FDR;
+Voorsien afskrifte van al die ouditverslae ingedien by die FDR; en
+Voorsien afskrifte van al die spesiale verslae ingedien by die FDR.
+Fooie ten opsigte van lisensies, tantième of die reg van gebruik van 'n bate
+Naam van persoon aan wie die betaling gemaak is;
+Datum van betaling;
+Aard en doel van elke betaling; en
+Bedrag betaal.
+Ontasbare bates / eiendom
+Afskrif van enige ooreenkoms aangegaan ten opsigte van uitgawes aangegaan bo R5 000, indien nie voorheen verstrek nie;
+Besonderhede van die grondslag waarvolgens die uitgawes aangegaan, bepaal is;
+Raming van die oorblywende waarskynlike duur van die gebruik van die eiendom; en
+Bevestiging dat dit gebruik is in die voortbrenging van inkomste.
+H KAPITAALWINS VERWANTE VRAE
+Kapitaalwins (Agtste Bylae)
+Beantwoord al die vrae, (a) tot (h), en voorsien ondersteunende dokumentasie soos benodig.
+Keuse ingevolge par 65 en par 66 van die Agtste Bylae tot die Inkomstebelastingwet
+Beskrywing van die bate waaroor beskik is;
+Beskrywing van die vervangende bate;
+Datum van verkrygings en beskikking oor die oorspronklike bate;
+Die aankoopprys van die vervangende bate; en
+Die opbrengs by beskikking oor die oorspronklike bate.
+INTERNASIONALE TRANSAKSIES
+Beheerde Buitelandse Maatskappye
+Voltooi die IT10 kennisgewing, beskikbaar op die SARS webwerf, en heg aan die opgawe.
+Keuse om as 'n Beheerde Buitelandse Maatskappy beskou te word
+Belasbare bedrae nie deurgestuur nie.
+Verstrek volledige besonderhede ten opsigte van bedrae en redes waarom dit nie deurgestuur is nie.
+Bedrae betaal of gekrediteer aan nie-inwoners
+Volle naam en adres van die persoon / maatskappy aan wie die bedrag betaal of gekrediteer is;
+Bedrag en aard van die bedrag betaal;
+Voeg die kode "ND" in langs enige bedrae waarvan daar nie belasting teruggehou is tydens die betaling of kreditering nie; en
+Verstrek redes waarom belasting nie teruggehou is nie.
+Transaksies met verbonde persone
+Voorsien die volgende ten opsigte van elke transaksie
+Afskrif van die ooreenkoms aangegaan;
+Afskrif van die prysoordragbeleidsdokument (indien nie voorheen ingedien nie of in die geval van enige wysigings aangegaan); en
+Voorsien 'n skedule wat die redes uiteensit waarom dit beskou word dat die bepalings van Artikel 31 nagekom is.
+Belang gehou in 'n buitelandse entiteit
+Naam van elke entiteit, land van registrasie en plek van effektiewe bestuur;
+Skematiese voorstelling van hoe die belang in elke buitelandse entiteit gehou word;
+Aard van die bedryf beoefen deur elke buitelandse entiteit; en
+Afskrif van elke buitelandse entiteit se geouditeerde finansiële jaarstate, verkieslik opgestel volgens plaaslike vereistes. Die state moet ten minste bestaan uit 'n balansstaat en 'n gedetailleerde inkomstestaat wat onderteken is deur die ouditeur, direkteure of die verantwoordelike beampte. Indien die state nie die randwaarde aandui nie moet 'n bykomende afskrif waarin die randwaarde aangedui word, aangeheg word.
+Voordele wat direk of indirek verband hou met enige gedeelte van buitelandse belasting wat as 'n korting in terme van Artikel 6quat deur die maatskappy geeis is.
+Voorsien die volgende:
+Naam van die persoon wat geregtig word of so 'n voordeel ontvang het;
+Veduidelik die verwantskap tussen die maatskappy en die persoon wat die voordele geëis het.;
+Belastingverwysingsnommer van die persoon in die buitelandse belastingowerhede waar die buitelandse­belasting betaalbaar is;
+Betrokke buitelandse belastingowerhede;
+Bedrag en berekening van voordeel;
+Datum(s) waarop die voordeel die party toegeval het;
+Afskrifte van ooreenkomste in terme waarvan so 'n voordeel ontvang was of toegeval het;
+Het enige soortgelyke voordeel in enige vorige jaar van aanslag die persoon toegeval; en
+Indien die antwoord op vraag 8 "ja" is, voorsien die inligting aangevra in vrae 1-7 ten opsigte van elke sodanige jaar van aanslag.
+Indien daar meer as een persoon, voorsien die besonderhede soos aangevrae in 1-9 ten opsigte van elke persoon afsonderlik
+Oordrag van fondse na die buiteland
+Verstrek besonderhede ten opsigte van die bedrae oorgeplaas en hoe dit aangewend is.
+Voorsien 'n organogram wat al die maatskappye, takke, venootskappe, trusts en gesamentlike ondernemings (of enige ander internasionale bedryf) in die groep aandui. 'n Beskrywing moet voorsien word ten opsigte van al die bedryfsentiteite, die land van beliggaming en belastingaanspreeklikheid waar die entiteite as belastinginwoner beskou sou word asook die persentasie aandeelhouding.
+Plek van effektiewe bestuur
+Dui die plek aan wat beskou word as die plek van effektiewe bestuur ten opsigte van al die maatskappye, takke, vennootskappe, trusts en gesamentlike ondernemings soos in die bostaande organogram aangedui. Verduidelik die aard van besluitneming of operasionele beleid wat 'n impak het op die operasionele bedrywighede, asook enige besluit, indien enige, wat in Suid-Afrika geneem is, wat 'n invloed kan hê op die operasionele bedrywighede van die buitelandse entiteit. Bevestig die voorafgaande met redes.
+MYNBOUBEDRYWIGHEDE
+Indien "ja", moet u die Mynbouskedules op die volgende drie bladsye voltooi en aan die opgawe heg.
+MYNBOU SKEDULE SKEDULE A
+Deel 1
+Dui aan / bevestig of u enige mynbou of mynboubedrywighede
+JA NEE
+beoefen soos beoog inArtikel 1 van die Inkomstebelastingwet. Indien wel moet u die volgende inligting voorsien:
+Volledige beskrywing van die mynbou of mynboubedrywighede wat u beoefen met spesifieke vewysing na die tipe van bedrywighede;
+n Volledige beskrywing wat die minerale areas aandui wat tans ontgin word, die areas wat tans gemyn word of voorheen gemyn is, asook die minerale areas wat vir doeleindes van Artikel 36 van die Inkomstebelastingwet as 'nenkel myn beskou word met spesifieke verwysing na die besigheidsrasionale en die nabyheid van ertsmassa, ens.;
+n Volledige beskrywing van die stroomafwaartse bedrywighede met verwysing na, inter alia, nuwe of gedeeltelik voltooide infrastruktuur soos uitsmelters, raffineerders, konsentrate, ens., asook die rol daarvan in die stroomafwaarste bedrywighede sowel as die daaropvolgende verwerking(allokasie) van die kapitaalonkoste aangegaan; en n Volledige verduideliking ten opsigte van alle ontdekkingswerksaamhede wat onderneem is met betrekking tot die aktiwiteite en toekomstige ontginning.
+Deel 2
+Dui aan of enige mynbou of mynboubedrywighede bedryf word namens die houer van mineraalregte en / of sulke bedrywighede deur `n ander party bedryf word op `n perseel waarop u die
+JA NEE
+mineraalregte hou.
+Indien wel moet u die volgende inligting / dokumentasie voorsien:
+nAfskifvandiegetekendeooreenkomsaangegaangedurendediejaaren / of van krag aan die einde van die jaar van aanslag;
+n Afskrif van die goedkeuring uitgereik deur die Direkteur van die Departement van Minerale en Energie ten opsigte van die ontginningsregte wat betrekking het op die kontrakte aangegaan; en / of
+Indien geen formele ooreenkoms aagegaan is nie voorsien asseblief `n volledige beskrywing van die mynbedrywig-hede wat deur `n subkontrakteur bedryf word.
+Deel 3
+a Is enige bydraes gemaak tot `n rehabilitasie trust of voorsiening
+JA NEE
+gemaak vir toekomstige rehabilitasie verpligtinge?
+Indien wel voorsien asseblief die volgende inligting / dokumentasie:
+Naam en inkomstebelastingnommer ten opsigte van die trust of enige andergoedgekeurde liggaam;
+Volledige berekening van die kontant bydrae gemaak soos beoog in Artikel11(hA) van die Inkomstebelastingwet; en n Afskrif van die sertifikaat uitgereik deur `n persoon aangewys deur die Ministervan Minerale en Energie met spesifieke verwysing na simbole A en D in dieformule vervat in Artikel 11(hA) van die Inkomstebelastingwet.
+b Indien u "nee" in vraag a van hierdie deel geantwoord het moet u aandui of enigeander reëlings in plek is om voorsiening te maak vir enige rehabilitasiekoste tenopsigte van voortydige of finale afsluitingskoste.Indien wel, voorsien asseblief die volgende inligting:
+n Volledige beskrywing van die reëlings wat in plek is sowel as die bedrag wat virInkomstebelastingdoeleindes as aftrekking geëis is;
+Waar SARS voor die implementering van die reëling goedkeuring verleen het, `nafskrif van die goedkeuring.
+Deel 4
+Het enige verkoop, oordrag, verhuring of sessie asook die beskikking van`n bate plaasgevind soos beoog in Artikels 36 en 37 van die Inkomstebelasting-wet?
+JA NEE
+Indien wel, voorsien asseblief die volgende inligting:
+nAfskrifvandiegetekendeooreenkoms;en n Afskrif van die effektiewe waarde soos vasgestel deur die Direkteur-generaalvan Minerale en Energie met betrekking tot die myneiendom en kapitaal bates,soos omskryf, verkry en / of oor beskik is.
+VERWYSINGSNOMMER: [0000/000/00/0]
+VERWYSINGSNOMMER: [0000/000/00/0]

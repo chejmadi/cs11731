@@ -1,0 +1,1331 @@
+SAPD 517
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUID-AFRIKAANSE POLISIEDIENS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aansoek om ‘n bevoegdheidsertifikaat
+SAPD 517
+
+INSTRUKSIES: AANSOEK OM ‘N BEVOEGDHEIDSERTIFIKAAT
+
+ALGEMENE INSTRUKSIES
+
+‘n Aansoek om ‘n bevoegdheidsertifikaat moet in onuitwisbare swart ink ingevul word. 
+Die aansoek moet gestempel word met die amptelike datumstempel van die polisiestasie waar die aansoek ontvang is. 
+Die polisiestasie waar die aansoek op rekenaar vasgelê word, moet Afdeling A voltooi. 
+Die polisiestasie waar die aansoek ontvang word, moet Afdeling B voltooi. 
+Die Sentrale Vuurwapenregister (SVWR) moet Afdeling C voltooi. 
+Die aansoeker moet Afdelings D,E,F,G,H en I voltooi. 
+Indien ‘n tolk gebruik is, moet hy/sy Afdeling J voltooi. 
+‘n Ouer of voog van ‘n aansoeker jonger as 18 jaar moet Afdeling K voltooi. 
+Die polisiebeampte wat die onderhoud voer, moet Afdeling L voltooi. 
+Die Aangewese Vuurwapenbeampte/Stasiekommissaris moet Afdeling M voltooi. 
+‘n Persoon is skuldig aan ‘n oortreding ingevolge die Wet op Beheer van Vuurwapens, 2000 (Wet No 60 van 2000) indien hy/sy enige inligting wat hy/sy weet vals is op hierdie aansoekvorm verstrek. 
+
+AFDELING A: VIR AMPTELIKE GEBRUIK DEUR DIE POLISIE-STASIE WAAR DIE AANSOEK OP REKENAAR
+
+VASGELÊ WORD
+
+Aansoekverwysingsnommer 
+
+Die verwysingsnommer wat die stelsel vir die aansoek genereer nadat dit vasgelê is (byvoorbeeld, C12945), moet in paragraaf A 1 aange-teken word. 
+
+AFDELING B: VIR AMPTELIKE GEBRUIK DEUR DIE POLISIE-STASIE WAAR DIE AANSOEK ONTVANG IS
+
+Provinsie 
+
+Die naam van die provinsie waar die polisiestasie geleë is (byvoor-beeld, Gauteng), moet in paragraaf B 1 aangeteken word. 
+
+Area 
+
+Die naam van die area waar die polisiestasie geleë is (byvoorbeeld, Pretoria), moet in paragraaf B 2 aangeteken word. 
+
+Polisiestasie 
+
+Die naam van die polisiestasie waar die aansoek ontvang is (byvoor-beeld, Brooklyn), moet in paragraaf B 3 aangeteken word. 
+
+Komponentkode 
+
+Die komponentkode van die polisiestasie waar die aansoek ontvang is (byvoorbeeld, 47), moet in paragraaf B 4 aangeteken word. 
+
+Verwysingsnommer van vuurwapenaansoekregister 
+
+Die jaarlikse reeksnommer van die vuurwapenaansoekregister wat aan die aansoek toegeken word (byvoorbeeld, 135/2002), moet in paragraaf B 5 aangeteken word. 
+
+AFDELING C: VIR AMPTELIKE GEBRUIK DEUR DIE SENTRALE VUURWAPENREGISTER (SVWR)
+
+Uistaande/Bykomende inligting wat verlang word 
+
+Indien die polisiebeampte by die SVWR uitstaande of bykomende inligting van die polisiestasie of die aansoeker versoek, moet die verlangde inligting in paragraaf C 1 aangeteken word. 
+
+Persal-nommer 
+
+Die SAPD Persal-nommer van die polisiebeampte by die SVWR wat die uitstaande of bykomende inligting versoek, moet in paragraaf C 2 aangeteken word. 
+
+Datum 
+
+
+
+
+Die datum waarop die uitstaande of bykomende inligting deur die polisiebeampte by die SVWR versoek is, moet in paragraaf C 3
+
+aangeteken word.
+
+Handtekening van polisiebeampte 
+
+Die handtekening van die polisiebeampte by die SVWR wat die uitstaande of bykomende inligting versoek het, moet in paragraaf C 4 aangebring word. 
+
+Naam in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte by die SVWR wat die uitstaande of bykomende inligting versoek het, moet in paragraaf C 5 aangeteken word. 
+
+Aansoek om ‘n bevoegdheidsertifikaat goedgekeur 
+
+(Merk met ‘n X) 
+
+Indien die aansoek om ‘n bevoegdheidsertifikaat goedgekeur is, moet die beampte by die SVWR wat die aansoek goedgekeur het paragraaf C 6 met ‘n X merk. 
+
+Persal-nommer 
+
+Die SAPD Persal-nommer van die beampte by die SVWR wat die aansoek goedgekeur het, moet in paragraaf C 7 aangeteken word. 
+
+Datum 
+
+Die datum waarop die aansoek deur die beampte by die SVWR goedgekeur is, moet in paragraaf C 8 aangeteken word. 
+
+Handtekening van SVWR-beampte 
+
+Die handtekening van die beampte by die SVWR wat die aansoek goedgekeur het, moet in paragraaf C 9 aangebring word. 
+
+Beamptekode 
+
+Die beamptekode is ‘n kode wat toegeken word aan elke beampte by die SVWR wat aansoeke om bevoegdheidsertifikaat oorweeg. Die kode van die beampte wat die aansoek goedgekeur het, moet in paragraaf C 10 aangeteken word. 
+
+Naam in drukskrif 
+
+Die voorletters en van (in drukskrif) van die beampte by die SVWR wat die aansoek goedgekeur het, moet in paragraaf C 11 aangeteken word. 
+
+Aansoek om ‘n bevoegdheidsertifikaat geweier (Merk met ‘n X) 
+
+Indien die aansoek om ‘n bevoegdheidsertifikaat geweier is, moet die beampte by die SVWR wat die aansoek geweier het paragraaf C 12 met ‘n X merk. 
+
+Rede(s) vir weiering 
+
+Indien die aansoek geweier is, moet die beampte by die SVWR die redes vir die weiering in paragraaf C 13 aanteken. 
+
+Persal-nommer 
+
+Die SAPD Persal-nommer van die beampte by die SVWR wat die aansoek geweier het, moet in paragraaf C 14 aangeteken word. 
+
+Datum 
+
+Die datum waarop die aansoek deur die beampte by die SVWR geweier is, moet in paragraaf C 15 aangeteken word. 
+
+Handtekening van SVWR beampte 
+
+I
+
+Die handtekening van die beampte by die SVWR wat die aansoek geweier het, moet in paragraaf C 16 aangebring word.
+
+Beamptekode 
+
+Die beamptekode is ‘n kode wat toegeken word aan elke beampte by die SVWR wat aansoeke om bevoegdheidsertifikaat oorweeg. Die kode van die beampte by die SVWR wat die aansoek geweier het, moet in paragraaf C 17 aangeteken word. 
+
+Naam in drukskrif 
+
+Die voorletters en van (in drukskrif) van die beampte by die SVWR wat die aansoek geweier het, moet in paragraaf C 18 aangeteken word. 
+
+AFDELING D: SOORT BEVOEGDHEIDSERTIFIKAAT
+
+(Merk met ‘n X)
+
+Die toepaslike soort bevoegdheidsertifikaat moet in paragraaf D 1, 2, 3 of 4 met ‘n X aangedui word, byvoorbeeld:
+
+C
+Om besigheid as ‘n wapensmid te
+X
+
+bedryf
+
+
+AFDELING E: BESONDERHEDE VAN AANSOEKER
+
+1.      Soort burgerskap (Merk met ‘n X)
+
+SA-burger/Nie-SA-burger met permanente verblyfreg* 
+
+Die burgerskap van die aansoeker moet in paragraaf E 1.1 met ‘n X aangedui word. 
+
+In die geval van ‘n nie-SA-burger moet bewys van permanente verblyfreg ingedien word. 
+
+Identiteitsnommer 
+
+Die aansoeker se identiteitsnommer moet in paragraaf E 2 aange-teken word. 
+
+Van 
+
+Die aansoeker se van moet in paragraaf E 3 aangeteken word. 
+
+Voorletters 
+
+Die aansoeker se voorletters moet in paragraaf E 4 aangeteken word. 
+
+Volle name 
+
+Die aansoeker se volle name moet in paragraaf E 5 aangeteken word. 
+
+Ouderdom 
+
+Die aansoeker se ouderdom moet in paragraaf E 6 aangeteken word. 
+
+Geslag 
+
+Die aansoeker se geslag moet in paragraaf E 7 met ‘n X aangedui word. 
+
+Geboortedatum 
+
+Die aansoeker se geboortedatum (byvoorbeeld, 1960-01-01)
+
+moet
+
+in paragraaf E 8 aangeteken word.
+
+Woonadres 
+
+Die fisiese adres waar die aansoeker woon, moet in paragraaf E 9 aangeteken word. 
+
+Poskode 
+
+Die poskode van die aansoeker se woonadres moet in paragraaf E 10 aangeteken word. 
+
+Posadres 
+SAPD 517
+
+Die aansoeker se posadres moet in paragraaf E 11 aangeteken word.
+
+Poskode 
+
+Die poskode van die aansoeker se posadres moet in paragraaf E 12 aangeteken word. 
+
+
+
+Beskrywing van soort woonplek (bv hut, woonstel, karavaan, kothuis, huis, koshuis of haweloos) 
+
+Die soort woonplek van die aansoeker moet in paragraaf E 13 aangeteken word. 
+
+Ambag of beroep 
+
+Die aansoeker se ambag of beroep (byvoorbeeld, motorwerktuig-kundige) moet in paragraaf E 14 aangeteken word. 
+
+Indien selfwerksaam, spesifiseer 
+
+Indien die aansoeker selfwerksaam is (byvoorbeeld, haarkapper - werk van die huis af), moet dit in paragraaf E 15 aangedui word. 
+
+Naam van werkgewer/maatskappy 
+
+Die naam van die aansoeker se werkgewer of maatskappy (byvoorbeeld, The Auto Shop) moet in paragraaf E 16 aangeteken word. 
+
+Besigheidsadres 
+
+Die besigheidsadres van die aansoeker se werkgewer (byvoor-beeld, Weststraat 321, Sandton) moet in paragraaf E 17 aangeteken word. 
+
+Poskode 
+
+Die poskode van die aansoeker se werkgewer se besigheidsadres moet in paragraaf E 18 aangeteken word. 
+
+19	Telefoonnommers
+
+Huis: Die aansoeker se huistelefoonnommer, insluitend die skakel-kode (byvoorbeeld, (012) 667 1923), moet in paragraaf E 
+
+aan-geteken word. 
+
+Werk: Die aansoeker se werktelefoonnommer, insluitend die ska- kelkode (byvoorbeeld, (011) 577 5913), moet in 
+paragraaf E 19.2	aangeteken word.
+
+Selfoonnommer 
+
+Die aansoeker se selfoonnommer (indien van toepassing) moet in paragraaf E 19.3 aangeteken word. 
+
+Faks 
+
+Die aansoeker se faksnommer, insluitend die skakelkode, moet in paragraaf E 20 aangeteken word. 
+
+E-posadres 
+
+Die e-posadres (indien van toepassing) van die aansoeker moet in paragraaf E 21 aangeteken word. 
+
+HUWELIKSTAAT (Merk met ‘n X) 
+
+Die aansoeker se huwelikstaat moet in paragraaf E 22.1 met ‘n X aangedui word, byvoorbeeld: 
+
+Enkellopend
+X
+
+BESONDERHEDE VAN GADE/LEWENSMAAT (Indien van toepassing) 
+
+II
+
+23.1    Soort identifikasie (Merk met ‘n X)
+
+23.1.1
+SA-
+Identiteit/Paspoort
+
+
+JA
+X
+NEE
+
+Die soort identifikasie van die aansoeker se gade/lewensmaat moet in paragraaf 23.1.1 met ‘n X aangedui word.
+
+Identiteitsnommer van gade/lewensmaat 
+
+Die identiteitsnommer van die aansoeker se gade/lewensmaat moet in paragraaf E 23.2 aangeteken word. 
+
+
+
+Paspoortnommer van gade/lewensmaat 
+
+Die paspoortnommer (indien van toepassing) van die aansoeker se gade/lewensmaat moet in paragraaf E 23.3 aangeteken word. 
+
+AFDELING F: AANSOEK OM ‘N BEVOEGDHEIDSERTIFIKAAT OM HANDEL TE DRYF IN VUURWAPENS EN/OF AMMUNISIE, OF OM VUURWAPENS EN/OF AMMUNISIE TE VERVAARDIG, OF OM BESIGHEID
+
+AS ‘N WAPENSMID TE BEDRYF
+
+(Dit is slegs van toepassing op vuurwapenhandelaars,
+-vervaardigers en wapensmede.)
+
+Het u die voorgeskrewe toets oor hierdie Wet suksesvol afgelê? 
+
+Dui u antwoord met ‘n X  in paragraaf F 1 aan, byvoorbeeld: 
+
+JA
+X
+NEE
+
+Het u die voorgeskrewe opleiding vir handelaars, vervaar-digers of wapensmede suksesvol deurloop en die praktiese toets geslaag? 
+
+Dui u antwoord met ‘n X in paragraaf F 2 aan, byvoorbeeld: 
+
+JA
+X
+NEE
+
+Besonderhede van relevante kwalifikasies/ondervinding moet in paragraaf F 3 aangeteken word. 
+
+AFDELING G: AANSOEK OM ‘N BEVOEGDHEIDSERTIFIKAAT OM
+
+‘N VUURWAPEN TE BESIT
+
+(Dit is slegs van toepassing op privaat persone.)
+
+1.	Het u die voorgeskrewe toets met betrekking tot hierdie
+
+Wet	suksesvol afgelê?
+
+Dui u antwoord met ‘n X  in paragraaf G 1 aan, byvoorbeeld:
+
+JA
+X
+NEE
+
+Het u die voorgeskrewe opleiding oor die veilige en doeltref-fende hantering van ‘n vuurwapen suksesvol deurloop en die praktiese toets geslaag? 
+
+Dui u antwoord met ‘n X in paragraaf G 2 aan, byvoorbeeld: 
+
+JA
+X
+NEE
+
+Vir watter vuurwapen(s) het u die voorgeskrewe opleiding ontvang? 
+
+Dui die opleiding met ‘n X in paragraaf G 3 aan, byvoorbeeld: 
+
+Pistool
+X
+
+AFDELING H: ANDER INLIGTING
+
+Het u ‘n opleidingsertifikaat wat deur ‘n geakkrediteerde opleidingsinstansie uitgereik is? 
+SAPD 517 Dui u antwoord met ‘n X in paragraaf H 1 aan, byvoorbeeld:
+
+
+
+Skryf die naam van die geakkrediteerde opleidingsinstansie waar u opleiding ontvang het in paragraaf H 2. 
+
+Skryf die reeksnommer op die opleidingsertifikaat wat uitgereik is deur die geakkrediteerde opleidingsinstansie in paragraaf H 3. 
+
+Skryf die datum waarop die geakkrediteerde opleidingsinstansie die opleidingsertifikaat uitgereik het in paragraaf H 4. 
+
+
+Is u al ooit skuldig bevind ‘n oortreding wat binne of buite die grense van die RSA gepleeg is? 
+
+Dui u antwoord met ‘n X in paragraaf H 5 aan. Indien u ja antwoord, verstrek asseblief die volgende inligting: 
+
+Polisiestasie  (1) 
+
+Die naam van die polisiestasie waar die saak geregistreer is (byvoorbeeld, Sunnyside), moet in paragraaf H 5.1 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer(s) van die oortreding (byvoorbeeld, 79/10/2002) moet in paragraaf H 5.2 aangeteken word. 
+
+Aanklag 
+
+‘n Beskrywing van die oortreding (byvoorbeeld, aanranding) moet in paragraaf H 5.3 verskaf word. 
+
+Vonnis 
+
+Die uitslag van die saak (byvoorbeeld, R200 of 12 maande
+
+tronk-	straf) moet in paragraaf H 5.4 verstrek word.
+
+5.5	Polisiestasie  (2)
+
+Die naam van die polisiestasie waar die saak geregistreer is (byvoorbeeld, Pretoria-Noord), moet in paragraaf H 5.5 aangeteken word.
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer(s) van die oortreding (byvoorbeeld, 101/05/1976) moet in paragraaf H 5.6 aangeteken word. 
+
+Aanklag 
+
+‘n Beskrywing van die oortreding (byvoorbeeld, roekelose en nala-tige bestuur) moet in paragraaf H 5.7 verskaf word. 
+
+Vonnis 
+
+Die uitslag van die saak (byvoorbeeld, R1000 erkenning van skuld betaal) moet in paragraaf H 5.8 verstrek word. 
+
+6.	Is daar enige sake hangende teen u?
+
+Dui u antwoord met ‘n X in paragraaf H 6 aan. Indien u ja ant-woord, verstrek asseblief die volgende inligting:
+
+Polisiestasie  (1) 
+
+Die naam van die polisiestasie waar die saak geregistreer is (byvoorbeeld, Hillbrow), moet in paragraaf H 6.1 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer(s) van die hangende saak/sake (byvoor-beeld, 60/01/2003) moet in paragraaf H 6.2 aangeteken word. 
+
+Oortreding 
+
+III
+
+‘n Beskrywing van die oortreding(s) (byvoorbeeld, besit van dagga) in die hangende saak/sake moet in paragraaf H 6.3 verskaf word.
+
+Polisiestasie  (2) 
+
+Die naam van die polisiestasie waar die saak geregistreer is (by- voorbeeld, Brooklyn), moet in paragraaf H 6.4 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer(s) van die hangende saak/sake (byvoor-beeld, 200/06/2002) moet in paragraaf H 6.5 aangeteken word. 
+
+Oortreding 
+
+‘n Beskrywing van die oortreding(s) (byvoorbeeld, aanranding) in die hangende saak/sake moet in paragraaf H 6.6 verskaf word. 
+
+
+Is enige van u vuurwapens al ooit gesteel of het dit al ooit verlore geraak? 
+
+Dui u antwoord met ‘n X in paragraaf H 7 aan. Indien u ja antwoord, verstrek asseblief die volgende inligting: 
+
+Polisiestasie  (1) 
+
+Die naam van die polisiestasie (byvoorbeeld, Sunnyside) waar die verlies/diefstal van die vuurwapen aangemeld is, moet in paragraaf H 7.1 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer (byvoorbeeld,151/10/2002) van die saak wat geopen is toe die vuurwapen as verlore/gesteel aangemeld is, moet in paragraaf H 7.2 aangeteken word. 
+
+Omstandighede 
+
+Die omstandighede van die verlies/diefstal van die vuurwapen (by- voorbeeld, gewapende roof), moet in paragraaf H 7.3 aangeteken word. 
+
+Besonderhede van vuurwapen 
+
+Die besonderhede van die verlore/gesteelde vuurwapen (byvoor-beeld, 9mm parabellum, pistool, reeksnr 1234, CZ) moet in paragraaf H 7.4 aangeteken word. 
+
+Polisiestasie  (2) 
+
+Die naam van die polisiestasie (byvoorbeeld, Pretoria Sentraal) waar die verlies/diefstal van die vuurwapen aangemeld is, moet in paragraaf H 7.5 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer (byvoorbeeld, 95/02/1999) van die saak wat geopen is toe die vuurwapen as verlore/gesteel aangemeld is, moet in paragraaf H 7.6 aangeteken word. 
+
+Omstandighede 
+
+Die omstandighede van die verlies/diefstal van die vuurwapen (by- voorbeeld, diefstal van aktetas) moet in paragraaf H 7.7 aange-teken word. 
+
+Besonderhede van vuurwapen 
+
+Die besonderhede van die verlore/gesteelde vuurwapen (byvoor-beeld, 9mm parabellum, pistool, reeksnr A4671, Astra) moet in paragraaf H 7.8 aangeteken word. 
+
+Is ‘n saak van nalatigheid rakende die gesteelde/verlore vuurwapen geopen en ondersoek? 
+
+Dui u antwoord met ‘n X in paragraaf H 8 aan. Indien u ja ant-woord, verstrek asseblief die volgende inligting: 
+
+8.1      Polisiestasie  (1)
+SAPD 517 Die naam van die polisiestasie (byvoorbeeld, Pretoria Sentraal) waar die saak geregistreer is, moet in paragraaf H 8.1 aangeteken word.
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer van die saak/ondersoek (byvoorbeeld, 44/03/1999) moet in paragraaf H 8.2 aangeteken word. 
+
+Aanklag 
+
+‘n Beskrywing van die oortreding/ondersoek (byvoorbeeld, nalatige verlies van ‘n vuurwapen) moet in paragraaf H 8.3 aangeteken word. 
+
+Uitslag 
+
+Die uitslag van die saak (byvoorbeeld, R1200 of 12 maande tronk-straf) moet in paragraaf H 8.4 aangeteken word. 
+
+
+Polisiestasie  (2) 
+
+Die naam van die polisiestasie (byvoorbeeld, Sunnyside) waar die saak geregistreer is, moet in paragraaf H 8.5 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer van die saak/ondersoek (byvoorbeeld, 180/10/2002) moet in paragraaf H 8.6 aangeteken word. 
+
+Aanklag 
+
+‘n Beskrywing van die oortreding/ondersoek (byvoorbeeld, nalatige verlies van ‘n vuurwapen) moet in paragraaf H 8.7 aangeteken word. 
+
+Uitslag 
+
+Die uitslag van die saak (byvoorbeeld, onskuldig) moet in para-graaf H 8.8 aangeteken word.
+
+Is u al ooit onbevoeg verklaar om ‘n vuurwapen te besit? 
+
+Dui u antwoord met ‘n X in paragraaf H 9 aan. Indien u ja antwoord, verstrek asseblief die volgende inligting: 
+
+Polisiestasie  (1) 
+
+Die naam van die polisiestasie (byvoorbeeld, Pretoria Sentraal) waar die saak geregistreer is, moet in paragraaf H 9.1 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer van die saak/ondersoek (byvoorbeeld, 44/03/1999) moet in paragraaf H 9.2 aangeteken word. 
+
+Aanklag 
+
+‘n Beskrywing van die oortreding/ondersoek (byvoorbeeld, nalatige verlies van ‘n vuurwapen) moet in paragraaf H 9.3 aangeteken word. 
+
+Datum vanaf 
+
+Die datum (byvoorbeeld, 1999-03-12) waarop u onbevoeg verklaar is om ‘n vuurwapen te besit, moet in paragraaf H 9.4 aangeteken word. 
+
+Tydperk 
+
+Die tydperk van onbevoegdheid (byvoorbeeld, vir ‘n onbepaalde tydperk onbevoeg verklaar deur die hof) moet in paragraaf H 9.5 aangeteken word. 
+
+Polisiestasie  (2) 
+
+Die naam van die polisiestasie (byvoorbeeld, Sunnyside) waar die saak geregistreer is, moet in paragraaf H 9.6 aangeteken word. 
+
+IV
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer van die saak/ondersoek (byvoorbeeld, 4/2003) moet in paragraaf H 9.7 aangeteken word. 
+
+Aanklag 
+
+‘n Beskrywing van die oortreding/ondersoek [byvoorbeeld, gesins-geweld (finale beskermingsbevel)] moet in paragraaf H 9.8 aange-teken word. 
+
+Datum vanaf 
+
+Die datum (byvoorbeeld, 2003-03-12) waarop u onbevoeg verklaar is om ‘n vuurwapen te besit, moet in paragraaf H 9.9 aangeteken word. 
+
+Tydperk 
+
+Die tydperk van onbevoegdheid (byvoorbeeld, onbevoeg verklaar vir ‘n tydperk van vyf jaar deur die Suid-Afrikaanse Polisiediens) moet in paragraaf H 9.10 aangeteken word. 
+
+
+Is ‘n vuurwapen in u besit al ooit gekonfiskeer? 
+
+Dui u antwoord met ‘n X in paragraaf H 10 aan. Indien u ja ant-woord, verstrek asseblief die volgende inligting: 
+
+Polisiestasie  (1) 
+
+Die naam van die polisiestasie wat die vuurwapen gekonfiskeer het (byvoorbeeld, Sunnyside) moet in paragraaf H 10.1 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer wat aan die konfiskering toegeken is (by-voorbeeld, 179/10/2002) moet in paragraaf H 10.2 aangeteken word. 
+
+Omstandighede 
+
+Die omstandighede rondom die konfiskering (byvoorbeeld, aan-randing) moet in paragraaf H 10.3 aangeteken word. 
+
+Uitslag 
+
+Die uitslag van die saak (byvoorbeeld, verbeur aan die staat deur die hof) moet in paragraaf H 10.4 aangeteken word. 
+
+Polisiestasie  (2) 
+
+Die naam van die polisiestasie wat die vuurwapen gekonfiskeer het (byvoorbeeld, Brits) moet in paragraaf H 10.5 aangeteken word. 
+
+MAS-/Saaknommer 
+
+Die MAS/Saaknommer wat aan die konfiskering toegeken is (by- 
+voorbeeld, 120/07/2001) moet in paragraaf H 10.6 aangeteken word. 
+
+Omstandighede 
+
+Die omstandighede rondom die konfiskering (byvoorbeeld, wildstropery) moet in paragraaf H 10.7 aangeteken word. 
+
+Uitslag 
+
+Die uitslag van die saak (byvoorbeeld, verbeur aan die staat deur die hof) moet in paragraaf H 10.8 aangeteken word. 
+
+Is ‘n beskermingsbevel in die afgelope vyf jaar aan u bevorder of het ‘n polisiebeampte u in die afgelope vyf jaar besoek in verband met bewerings van geweld of ander konflik in u tuiste of elders? 
+
+Dui u antwoord met ‘n X aan in paragraaf H 11. Indien u ja ant-woord, verskaf asseblief besonderhede. 
+
+Is ‘n lisiensie, permit of magtiging met betrekking tot ‘n 
+SAPD 517
+
+vuurwapen in die afgelope vyf jaar aan u geweier?
+
+Dui u antwoord met ‘n X aan in paragraaf H 12. Indien u ja ant-woord, verskaf asseblief besonderhede.
+
+Het u in die afgelope vyf jaar gedreig of probeer om self-moord te pleeg, aan akute depressie gelei, emosionele 
+probleme gehad of het u bedwelmende of narkotiese stowwe
+misbruik?
+
+Dui u antwoord met ‘n X aan in paragraaf H 13. Indien u ja ant-woord, verskaf asseblief besonderhede.
+
+Is u in die afgelope vyf jaar deur ‘n mediese praktisyn gediagnoseer met en behandel vir depressie, die misbruik van bedwelmende of narkotiese stowwe, gedrags- of emosionele probleme? 
+
+Dui u antwoord met ‘n X aan in paragraaf H 14. Indien u ja ant-woord, verskaf asseblief besonderhede. 
+
+Het u die afgelope twee jaar ‘n egskeiding gehad of weg-getrek van iemand saam met wie u gewoon het waar daar geskrewe bewerings van geweld was? 
+
+Dui u antwoord met ‘n X aan in paragraaf H 15. Indien u ja ant-woord, verskaf asseblief besonderhede. 
+
+INDIEN U JONGER AS 21 JAAR IS, MOET GEBIEDENDE REDES WAT VAN U VEREIS OM ‘N BEVOEGDHEID-SERTIFIKAAT TE VERKRY, VERSKAF WORD 
+
+Dui die gebiedende redes met ‘n X aan in paragraaf H 16.1. 
+
+Volledige besonderhede van die gebiedende redes moet in para-graaf H 16.2 aangeteken word. 
+
+VERKLARING DEUR AANSOEKER 
+
+Ek is daarvan bewus dat dit ingevolge artikel 120 (9)(f) van die Wet op Beheer van Vuurwapens, 2000 (Wet No 60 van 2000) ‘n oortreding is om ‘n valse verklaring af te lê in hierdie aansoek. 
+
+AFDELING I: HANDTEKENING VAN AANSOEKER
+
+(Teken slegs indien van toepassing)
+
+Foto 
+
+‘n Onlangse kleur paspoortfoto van die aansoeker moet in para-graaf I 1 geplak word, en mag nie die tabel oorskry nie. 
+Die vereistes van die foto:
+S Die foto moet die grootte van ‘n standaard paspoortfoto wees. S Die foto moet ‘n volle vooraansig van die kop en skouers van
+die aansoeker wees.
+
+S  Die agtergrond van die foto moet effekleur wees.
+
+S  Die aansoeker mag nie ‘n hoed of sonbril dra op die foto nie.
+
+Die aansoeker se naam en identiteitsnommer moet op die agterkant van die foto geskryf word voordat dit op die aansoek-vorm vasgeplak word. 
+
+Handtekening 
+
+Die aansoeker moet in paragraaf I 2 teken. Die handtekening mag nie die tabel oorskry nie en moet in die teenwoordigheid van ‘n polisiebeampte aangebring word. 
+
+Vingerafdruk 
+
+Die afdruk van die aansoeker se regterwysvinger moet deur ‘n polisiebeampte geneem word in paragraaf I 3, in die teenwoordig-heid van ‘n getuie, en die afdruk mag nie die tabel oorskry nie. Indien die aansoeker nie ‘n regterwysvinger het nie, moet die afdruk van die linkerwysvinger geneem word. 
+
+Aanwysing van vingerafdruk 
+
+Die aanwysing van die vingerafdruk (byvoorbeeld, regterwysvinger-afdruk) moet in paragraaf I 4 aangeteken word. 
+
+Naam van aansoeker in drukskrif 
+
+Die voorletters en van (in drukskrif) van die aansoeker wat om 
+
+V
+
+die bevoegdheidsertifikaat aansoek doen, moet in paragraaf I 5 aange-teken word.
+
+Datum 
+
+Die datum waarop die aansoeker om die bevoegdheidsertifikaat aansoek doen, moet in paragraaf I 6 aangeteken word. 
+
+Plek 
+
+Die dorp/stad waar die aansoeker om die bevoegdheidsertifikaat aansoek doen, moet in paragraaf I 7 aangeteken word. 
+
+BESONDERHEDE VAN POLISIEBEAMPTE WAT AANSOEK HANTEER 
+
+8.1      Naam van polisiebeampte in drukskrif
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat die aansoek hanteer, moet in paragraaf I 8.1 aangeteken word.
+
+Persal-nommer van polisiebeampte 
+
+Die SAPD Persal-nommer van die polisiebeampte wat die aansoek hanteer, moet in paragraaf I 8.2 aangeteken word. 
+
+
+
+
+Rang van polisiebeampte in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat die aansoek hanteer, moet in paragraaf I 8.3 aangeteken word. 
+
+Handtekening van polisiebeampte 
+
+Die handtekening van die polisiebeampte wat die aansoek hanteer, moet in paragraaf I 8.4 aangeteken word. 
+
+9.	BESONDERHEDE VAN GETUIE
+
+Naam van getuie in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat as getuie optree, moet in paragraaf I 9.1 aangeteken word. 
+
+Persal-nommer van getuie 
+
+Die SAPD Persal-nommer van die polisiebeampte wat as getuie optree, moet in paragraaf I 9.2 aangeteken word. 
+
+Rang van getuie in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat as getuie optree, moet in paragraaf I 9.3 aangeteken word. 
+
+Handtekening van getuie 
+
+Die handtekening van die polisiebeampte wat as getuie optree, moet in paragraaf I 9.4 aangeteken word. 
+
+AFDELING J: BESONDERHEDE VAN TOLK
+
+(Hierdie afdeling moet slegs ingevul word as die aansoeker nie kan lees, skryf of die inhoud van hierdie dokument verstaan nie.)
+
+Naam en van van tolk 
+
+Die naam en van van die persoon wat die inhoud van die aansoek-vorm vir die aansoeker vertolk, moet in paragraaf J 1 aangeteken word. 
+
+Identiteits-/Paspoortnommer van tolk 
+
+Die identiteits-/paspoortnommer van die tolk moet in paragraaf J 2 aangeteken word. 
+
+Woonadres 
+
+Die fisiese adres waar die tolk woon, moet in paragraaf J 3 aange-teken word. 
+SAPD 517
+
+Poskode 
+
+Die poskode van die tolk se woonadres moet in paragraaf J 4 aan-geteken word. 
+
+Posadres 
+
+Die posadres van die tolk moet in paragraaf J 5 aangeteken word. 
+
+Poskode 
+
+Die poskode van die tolk se posadres moet in paragraaf J 6 aange-teken word. 
+
+Telefoonnommer 
+
+Huis: Die tolk se huistelefoonnommer, insluitend die skakelkode (byvoorbeeld, (012) 667 1923), moet in paragraaf J 
+
+aangeteken word. 
+
+Werk: Die tolk se werktelefoonnommer, insluitend die skakelkode (byvoorbeeld, (011) 577 5913), moet in paragraaf J 
+
+aangeteken word. 
+
+Selfoonnommer 
+
+Die selfoonnommer (indien van toepassing) van die tolk moet in paragraaf J 8 aangeteken word. 
+
+
+
+Faks 
+
+Die faksnommer, insluitend die skakelkode, van die tolk moet in paragraaf J 9 aangeteken word. 
+
+E-posadres 
+
+Die e-posadres (indien van toepassing) van die tolk moet in paragraaf J 10 aangeteken word. 
+
+Getolk uit (taal) 
+
+Die taal waaruit die aansoekvorm getolk is en die taal waarin dit getolk is en wat vir die aansoeker verstaanbaar is (byvoorbeeld, Engels in Zoeloe), moet in paragraaf J 11 aangeteken word. 
+
+Datum 
+
+Die datum waarop die tolk die aansoeker bystaan, moet in para-graaf J 12 aangeteken word. 
+
+Handtekening van tolk 
+
+Die handtekening van die tolk wat die aansoeker bystaan omdat hy/sy nie kan lees of skryf of die inhoud van die vorm verstaan nie, moet in paragraaf J 13 aangebring word. 
+
+Plek 
+
+Die plek waar die tolk die aansoeker bystaan, moet in paragraaf J 14 aangeteken word.
+
+Rang van polisiebeampte in drukskrif (indien van toepassing) 
+
+As die tolk ‘n polisiebeampte is, moet sy/haar rang (in drukskrif) in paragraaf J 15 aangeteken word. 
+
+Persal-nommer van polisiebeampte (indien van toepassing) 
+
+As die tolk ‘n polisiebeampte is, moet sy/haar SAPD Persal-nommer in paragraaf J 16 aangeteken word. 
+
+AFDELING K: TOESTEMMING DEUR OUER/VOOG IN GEVAL VAN
+
+MINDERJARIGE
+
+Die toepaslike aanbeveling moet in paragraaf K 1 met ‘n X aangedui word, byvoorbeeld: 
+
+VI
+
+
+
+2.	Naam en van van ouer/voog
+
+Die naam en van van die aansoeker se ouer/voog wat toestemming gee of weier vir hom/haar om aansoek te doen om ‘n
+
+bevoegdheidsertifikaat moet in paragraaf K 2 aangeteken word.
+
+Identiteits-/Paspoortnommer van ouer/voog 
+
+Die identiteits-/paspoortnommer (indien van toepassing) van die aansoeker se ouer/voog moet in paragraaf K 3 aangeteken word. 
+
+Opmerkings van ouer/voog 
+
+Enige opmerkings deur die aansoeker se ouer/voog moet in para- graaf K 4 aangeteken word.
+
+Datum 
+
+Die datum waarop die aansoeker se ouer/voog toestemming gegee of geweier het, moet in paragraaf K 5 aangeteken word. 
+
+Handtekening van ouer/voog 
+
+Die handtekening van die aansoeker se ouer/voog moet in paragraaf K 6 aangebring word. 
+
+Plek 
+
+Die dorp/stad waar die aansoeker se ouer/voog toestemming gegee of geweier het, moet in paragraaf K 7 aangeteken word. 
+
+
+AFDELING L: VIR AMPTELIKE GEBRUIK DEUR DIE POLISIE-BEAMPTE WAT DIE ONDERHOUDE VOER
+
+(VERSLAG VAN ONDERHOUD)
+
+ONDERHOUD 1 (Met ‘n persoon wat nie die aansoeker se gade/lewensmaat is nie) 
+
+SA-Identiteit/Paspoortnommer (Merk met ‘n X) 
+
+Die soort identifikasie van die persoon met wie die onderhoud gevoer word, moet in paragraaf L 1.1 met ‘n X aangedui word. 
+
+Identiteitsnommer 
+
+Die identiteitsnommer van die persoon met wie die onderhoud gevoer word, moet in paragraaf L 2 aangeteken word. 
+
+Paspoortnommer 
+
+Die paspoortnommer (indien van toepassing) van die persoon met wie die onderhoud gevoer word, moet in paragraaf L 3 aangeteken word. 
+
+Van 
+
+Die persoon met wie die onderhoud gevoer word se van moet in paragraaf L 4 aangeteken word. 
+
+Voorletters 
+
+Die persoon met wie die onderhoud gevoer word se voorletters moet in paragraaf L 5 aangeteken word. 
+
+Volle name 
+
+Die persoon met wie die onderhoud gevoer word se volle name moet in paragraaf L 6 aangeteken word. 
+
+Ouderdom 
+
+Die persoon met wie die onderhoud gevoer word se ouderdom moet in paragraaf L 7 aangeteken word. 
+
+Geslag 
+
+Die persoon met wie die onderhoud gevoer word se geslag 
+SAPD 517
+moet in paragraaf L 8 aangeteken word.
+Aanbeveel
+X
+Nie aanbeveel nie
+
+Adres 
+
+Die persoon met wie die onderhoud gevoer word se woonadres moet in paragraaf L 9 aangeteken word. 
+
+Poskode 
+
+Die poskode van die persoon met wie die onderhoud gevoer word se woonadres moet in paragraaf L 10 aangeteken word. 
+
+Telefoonnommers 
+
+Huis: Die persoon met wie die onderhoud gevoer word se huis-telefoonnommer, insluitend die skakelkode (byvoorbeeld, (012) 
+
+1923), moet in paragraaf L 11.1 aangeteken word. 
+
+Werk: Die persoon met wie die onderhoud gevoer word se werk- 
+telefoonnommer, insluitend die skakelkode (byvoorbeeld, (011)
+577
+
+5913), moet in paragraaf L 11.2 aangeteken word.
+
+Selfoonnommer 
+
+Die persoon met wie die onderhoud gevoer word se selfoon-nommer moet in paragraaf L 11.3 aangeteken word. 
+
+Faks 
+
+Die persoon met wie die onderhoud gevoer word se faksnommer, insluitend die skakelkode, moet in paragraaf L 12 aangeteken word. 
+
+Die persoon met wie die onderhoud gevoer word se verwantskap aan die aansoeker moet in paragraaf L 13 aangeteken word. 
+
+
+Opmerkings deur persoon met wie die onderhoud gevoer word 
+
+Die persoon met wie die onderhoud gevoer word se kommentaar moet na afloop van die onderhoud in paragraaf L 
+aangeteken word. 
+
+Datum 
+
+Die datum waarop die onderhoud gevoer word, moet in paragraaf L 15 aangeteken word. 
+
+Tyd 
+
+Die tyd waarop die onderhoud gevoer word, moet in paragraaf L 
+
+aangeteken word. 
+
+Opmerkings deur die polisiebeampte wat die onderhoud gevoer het 
+
+Die polisiebeampte wat die onderhoud gevoer het se kommentaar moet in paragraaf L 17 aangeteken word. 
+
+Die wyse waarop die onderhoud gevoer is (byvoorbeeld, persoon-lik) moet in paragraaf L 18 aangeteken word. 
+
+Datum 
+
+Die datum waarop die polisiebeampte die onderhoud voer, moet in paragraaf L 19 aangeteken word.
+
+Tyd 
+
+Die tyd waarop die polisiebeampte die onderhoud voer, moet in paragraaf L 20 aangeteken word. 
+
+Naam van polisiebeampte in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat die onderhoud voer moet in paragraaf L 21 aangeteken word. 
+
+Persal-nommer van polisiebeampte 
+
+VII
+
+Die SAPD Persal-nommer van die polisiebeampte wat die onder-houd gevoer het, moet in paragraph L 22 aangeteken word.
+
+Rang van polisiebeampte in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat die onderhoud voer, moet in paragraaf L 23 aangeteken word. 
+
+Handtekening van polisiebeampte 
+
+Die polisiebeampte wat die onderhoud voer, moet sy/haar hand-tekening in paragraaf L 24 aanbring. 
+
+ONDERHOUD 21 (Met ‘n persoon wat nie die aansoeker se gade/lewensmaat is nie) 
+
+SA-Identiteit/Paspoortnommer (Merk met ‘n X) 
+
+Die soort identifikasie van die persoon met wie die onderhoud gevoer word, moet in paragraaf L 25.1 met ‘n X aangedui word. 
+
+Identiteitsnommer 
+
+Die identiteitsnommer van die persoon met wie die onderhoud gevoer word, moet in paragraaf L 26 aangeteken word. 
+
+Paspoortnommer 
+
+Die paspoortnommer (indien van toepassing) van die persoon met wie die onderhoud gevoer word, moet in paragraaf L 27 aange-teken word. 
+
+Van 
+
+Die persoon met wie die onderhoud gevoer word se van moet in paragraaf L 28 aangeteken word. 
+
+
+
+
+Voorletters 
+
+Die persoon met wie die onderhoud gevoer word se voorletters moet in paragraaf L 29 aangeteken word. 
+
+Volle name 
+
+Die persoon met wie die onderhoud gevoer word se volle name moet in paragraaf L 30 aangeteken word. 
+
+Ouderdom 
+
+Die persoon met wie die onderhoud gevoer word se ouderdom moet in paragraaf L 31 aangeteken word. 
+
+Geslag 
+
+Die persoon met wie die onderhoud gevoer word se geslag moet in paragraaf L 32 aangeteken word. 
+
+Adres 
+
+Die persoon met wie die onderhoud gevoer word se woonadres moet in paragraaf L 33 aangeteken word. 
+
+Poskode 
+
+Die poskode van die persoon met wie die onderhoud gevoer word se woonadres moet in paragraaf L 34 aangeteken word. 
+
+Telefoonnommers 
+
+Huis: Die persoon met wie die onderhoud gevoer word se huis-telefoonnommer, insluitend die skakelkode (byvoorbeeld, (012) 667 1923), moet in paragraaf L 35.1 aangeteken word. 
+
+Werk: Die persoon met wie die onderhoud gevoer word se 
+
+werk-
+telefoonnommer, insluitend die skakelkode
+(byvoorbeeld, (011) 577
+5913), moet in paragraaf L
+11.2 aangeteken word.
+
+35.3
+Selfoonnommer
+
+SAPD 517 Die persoon met wie die onderhoud gevoer word se selfoon-nommer moet in paragraaf L 35.3 aangeteken word.
+
+Faks 
+
+Die persoon met wie die onderhoud gevoer word se faksnommer, insluitend die skakelkode, moet in paragraaf L 12 aangeteken word. 
+
+Die persoon met wie die onderhoud gevoer word se verwantskap aan die aansoeker moet in paragraaf L 37 aangeteken word. 
+
+Opmerkings deur persoon met wie die onderhoud gevoer word 
+
+Die persoon met wie die onderhoud gevoer word se kommentaar
+
+moet na afloop van die onderhoud in paragraaf L 38 aangeteken
+word.
+
+Datum 
+
+Die datum waarop die polisiebeampte die onderhoud voer, moet in paragraaf L 39 aangeteken word. 
+
+Tyd 
+
+Die tyd waarop die polisiebeampte die onderhoud voer, moet in paragraaf L 40 aangeteken word. 
+
+Opmerkings deur persoon met wie die onderhoud gevoer word 
+
+Die persoon met wie die onderhoud gevoer word se kommentaar moet na afloop van die onderhoud in paragraaf L 41 aangeteken word. 
+
+Die wyse waarop die onderhoud gevoer is (byvoorbeeld, persoon-lik) moet in paragraaf L 42 aangeteken word. 
+
+
+
+Datum 
+
+Die datum waarop die polisiebeampte die onderhoud voer, moet in paragraaf L 43 aangeteken word.
+
+Tyd 
+
+Die tyd waarop die polisiebeampte die onderhoud voer, moet in paragraaf L 44 aangeteken word. 
+
+Naam van polisiebeampte in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat die onderhoud voer moet in paragraaf L 45 aangeteken word. 
+
+Persal-nommer van polisiebeampte 
+
+Die SAPD Persal-nommer van die polisiebeampte wat die onder-houd gevoer het, moet in paragraph L 46 aangeteken word. 
+
+Rang van polisiebeampte in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat die onderhoud voer, moet in paragraaf L 47 aangeteken word. 
+
+Handtekening van polisiebeampte 
+
+Die polisiebeampte wat die onderhoud voer, moet sy/haar hand-tekening in paragraaf L 48 aanbring. 
+
+ONDERHOUD MET AANSOEKER SE GADE/LEWENSMAAT 
+
+(Indien van toepassing) 
+
+SA-Identiteit/Paspoortnommer (Merk met ‘n X) 
+
+Die soort identifikasie van die gade/lewensmaat met wie die onder-houd gevoer word, moet in paragraaf L 49.1 met ‘n X aangedui word. 
+
+VIII
+
+Identiteitsnommer 
+
+Die identiteitsnommer van die gade/lewensmaat met wie die onder-houd gevoer word, moet in paragraaf L 50 aangeteken word. 
+
+Paspoortnommer 
+
+Die paspoortnommer (indien van toepassing) van die gade/ lewensmaat met wie die onderhoud gevoer word, moet in paragraaf L 51 aangeteken word. 
+
+Van 
+
+Die gade/lewensmaat met wie die onderhoud gevoer word se van moet in paragraaf L 52 aangeteken word. 
+
+Voorletters 
+
+Die gade/lewensmaat met wie die onderhoud gevoer word se voorletters moet in paragraaf L 53 aangeteken word. 
+
+Volle name 
+
+Die gade/lewensmaat met wie die onderhoud gevoer word se volle name moet in paragraaf L 54 aangeteken word. 
+
+Ouderdom 
+
+Die gade/lewensmaat met wie die onderhoud gevoer word se ouderdom moet in paragraaf L 55 aangeteken word. 
+
+Geslag 
+
+Die gade/lewensmaat met wie die onderhoud gevoer word se geslag moet in paragraaf L 56 aangeteken word. 
+
+Adres 
+
+Die fisiese adres waar die gade/lewensmaat woon, moet in para-graaf L 57 aangeteken word. 
+
+
+
+
+Poskode 
+
+Die poskode van die gade/lewensmaat se woonadres moet in paragraaf L 58 aangeteken word. 
+
+Telefoonnommers 
+
+Huis: Die huistelefoonnommer, insluitend die skakelkode, van die gade/lewensmaat (byvoorbeeld, (012) 667 1923) moet in paragraaf L 59.1 aangeteken word. 
+
+Werk: Die werktelefoonnommer, insluitend die skakelkode, van die gade/lewensmaat (byvoorbeeld, (011) 577 5913) moet in paragraaf L 59.2 aangeteken word. 
+
+Selfoonnommer 
+
+Die selfoonnommer (indien van toepassing) van die gade/lewens-
+
+maat moet in paragraaf L 59.3 aangeteken word.
+
+60.      Faks
+
+Die faksnommer, insluitend die skakelkode, van die gade/lewens- maat moet in paragraaf L 60 aangebring word.
+
+Opmerkings deur gade/lewensmaat 
+
+Die opmerkings van die gade/lewensmaat na afloop van die onder-houd moet in paragraaf L 61 aangeteken word. 
+
+Datum 
+
+Die datum waarop die onderhoud gevoer is, moet in paragraaf L 62 aangeteken word.
+
+63.      Tyd
+SAPD 517 Die tyd waarop die onderhoud gevoer is, moet in paragraaf L 63 aangeteken word.
+
+Opmerkings deur die polisiebeampte wat die onderhoud gevoer het 
+
+Die opmerkings deur die polisiebeampte wat die onderhoud gevoer het, moet in paragraaf L 64 aangeteken word. 
+
+Die wyse waarop die onderhoud gevoer is, moet in paragraaf L 65 aangeteken word. 
+
+Datum 
+
+Die datum waarop die polisiebeampte die onderhoud gevoer het, moet in paragraaf L 66 aangeteken word.
+
+Naam van polisiebeampte in drukskrif 
+
+Die voorletters en van (in drukskrif) van die polisiebeampte wat die onderhoud gevoer het, moet in paragraaf L 67 aangeteken word. 
+
+Persal-nommer van polisiebeampte 
+
+Die SAPD Persal-nommer van die polisiebeampte wat die onder-houd gevoer het, moet in paragraaf L 68 aangeteken word. 
+
+Rang van polisiebeampte in drukskrif 
+
+Die rang (in drukskrif) van die polisiebeampte wat die onderhoud gevoer het, moet in paragraaf L 69 aangeteken word. 
+
+Handtekening van polisiebeampte 
+
+Die polisiebeampte wat die onderhoud gevoer het, moet sy/haar handtekening in paragraaf L 70 aanbring. 
+
+ANDER BESONDERHEDE 
+
+(Moet deur die Aangewese Vuurwapenbeampte voltooi word) 
+
+‘n Beskrywing van die aansoeker se gesondheid en fiksheid moet in paragraaf L 72 aangeteken word. ‘n Mediese sertifikaat mag vereis word indien dit duidelik is dat die aansoeker as gevolg van sy/haar ouderdom of gesondheid moontlik nie daartoe in staat sal wees om ‘n vuurwapen veilig te hanteer nie. 
+
+‘n Beskrywing van die aansoeker se geestestoestand, en ‘n aan-duiding of hy/sy geneig is om gewelddadig op te tree of nie, moet in paragraaf L 73 aangeteken word. Indien nodig, mag ‘n mediese sertifikaat vereis word indien dit duidelik is dat die aansoeker as gevolg van sy/haar geestestoestand moontlik nie daartoe in staat sal wees om ‘n vuurwapen veilig te hanteer nie. Inligting oor gewelddadige optrede kan van die Gesinsgeweldregisters verkry word. 
+
+‘n Beskrywing van die algemene indruk van die aansoeker se karakter, insluitend sy/haar humeur en die stabiliteit van sy/haar emosies en gedrag, moet in paragraaf L 74 aangeteken word. 
+
+Indien die aansoeker afhanklik is van enige middel wat ‘n bedwelmende of narkotiese uitwerking het, moet dit in paragraaf L 75 aangeteken word. Indien nodig, mag ‘n mediese sertifikaat vereis word as dit duidelik is dat die afhanklikheid moontlik die aansoeker se hantering van ‘n vuurwapen kan beïnvloed. 
+
+Besonderhede van enige negatiewe aspekte omtrent die aansoeker waarvan die Aangewese Vuurwapenbeampte bewus is, moet in paragraaf L 76 aangeteken word. 
+
+‘n Beskrywing van die aansoeker se misdaadgeskiedenis (indien van toepassing) moet in paragraaf L 77 aangeteken word. 
+
+‘n Beskrywing van die aansoeker se kennis van die Wet en Regulasies, asook sy/haar kennis van die veilige hantering van ‘n vuurwapen, moet in paragraaf L 78 aangeteken word. Volle besonderhede van die wyse waarop die aansoeker getoets is, moet verskaf word. Indien die aansoeker nie vantevore opleiding in die hantering van ‘n vuurwapen ontvang het nie, moet hy/sy eers opleiding ondergaan. Bewys van sodanige opleiding moet die aansoek vergesel. 
+
+IX
+
+79. INDIEN DIE AANSOEKER JONGER AS 21 JAAR IS, BEVESTIG OF DAAR GEBIEDENDE REDES IS WAT VAN
+
+HOM/HAAR VEREIS OM ‘N BEVOEGDHEIDSERTIFIKAAT TE VERKRY
+
+Die toepaslike redes moet met ‘n X in paragraaf L 79.1 aangedui word. 
+
+Bevestiging deur die Aangewese Vuurwapenbeampte dat daar gebiedende redes is wat van die aansoeker vereis om ‘n bevoegd-heidsertifikaat te verkry, moet in paragraaf L 79.2 aangeteken word. 
+
+AFDELING M:	AANBEVELING
+
+(Moet deur die Aangewese Vuurwapenbeampte/Stasie-kommissaris voltooi word)
+
+AANBEVELING AANGAANDE DIE AANSOEK 
+
+Die vereiste aanbeveling moet in paragraaf M 1 met ‘n X aangedui word, byvoorbeeld: 
+
+
+
+1.1      Motivering
+
+‘n Motivering vir die aanbeveling moet in paragraaf M 1.1 aange-
+
+teken word. Die aanbeveling moet op werklike feite gebaseer
+
+wees,
+
+en nie bloot op hoorsê nie.
+
+Naam van Aangewese Vuurwapenbeampte/Stasiekommis-saris in drukskrif 
+
+Die voorletters en van (in drukskrif) van die Aangewese Vuur-wapenbeampte/Stasiekommissaris wat die aanbeveling doen,
+
+moet	in paragraaf M 2 aangeteken word.
+
+3.	Datum
+
+Die datum waarop die Aangewese Vuurwapenbeampte/Stasiekom-
+
+missaris die aanbeveling doen, moet in paragraaf M 3 aangeteken
+word.
+
+
+
+
+
+
+Rang van Aangewese Vuurwapenbeampte/Stasiekommis-saris in drukskrif 
+Die rang (in drukskrif) van die Aangewese Vuurwapenbeampte/ Stasiekommissaris wat die aanbeveling doen, moet in paragraaf M 4 aangeteken word. 
+
+Plek 
+
+Die dorp/stad waar die Aangewese Vuurwapenbeampte/Stasie-kommissaris die aanbeveling doen, moet in paragraaf M 5
+
+aange-	teken word.
+
+Handtekening van Aangewese Vuurwapenbeampte/Stasie-kommissaris 
+
+Die handtekening van die Aangewese
+
+Vuurwapenbeampte/Stasie-
+bevelvoerder wat die
+aanbeveling doen, moet in paragraaf M 6 aan-
+gebring
+word.
+
+
+
+Persal-nommer van Aangewese Vuurwapenbeampte/Stasie-kommissaris 
+
+Die SAPD Persal-nommer van die Aangewese Vuurwapen-beampte/Stasiekommissaris wat die aanbeveling doen, moet in paragraaf M 7 aangeteken word. 
+SAPD 517
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aanbeveel
+X
+Nie aanbeveel nie
+
+X

@@ -1,0 +1,4052 @@
+
+
+PROSEDUREHANDLEIDING
+
+HANTERING VAN VEILIGHEID EN SEKURITEIT IN
+
+
+
+WKOD-INRIGTINGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wes-Kaap Onderwysdepartement
+
+
+
+Western Cape Education Department
+
+
+
+ISebe IeMfundo IeNtshona Koloni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROSEDUREHANDLEIDING RAKENDE DIE HANTERING VAN VEILIGHEID EN SEKURITEIT
+
+
+
+IN WKOD-INRIGTINGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ons Veiligheid is ‘n Prioriteit
+
+
+
+LAAT ONS SAAMSTAAN IN DIE SKEPPING VAN VEILIGE LEEROMGEWINGS
+
+
+
+
+
+
+
+
+
+
+
+WKOD 2003
+
+
+
+Copyright reserved Kopiereg voorbehou Likhuselwe ilungelo lokwenza ikopi
+
+VOORWOORD
+
+
+
+Gewelddadige misdade en die vrees vir gewelddadige misdade het 'n sterk negatiewe impak op individue en gemeenskappe. Wanneer misdaad eskaleer, neem die kwaliteit van die lewe af en word gemeenskappe omskep in slagvelde waarin inwoners gevangenes is en maar te dikwels die slagoffers van gewelddadige misdade word.
+
+
+
+Die Minister van Onderwys het skoolveiligheid as een van die prioriteite in Tirisano verklaar. Die strategiese doelwit is om 'n veilige en verdraagsame leeromgewing te skep wat onskuld aanprys en menslike waardigheid hoog ag (Implementeringsplan vir Tirisano: 2000).
+
+
+
+Die hoë misdaad en geweld in die Wes-Kaap het 'n sterk invloed op die gehalte van leer en onderrig.
+
+
+
+Hierdie handleiding is voorberei as deel van die Wes-kaap Onderwysdepartement (WKOD) se verbintenis om misdaad en geweld in ons skole aan te spreek.
+
+
+
+Die effektiewe bestuur van veiligheid by inrigtings van die WKOD sal 'n bydrae lewer tot hoë gehalte basiese onderwys vir almal.
+
+
+
+Die handleiding stel die probleem, identifiseer sommige van die onderliggende oorsake en verskaf 'n stap-vir-stap prosedure vir veiligheidsbestuur.
+
+
+
+Ek wil graag erkenning verleen aan werknemersverenigings soos SADOU, NAPTOSA, die SAOU, kringbestuurders, skoolhoofde, opvoeders sowel as die Veilige Skole-afdeling en hulle bedank vir die bydraes wat hulle gelewer het tot die samestelling van die handleiding.
+
+
+
+Die WKOD besef dat ons 'n holistiese, geïntegreerde plan benodig om misdaad en geweld te beveg. Skole word aangemoedig om hulle veiligheidskomitees te ontwikkel en saam te groepeer sodat 'n volhoubare en geïntegreerde veiligheidsplan op skoolvlak verseker kan word.
+
+
+
+Mag ons almal daarna strewe om 'n rol te speel in die opbou van vrede en 'n bydrae lewer tot die transformasie van ons gemeenskappe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.B. SWARTZ HOOF: ONDERWYS Ons veiligheid is ‘n prioriteit.
+
+INHOUDSOPGAWE
+
+
+
+DOEL
+
+1
+
+WOORDELYS
+
+2
+
+AKRONIEME
+
+4
+
+1.
+
+INLEIDING
+
+5
+
+1.1
+
+Die visie
+
+5
+
+1.2
+
+Die missie
+
+5
+
+1.3
+
+Die strategie
+
+5
+
+1.4
+
+Die beplanningsproses
+
+6
+
+1.5
+
+Die hantering van veiligheid en krisisse
+
+7
+
+2.
+
+OMGEWINGSPROGRAMME
+
+8
+
+2.1
+
+Verbod op betreding
+
+8
+
+2.1.1
+
+Vertoon van tekens wat onregmatige betreding verbied
+
+8
+
+2.1.2
+
+Prosedure
+
+8
+
+2.2
+
+Beperking van toegang via die administratiewe gebou en beveiliging van
+
+
+
+
+
+opvoeders se eiendom
+
+8
+
+2.2.1
+
+Infrastruktuursteun
+
+9
+
+2.2.2
+
+Prosedure
+
+9
+
+2.3
+
+Die uitbreiding van alarmstelsels
+
+10
+
+2.3.1
+
+Hulp met befondsing vir die installering van alarmstelsels
+
+10
+
+2.3.2
+
+Prosedure
+
+11
+
+3.
+
+PROGRAMME VIR DIE ONDERSTEUNING,
+
+
+
+
+
+MODIFIKASIE EN/OF BEïNVLOEDING VAN GEDRAG
+
+14
+
+3.1
+
+Opvoeders in gevaar tydens diensverrigting
+
+12
+
+3.1.1  Prosedures vir opvoeders in gevaar weens leerderoptrede
+
+12
+
+3.1.2  Prosedures vir opvoeders in gevaar weens buitestaanderoptrede en
+
+
+
+
+
+die uitvoering van buitemuurse bedrywighede
+
+12
+
+3.2
+
+Opvoedereiendom   in gevaar tydens diensverrigting
+
+13
+
+3.2.1
+
+Diefstal en vandalisme aan eiendom   van opvoeders
+
+13
+
+3.2.2
+
+Prosedure
+
+13
+
+3.3
+
+Ondersteuning, modifikasie en beïnvloeding van gedrag
+
+14
+
+3.3.1
+
+Programme vir gedragsmodifikasie
+
+14
+
+3.3.2
+
+Prosedure
+
+14
+
+4.
+
+STELSELPROGRAMME
+
+15
+
+4.1
+
+Bendegeweld
+
+15
+
+4.1.1 Erkenning van die impak van bendegeweld op skole
+
+15
+
+4.1.2  Prosedure vir die sluit van die skool
+
+16
+
+4.2     Sones vry van gevaarlike voorwerpe
+
+17
+
+4.2.1  Sones vry van vuurwapens
+
+17
+
+4.2.2  Prosedure
+
+17
+
+4.2.3 Sones vry van vuurwapens
+
+18
+
+4.2.4 Prosedures
+
+18
+
+4.3.
+
+Visentering
+
+19
+
+4.3.1  Om na willekeur te deursoek of op iets beslag te lê is verbode
+
+19
+
+4.3.2  Prosedure vir deursoeking of beslaglegging
+
+19
+
+Bylae A
+
+
+
+DIE NEGEPUNT-BEPLANNINGSPROSES VIR VEILIGE SKOLE
+
+20
+
+Bylae B
+
+
+
+AANSOEKPROSEDURES OM VERGOEDING VIR
+
+
+
+BEROEPSBESERINGS EN -SIEKTES
+
+26
+
+Bylae C
+
+
+
+VERANTWOORDELIKHEDE   VAN ROLSPELERS IN DIE NASLEEP
+
+
+
+VAN 'N KRISIS
+
+27
+
+Bylae D
+
+
+
+WETGEWENDE RAAMWERK EN ANDER MANDATE
+
+29
+
+Bylae E
+
+
+
+KONTAKNOMMERS VAN DIE AFDELING: VEILIGE SKOLE
+
+30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOEL VAN HIERDIE DOKUMENT
+
+
+
+
+
+Om te dien as beleidstuk vir opvoeders, leerders en ondersteuningspersoneel in die hantering van veiligheid en
+
+
+
+sekuriteit binne inrigtings van die Wes-Kaap Onderwysdepartement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	1
+
+WOORDELYS
+
+
+
+
+
+Afleidingsprogram
+
+Die  omvang  van  hierdie  programme  sluit  kinders  in  wat  in
+
+
+
+gevaar verkeer of wat gedragsprobleme op skool, tuis of in die
+
+
+
+gemeenskap openbaar.
+
+
+
+Behoeftebepaling
+
+'n  Wetenskaplike  benadering
+
+deur  die  WKOD-Veilige  Skole
+
+
+
+om  skole  te  klassifiseer  in  'n  rangorde  vir  die  befondsing  van
+
+
+
+skole met misdaadbeheer- en misdaadvoorkomingsprojekte
+
+Gemeenskapsveiligheid
+
+Die staatsdepartement wat verantwoordelik is vir veiligheid en
+
+
+
+sekuriteit    deur,    onder    andere,    die    ondersteuning    van
+
+
+
+misdaadvoorkomingstrategieë.
+
+
+
+Klusterstrukture
+
+'n  Geografiese  groepering  van  skole  in  'n  bepaalde  gebied  wat
+
+
+
+saamwerk in die ontwikkeling van misdaadvoorkomingstrategieë
+
+
+
+vir die bekamping van misdaad en geweld wat dreig en 'n impak
+
+
+
+het op skole in die Wes-Kaap.
+
+
+
+Mentorprogram
+
+'n Program waarin ouer rolmodelle aan jeugdiges wat in gevaar
+
+
+
+verkeer    oor    'n    bepaalde    tydperk    voorligting,    sorg    en
+
+
+
+ondersteuning bied om hulle sodoende behulpsaam te wees en
+
+
+
+hulle    meer    geleenthede    te    bied    om    verantwoordelike
+
+
+
+landsburgers te word.
+
+
+
+Skole in gevaar
+
+
+
+
+
+Skool met 'n uiters
+
+'n Skool wat geografies geleë is in 'n bendegeteisterde gebied
+
+
+
+waar daar gereeld voorvalle van skietgevegte voorkom.
+
+hoë gevaarvlak
+
+
+
+
+
+
+
+Skool met 'n hoë gevaarvlak 'n Skool wat geografies geleë is in 'n bendegeteisterde gebied waar voorvalle van bendebedrywighede, geweld, vandalisme en misdaad voorkom.
+
+
+
+Skool met 'n medium gevaarvlak
+
+
+
+Skool met 'n lae gevaarvlak
+
+
+
+'n Skool wat geografies geleë is in 'n bendegeteisterde gebied waar daar 'n hoë voorkoms van eiendomsverwante misdaad en misbruik is.
+
+
+
+'n Skool wat geografies geleë is in 'n gebied waar voorvalle van misdaad sporadies aangemeld word.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Sone vry van gevaarlike
+
+Die Minister van Onderwys het, na oorlegpleging met die Raad
+
+
+
+voorwerpe
+
+
+
+van  Onderwysministers,  alle  skole  verklaar  tot  sones  vry  van
+
+
+
+
+
+
+
+gevaarlike   voorwerpe.   Derhalwe   mag   geen   persoon   enige
+
+
+
+
+
+gevaarlike  voorwerp  dra  of  berg  op  'n  openbare  skoolperseel
+
+
+
+
+
+nie,   behalwe   in   amptelik   aangewese   plekke   wat   deur   die
+
+
+
+
+
+prinsipaal   geïdentifiseer   is.
+
+'n   Gevaarlike   voorwerp   word
+
+
+
+
+
+gedefinieer as enige ontplofbare materiaal of toestel, enige vuur-
+
+
+
+
+
+of   gaswapen,   enige   artikel,   voorwerp   of   instrument   wat
+
+
+
+
+
+aangewend  kan  word  om  'n  persoon  liggaamlik  te  skaad  of  te
+
+
+
+
+
+verlam  of  bewusteloos  te  laat  of  om  skade  aan  eiendom  te
+
+
+
+
+
+berokken, of enige voorwerp wat deur die minister by wyse van
+
+
+
+
+
+kennisgewing  in  die  Staatskoerant  as  'n  gevaarlike  voorwerp
+
+
+
+
+
+verklaar word vir die doeleindes van hierdie regulasie, tensy so
+
+
+
+
+
+'n voorwerp vir opvoedkundige doeleindes gebruik word.
+
+
+
+
+
+
+
+
+
+Veiligeskolekoördineerder       'n Persoon in die diens van die WKOD wat behulpsaam is met
+
+
+
+veiligheid     en     sekuriteit     by     'n     Onderwysbestuurs-en-
+
+
+
+ontwikkelingsentrum (OBOS).
+
+
+
+
+
+Veiligheidsbeampte	Die  persoon  wat  by  'n  skool  aangestel  word  om  veiligheid  te
+
+
+
+hanteer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	3
+
+LYS VAN AKRONIEME
+
+
+
+FAMSA
+
+Gesins- en Huweliksgenootskap van Suid-Afrika
+
+
+
+GGO
+
+Gemeenskapsgebaseerde Organisasie
+
+
+
+GPF
+
+Gemeenskapspolisiëringsforum
+
+
+
+GVF
+
+Gemeenskapsveiligheidsforum
+
+
+
+HVVS
+
+Handvuurwapenvrye Sones
+
+
+
+MSAS
+
+Multisektorale Aksiespan
+
+
+
+NIMRO
+
+Nasionale      Instituut      vir      Misdaadvoorkoming      en      Rehabilitasie
+
+van
+
+
+
+Oortreders
+
+
+
+NMVS
+
+Nasionale Misdaadvoorkomingstrategie
+
+
+
+NRO
+
+Nie-regeringsorganisasie
+
+
+
+OBOS
+
+Onderwysbestuurs-en-ontwikkelingsentrum
+
+
+
+PAWK
+
+Provinsiale Administrasie van die Wes-Kaap
+
+
+
+RAVO
+
+Raad op Arbeidsverhoudings vir Opvoeders
+
+
+
+SAIDSA
+
+Suid-Afrikaanse Indringersopsporingsdiensvereniging
+
+
+
+SANRA
+
+Suid-Afrikaanse Nasionale Raad insake Alkoholisme en Dwelmafhanklikheid
+
+
+
+SAPD
+
+Suid-Afrikaanse Polisiediens
+
+
+
+SASW
+
+Suid-Afrikaanse Skolewet
+
+
+
+SBL
+
+Skoolbeheerliggaam
+
+
+
+SVK
+
+Skoolveiligheidskomitee
+
+
+
+VVS
+
+Vuurwapenvrye Sones
+
+
+
+WBGV
+
+Wet op Beroepsgesondheid en -veiligheid
+
+
+
+WIO
+
+Wet op die Indiensneming van Opvoeders
+
+
+
+WKOD
+
+Wes-Kaap Onderwysdepartement
+
+
+
+WVBS
+
+Wet op Vergoeding vir Beroepsbeserings en -siektes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+INLEIDING
+
+
+
+Die visie 
+
+
+
+Veilige leerinrigtings vir almal 
+
+
+
+
+
+Die missie 
+
+
+
+Die Afdeling: Veilige Skole strewe daarna om sentrums van voortreflikheid te skep met sterk gemeenskapsbande, gehalteonderrig en -leer, en doeltreffende bestuur en beheer, om sodoende die grondliggende oorsake van misdaad en geweld te beveg. 
+
+
+
+
+
+Die strategie 
+
+
+
+Veilige Skole se strategie fokus oor die algemeen op die veiligheid van mense - die opvoeders, leerders en ondersteuningspersoneel. Dit is 'n drieledige strategie bestaande uit die volgende soorte programme wat ontwerp is om veilige en doeltreffende omgewings te skep wat bevorderlik vir onderrig en leer is: 
+
+
+
+Omgewingsprogramme waar die fisiese struktuur van die skool beveilig word deur middel van veiligheidsomheinings, maas- en lemmetjiesdraad, asook alarms wat gekoppel is aan gewapende reaksie.
+
+
+
+Programme wat daargestel word om ouer-, opvoeder- en leerdergedrag op skool te ondersteun, te verander of te beïnvloed. Waar moontlik word die gemeenskap ook betrek. Programme soos konflikhantering, traumaberading, portuurgroepberading en menseregteopvoeding word aangewend om gedrag te verander. Daarbenewens word aandag ook gegee aan sport- en kulturele aktiwiteite en entrepreneursopleiding.
+
+
+
+Stelselprogramme wat 'n holistiese benadering tot die verandering van die wyse waarop die hele skool tans funksioneer, behels. Hierdie programme sluit in opleiding in leierskap en bestuur, organisatoriese ontwikkeling, gemeenskapsverhoudinge en doeltreffende beheer. Hulle sluit ook in die ontwikkeling van 'n relevante kurrikulum en aktiwiteite om leerders wat in gevaar verkeer te identifiseer en hulp aan hulle te verleen. Vennootskappe wat ander staatsdepartemente asook nie- regeringsorganisasies (NRO's) en gemeenskapsgebaseerde organisasies (GBO's) betrek, word gestig om aangeleenthede rakende veiligheid en sekuriteit aan te spreek.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	5
+
+Die beplanningsproses 
+
+
+
+Die Negepunt-veiligeskolebeplanningsproses is aan skole beskikbaar gestel as 'n riglyn om hulle te help om 'n gemeenskapsgeoriënteerde probleemoplossingsbenadering daar te stel. 
+
+
+
+Hierdie beplanningsproses bestaan uit die volgende stappe:
+
+
+
+
+
+Stap 1
+
+
+
+Stig 'n Veiligheidskomitee.
+
+
+
+
+
+Stap 2
+
+
+
+Maak veiligheid deel van die skool se visie.
+
+
+
+
+
+Stap 3
+
+
+
+Onderneem 'n veiligheidsoudit.
+
+
+
+
+
+Stap 4
+
+
+
+Stel hoofdoelwitte.
+
+
+
+
+
+Stap 5
+
+
+
+Ontwikkel 'n veiligheidsplan.
+
+
+
+
+
+Stap 6
+
+
+
+Kies en implementeer strategieë.
+
+
+
+
+
+Stap 7
+
+
+
+Onderneem 'n oudit van diensverskaffers in die gebied.
+
+
+
+
+
+Stap 8
+
+
+
+Skep klusterstrukture.
+
+
+
+
+
+Stap 9
+
+
+
+Evalueer en bepaal vordering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Verwys na Bylae A vir 'n breedvoerige beskrywing van die Negepunt- veiligeskolebeplanningsproses.
+
+
+
+Die regulasies rakende veiligheidsmaatreëls by openbare skole soos vervat in Regeringskennisgewing 22754 (nr. 1040), die Suid-Afrikaanse Skolewet (SASW) en die Wet op Beroepsgesondheid en -veiligheid (WBVG) bepaal dat daar by elke skool een veiligheidsverteenwoordiger moet wees. Die skoolgebaseerde veiligheidsbeampte sal hierdie mandaat vervul.
+
+
+
+Skole sal op versoek dwarsdeur die bogenoemde beplanningsproses deur die Veiligeskolekoördineerder bygestaan word.
+
+
+
+
+
+Die hantering van veiligheid en krisisse 
+
+
+
+Alhoewel die WKOD proaktiewe maatreëls daargestel het, is dit noodsaaklik dat skole in die geval van 'n krisis ondersteun word. 
+
+
+
+
+
+Hierdie ondersteuning sal die volgende insluit:
+
+
+
+Ondersteuning aan skoolgemeenskappe in hulle pogings om weer beheer oor hulle situasie te verkry en dit te herstel
+
+
+
+Traumaondervraging tesame met berading
+
+
+
+Die daarstelling van intervensieprogramme vir die identifikasie van die grondoorsake van enige situasie en voorkomingsmaatreëls vir die beheer daarvan
+
+Die uitbreiding of toevoeging van enige noodsaaklike fisiese infrastruktuur
+
+
+
+Die verkryging van die bystand van wetstoepassingsagentskappe om met patrollering behulpsaam te wees
+
+
+
+
+
+Om toegang tot hierdie ondersteuning te verkry, moet skole in verbinding tree met die Veiligeskole-inbelsentrum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	7
+
+OMGEWINGSPROGRAMME 
+
+
+
+
+
+Die doel van hierdie programme is om toegang tot skooleiendom te beheer en te beperk. 
+
+
+
+
+
+2.1     Verbod op onregmatige betreding
+
+
+
+
+
+
+
+2.1.1   Die vertoning van kennisgewingsborde  wat onregmatige betreding verbied
+
+
+
+Die WKOD se Afdeling: Veilige Skole sal hom beywer vir die oprigting van sigbare kennisgewingsborde om die publiek daarvan bewus te maak dat die eiendom wat hulle betree, privaateiendom is.
+
+
+
+Die kennisgewingsborde sal besoekers na ONTVANGS verwys en die volgende verklaring vertoon:
+
+
+
+"Oortreders sal vervolg word.   Meld asseblief by ONTVANGS aan."
+
+
+
+Die bogenoemde verklaring word uitgereik kragtens die regulasies vir veiligheidsmaatreëls by openbare skole soos vervat in Regeringskennisgewing 22754 (nr. 1040).
+
+
+
+
+
+2.1.2   Prosedure
+
+
+
+Die Afdeling Veilge Skole sal die kennisgewingborde aan skole verskaf.
+
+
+
+Die verspreiding van die kennisgewingborde sal deur die Veiligeskolekoördineerder behartig word.
+
+
+
+Die WKOD sal strukture daarstel om te verseker dat die kennisgewingborde ten toon gestel word. Die skool se veiligheidskomitee moet toesien dat die "Geen oortreding"-borde sigbaar bly.
+
+
+
+Die skool moet 'n klag aanhangig maak teen enige persoon of persone wat die skoolterrein onregmatig betree. Indien die skool intimidasie deur bendelede vrees, kan die skool die WKOD versoek om die klag aanhangig te maak, met dien verstande dat die Suid-Afrikaanse Polisiediens (SAPD) kragtens die Strafproseswet verplig sal wees om dit op te volg met die opvoeder/skool om die ondersoekproses van stapel te stuur.
+
+
+
+
+
+Beperking van toegang via die administratiewe gebou en beveiliging van opvoeders en eiendom 
+
+
+
+Sekuriteitsmaatreëls word as noodsaaklik geag om
+
+
+
+openbare skoolterreine te beveilig en die mense en eiendom te beskerm
+
+
+
+om bystand aan die veiligheidsbestuurspan te bied deur die nodige infrastruktuur vir die uitvoering van hulle veiligheidsplanne te voorsien.Die WKOD se Afdeling Veilige Skole kies op 'n jaarlikse basis skole wat kernbystand ten opsigte van infrastruktuur en misdaadvoorkoming ontvang. Hulle gee voorkeur aan en baseer hulle keuse van skole per finansiële jaar op die volgende seleksiekriteria:
+
+
+
+
+
+
+
+
+
+8	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+'n Voltooide behoefteassesseringsvorm
+
+
+
+Misdaadstatistieke wat van die WKOD se Veiligeskole-inbelsentrum en die SAPD verkry is
+
+
+
+Gelykberegtiging en regstelling
+
+
+
+Of die skole proaktief is en misdaadvoorkoming ondersteun Die stedelike/landelike balans
+
+
+
+OBOS-prioriteitsplasing Armoede-indeks
+
+
+
+2.2.1   Infrastruktuurbystand
+
+
+
+Die WKOD se Afdeling: Veilige Skole streef daarna om infrastruktuurbystand aan skole te verleen om die volgende te verseker:
+
+
+
+Grensomheining Binneomheining Outomatiese hekke Voetgangerbeheerhekke Alarmstelsel
+
+
+
+Hakies- en maasdraad Diefwering
+
+
+
+2.2.2   Prosedure
+
+
+
+Alle voorvalle van skoolmisdaad en -geweld moet by die Veiligeskole-inbelsentrum en, indien nodig, by die SAPD aangemeld word.
+
+
+
+Die skool moet skriftelik aansoek doen by die direkteur of Veiligeskolekoördineerder van sy relevante OBOS. Die volgende moet by die brief ingesluit wees:
+
+
+
+Besonderhede van alle voorvalle wat by die Inbelsentrum aangemeld is asook die relevante saaknommers 
+
+'n Behoeftebepalingsvorm 
+
+
+
+Die Veiligeskolekoördineerder sal 'n terplaatse besoek aan die skool bring om die omvang van die gevaar te bepaal.
+
+
+
+'n Skool wat as hoë risiko-skool of 'n skool met 'n hoë gevaarvlak beskou word, kan besluit om die omheining rondom die parkeergebied as deel van hulle sakeplan te beveilig.
+
+
+
+'n Skool in 'n hoë risiko-gebied of 'n gebied met 'n hoë gevaarvlak wat nie as hoë-risiko skool gekeur is nie, sal in 'n noodgeval van beperkte bystand voorsien word.
+
+'n Skool wat nie gekeur is nie, kan skriftelik aansoek doen by die direkteur of Veiligeskolekoördineerder by die OBOS. Die aansoek moet 'n grondige motivering vir sy behoefte aan infrastruktuurbystand bevat.
+
+
+
+Enige navrae moet aan die relevante Veiligeskolekoördineerder gerig word.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	9
+
+Uitbreiding van alarmstelsels 
+
+
+
+Daar is bewys dat 'n alarmstelsel wat behoorlik geïnstalleer is en in stand gehou word en gerugsteun word deur effektiewe gewapende reaksie, die voordeligste afskrikmiddel is teen vandalisme, geweld, diefstal, brandstigting, bendebedrywighede en indringers. 
+
+
+
+
+
+Hulp met befondsing vir die installering van alarmstelsels 
+
+
+
+Die Afdeling: Veilige Skole kan beperkte bystand binne die omvang van die "Bridge the Fence"-projek vir die installering van alarmstelsels voorsien. Skole sal 'n gesubsideerde bedrag per jaar ontvang. 
+
+
+
+Ten einde die installering van alarmstelsels as doeltreffende afskrikmiddel teen vandalisme, geweld, diefstal, brandstigting, bendebedrywighede of indringers te laat funksioneer, word die volgende aanbevelings gemaak: 
+
+
+
+Die hele skool moet deur die alarmstelsel gedek word; nie slegs die administrasieblok en sekere klaskamers nie.
+
+
+
+Daar moet onderhandel word vir 'n dienskontrak wat beide gereelde diens en herstelwerk aan die alarmstelsel insluit.
+
+
+
+'n Noodknoppie moet in elke klaskamer aangebring word of elke opvoeder moet voorsien word van 'n noodknoppie wat hy of sy op sy of haar persoon moet dra, om sodoende bendebedrywighede, roof, aanranding, afknouery en mishandeling die hoof bied.
+
+
+
+'n Bewegingsensor moet in elke lokaal   van die skool aangebring word.
+
+
+
+'n Eenheid wat 'n bewegingsverklikker en pepersproei bevat, moet in lokale waarin daar waardevolle toerusting gehou word, soos die administrasieblok, rekenaarlokale en gespesialiseerde klaskamers, aangebring word.
+
+
+
+Die skool moet verseker dat die maatskappy die installering van die alarmstelsel asook die voorsiening van dienste ten opsigte van beide monitering en gewapende reaksie in die kontrak insluit. Die maatskappy hoef nie aan die "South African Intruders' Detection Service Association" (SAIDSA) te behoort nie, maar moet voldoen aan die SAIDSA-spesifikasies ten opsigte van die installering en gehalte van die alarmtoerusting.
+
+
+
+Skole moet minstens een radioverbinding met die moniteringsdiens installeer. Die ideaal is dat elke blok van die skool via 'n radioverbinding gekoppel moet word.
+
+
+
+Die gewapende reaksiediens moet instem om gedurende en na skoolure op die volgende te reageer:
+
+
+
+Onregmatige betreding Vandalisme 
+
+
+
+Bendebedrywighede binne die skoolgrense en naby die skool Rondhangery in of naby die skool 
+
+
+
+Dreigemente aan opvoeders 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+2.3.2 Prosedure
+
+
+
+Die prinsipaal, veiligheidsbeampte en die skoolbeheerliggaam (SBL) moet 'n ooreenkoms aangaan en onderteken wat die volgende bevat:
+
+
+
+Die skool se verbintenis tot 'n langtermyn misdaadvoorkomingstrategie Hoe die finansiële toekenning bestuur sal word 
+
+
+
+Die skool se verbintenis tot die instelling van 'n Veiligheidskomitee as 'n formele subkomitee van die SBL 
+
+
+
+Die prinsipaal en die SBL moet ag slaan op die volgende as 'n maatskappy gekies word om 'n alarmstelsel te installeer:
+
+
+
+Die maatskappy wat gekies word, moet die versekering gee dat gewapende reaksie verskaf sal word. 
+
+Die kontrak van die maatskappy moet noukeurig nagegaan word om te verseker dat dit oor 'n onttrekkingsklousule beskik indien die skool ongelukkig sou voel oor die gehalte van die diens. 
+
+Die gewapende reaksiemaatskappy moet gewillig wees en oor die vermoë beskik om binne 8 - 10 minute te reageer, asook om die vandale, diewe, brandstigters, 
+
+
+
+bendelede, oortreders en indringers aan te keer.
+
+
+
+Ideaal gesien moet die maatskappy 'n aantal skole in dieselfde gebied bedien en 'n voertuig op 'n gereedheidsgrondslag binne 20 km van die skool hou.
+
+
+
+Maatskappye moet sorgvuldig geëvalueer word en hulle baan- en diensrekords moet nagegaan word.
+
+
+
+'n Skriftelike waarborg met betrekking tot SAIDSA moet van die maatskappy verkry word.
+
+
+
+Die stelsel moet standaard wees in die sin dat dit versoenbaar moet wees met dié van enige ander maatskappye wat mag volg.
+
+
+
+Die moniteringsdiens moet met die skool verbind wees deur middel van beide 'n telefoon- en 'n radioverbinding. Ideaal gesien, moet die radioverbinding in elke blok van die skool geïnstalleer word. Rookverklikkers moet ook in elke sleutellokaal aangebring word. 
+
+
+
+Ideaal gesien, moet 'n videokamera geïnstalleer word om die toegangshek te monitor en sodoende toegang te beheer. 
+
+Skole kan met die maatskappy onderhandel vir 'n dienskontrak ten opsigte van herstelwerk en instandhouding van die alarmstelsel. Die koste moet deur die skool gedra word. 
+
+
+
+Skole moet 'n beleid van gemeenskapseienaarskap ontwikkel waar die gemeenskappe hulleself bereid verklaar om misdaad en geweld te identifiseer en as getuies in hierdie verband te dien.
+
+
+
+Skole kan 'n program implementeer om die skoolgemeenskap bewus te maak van die noodsaaklikheid van 'n alarmstelsel vir die beskerming van lewe en eiendom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	11
+
+PROGRAMME VIR DIE ONDERSTEUNING, VERANDERING EN/OF BEïNVLOEDING VAN GEDRAG 
+
+
+
+Opvoeders in gevaar tydens diensverrigting 
+
+
+
+Die Afdeling Veilige Skole is bewus van gevalle waar opvoeders dreigemente ontvang het en fisies en verbaal mishandel is. 
+
+
+
+
+
+Prosedure vir opvoeders in gevaar weens leerderoptrede 
+
+
+
+In gevalle van baie ernstige verbreking van skoolkodes of ernstige wangedrag, moet die volgende prosedure gevolg word: 
+
+
+
+
+
+Die klaer moet die gebrekkige oordeelsvermoë van die leerder by die skoolhoof aanmeld.
+
+
+
+Die OBOS moet programme vir opvoeders in die hantering van alternatiewe strafmetodes in die plek van lyfstraf binne die multi-funksionele spanbenadering reël.
+
+Leerders met ernstige gedragsprobleme moet verwys word na die OBOS vir individuele ontwikkelingsprogramme voordat hulle weer in skole geïntegreer word.
+
+Waar 'n leerder se optrede 'n fisiese gevaar vir die lewe van 'n opvoeder inhou, kan die prinsipaal, die voorsitter van die SBL en die kringbestuurder besluit op onmiddellike uitsetting. So 'n besluit kan deur die prinsipaal en voorsitter van die SBL geneem word as bewyse gelewer kan word dat 'n poging aangewend is om die kringbestuurder te kontak.
+
+
+
+'n Dissiplinêre verhoor moet kragtens die prosedures vir ernstige wangedrag gereël word.
+
+
+
+
+
+Prosedures vir opvoeders in gevaar weens buitestaanderoptrede en die uitvoering van buitemuurse bedrywighede 
+
+
+
+Skole moet kragtens Staatskennisgewing 22754, (nr. 1040) en die Wet op Beroepsgesondheid en -Veiligheid, oor 'n veiligheidsplan beskik. Die veiligheidsplan moet die volgende insluit:
+
+
+
+Prosedures vir die hantering van dreigemente teen opvoeders deur buitestaanders.
+
+
+
+Prosedures vir die hantering van opvoeders wat in gevaar verkeer in die uitvoering van buitemuurse bedrywighede.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Die prosedures wat in die veiligheidsplan bepaal word, moet geïmplementeer word.
+
+
+
+
+
+Alle voorvalle moet by die SAPD aangemeld word en 'n saaknommer moet verkry word.
+
+
+
+Alle sake moet aangemeld word by die WKOD se Veiligeskole-inbelsentrum wat bystand en 'n verwysingsnommer sal voorsien.
+
+
+
+In die geval waar 'n werknemer in die loop van amptelike skoolaktiwiteite beseer word, tree die Wet op Beroepsbeserings en -Siektes in werking.
+
+
+
+Hoofstuk iv van hierdie wet bepaal die reg van werknemers op vergoeding. Artikel 22(1) bepaal die volgende: "As 'n werknemer 'n ongeluk oorkom wat lei tot ongeskiktheid of dood, sal so 'n werknemer of sy afhanklikes, onderworpe aan die bepalings van die Wet, geregtig wees op die voordele wat in die Wet voorsien en voorgeskryf word."
+
+
+
+Verwys na Bylae B vir die prosedures wat van toepassing is wanneer aansoek om vergoeding ingevolge die Wet op Beroepsbeserings en -siektes, gedoen word.
+
+Die WKOD sal aansoekers met hulle eise behulpsaam wees.
+
+
+
+
+
+3.2     Opvoedereiendom wat in gevaar verkeer tydens diensverrigting
+
+
+
+Diefstal  van en vandalisme aan opvoedereiendom 
+
+
+
+Die WKOD is bewus van gevalle waar opvoeders verliese gely het vanweë diefstal en vandalisme terwyl hulle amptelik aan diens was. 
+
+
+
+
+
+Prosedure 
+
+
+
+Kragtens die Wet op Beroepsgesondheid en -veiligheid, is dit die plig van die werkgewer, in soverre dit prakties moontlik is, om veilige werkomgewings te skep. Die Program vir die Bemagtiging van Slagoffers as deel van die Nasionale Misdaadvoorkomingstrategie (NMVS) verleen 'n holistiese en effektiewe bystanddiens vir slagoffers van geweld en misdaad. 
+
+
+
+
+
+Die volgende prosedures moet gevolg word:
+
+
+
+Alle voorvalle moet by die SAPD aangemeld word en 'n saaknommer moet verkry word.
+
+
+
+Alle voorvalle moet aangemeld word by die WKOD se Veiligeskole-inbelsentrum wat bystand sal verleen en 'n verwysingsnommer sal voorsien.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	13
+
+3.3.    Ondersteuning, modifikasie en beïnvloeding van gedrag
+
+
+
+3.3.1 Programme vir gedragsmodifikasie
+
+
+
+Die volgende programme is saamgestel om by skole ingevoer te word, veral in hoë risiko- gebiede,en word aangebied deur Veiligeskole-koördineerders, nie-regeringsorganisasies(NRO's) en gemeenskapsgebaseerde organisasies(GBO's):
+
+
+
+Effektiewe gedragsbestuur
+
+
+
+Skeppende en konstruktiewe benaderings tot konflikoplossing Bemiddeling in skoolgemeenskappe
+
+
+
+Opvoeding in die voorkoming van bendes Werkswinkels vir ouers Mentorskapprogramme Afleidingsprogramme
+
+
+
+Jeugontwikkeling Slagofferbemagtiging Multikulturele opvoeding
+
+
+
+Veiligeskolekoördineerders sal skole behulpsaam wees met die kursusinhoud van die bogenoemde kursusse.
+
+
+
+
+
+3.3.2 Prosedure
+
+
+
+Klusterskole kan fondse aanvra van die klusterfondse. Enige skool kan sy versoek skriftelik tot die OBOS-direkteur rig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+4.     STELSELPROGRAMME
+
+
+
+
+
+Bendegeweld 
+
+
+
+Suid-Afrika ervaar baie uitdagings. Een van die land se grootste uitdagings is die hoë voorkoms van misdaad en geweld wat vererger word deur hoë werkloosheid, armoede en maatskaplike verwaarlosing tesame met die geredelike beskikbaarheid van dwelms en alkohol wat gelei het tot wydverspreide dwelmmisbruik. 
+
+
+
+Dit is duidelik dat toenemende endemiese bendebedrywighede besig is om op 'n sistematiese wyse die morele struktuur van groot gedeeltes van die Wes-Kaapse samelewing te vernietig. Berigte oor hoë vlakke van geweld, liggaamlike mishandeling, seksuele teistering en bendebedrywighede verskyn daagliks in die geskrewe en elektroniese media. Dit het 'n negatiewe impak op onderwys in die algemeen en op wat in die skool in die besonder plaasvind . 
+
+
+
+
+
+Besef van die impak van bendegeweld op skole 
+
+
+
+Bendebedrywighede buite sowel as binne skole het 'n negatiewe impak op onderrig en leer. 
+
+
+
+Bedrywighede buite die skool het op verskeie maniere 'n ontwrigtende uitwerking op wat binne die skool gebeur.
+
+
+
+Dit skyn asof bendes opsetlik die aankoms- en vertrektye van opvoeders en leerders uitsonder om met hul skietgevegte te begin. Dit bring 'n skrikaanjaende "vreesfaktor" mee wat opvoeders, leerders en ouers traumatiseer.
+
+
+
+Waarneembare getrouheid aan 'n bepaalde bende word gewoonlik bepaal deur waar 'n mens woon. Dit kan 'n negatiewe impak op onskuldige inwoners in sekere gebiede hê.
+
+
+
+Bedreigings, intimidasie en teistering veroorsaak vrees en gee aanleiding tot die afwesigheid van beide opvoeders en leerders. Dit het 'n ernstige impak op onderrig en leer.
+
+
+
+Opvoeders is dikwels afwesig omdat hulle aftyd benodig vir traumaberading- en ondervraging.
+
+
+
+Verwys na Bylae C vir 'n breedvoerige lys van die verantwoordelikhede van die onderskeie rolspelers tydens die nadraai van 'n krisis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	15
+
+4.1.2 Prosedure vir die sluit van 'n skool as gevolg van bendegeweld
+
+
+
+Dit is raadsaam om nie 'n skool te sluit nie, maar om eerder te poog om die skoolopset so spoedig doenlik te normaliseer en te stabiliseer.
+
+
+
+Indien dit noodsaaklik geag word om die skool te sluit, moet die skoolhoof en die skool se Veiligheidskomitee na die volgende oorsiglys verwys en 'n aanbeveling maak aan die OBOS-direkteur of sy gemagtigde wat toestemming vir die sluiting van die skool kan verleen.
+
+
+
+
+
+Oorsiglys vir die sluiting van die skool as gevolg van bendegeweld: praktiese sleutelvrae:
+
+
+
+Hoeveel leerders wat in geweldgeteisterde gebiede woon, sal tuis sonder toesig wees? 
+
+
+
+Is daar   'n meganisme beskikbaar om ouers te verwittig van 'n vroeë sluiting? 
+
+
+
+Kan ouers alternatiewe reëlings vir leerders tref? 
+
+
+
+Waar het die skietery plaasgevind? 
+
+
+
+Is die SAPD ingelig? 
+
+
+
+Is daar voldoende patrollering deur die SAPD? 
+
+
+
+Sal die skietery in alle waarskynlikheid dwarsdeur die dag voortgaan (intelligensie- inligting)? 
+
+
+
+Wat is die graad van trauma? 
+
+
+
+Wat het plaasgevind?   Moord, bendegeweld, selfmoord, skietery? 
+
+
+
+Waar het die dood, besering of trauma plaasgevind? ('n sterfte, besering of trauma wat op die skoolterrein plaasvind, is moeiliker om te hanteer). 
+
+
+
+Wie is getuies van die dood, besering of trauma? (Dit is belangrik om dit te weet om berading te kan voorsien.) 
+
+
+
+Watter ander tragedies het onlangs by hierdie skool plaasgevind? 
+
+
+
+Wie is die skuldiges? 
+
+
+
+Indien daar besluit sou word om die skool te sluit en die leerders huistoe te stuur, wat sal 'n paslike veilige tyd daarvoor wees? 
+
+
+
+Sal dit nodig wees vir die SAPD om die leerders na hul tuistes te vergesel en sal hulle personeel daarvoor beskikbaar hê? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Sones vry van gevaarlike voorwerpe 
+
+
+
+Alhoewel alle skole ingevolge Staatskennisgewing 22754 (nr. 1040) tot sones vry van gevaarlike voorwerpe verklaar is, moet skole dit 'n stap verder voer deur die skool tot 'n vuurwapenvryesone (VVS) te verklaar. 
+
+
+
+
+
+4.2.1 Sones vry van vuurwapens  (VVS'e)
+
+
+
+In April 2001 is die Wet op Vuurwapenbeheer (Wet 60/2000) deur die Parlement uitgevaardig. Hierdie wet maak voorsiening vir vuurwapenvrye sones (VVS'e).
+
+
+
+Ingevolge hierdie wet kan die Minister van Veiligheid en Sekuriteit enige plek tot 'n VVS verklaar. Dit kan 'n skool, hospitaal, werkplek of enige ander gebied wees. Niemand word toegelaat om vuurwapens of ammunisie in 'n VVS in te neem of daar te berg nie. Enige persoon of persone wat dit doen, kan in die hof aangekla word van 'n misdaad en kan 'n swaar gevangenisstraf opgelê word.
+
+
+
+
+
+4.2.2   Prosedure
+
+
+
+Raadpleeg alle belanghebbendes (leerderverteenwoordigerraad, opvoeders, ouers, leerders, SBL'e en NRO's, godsdienstige en sportliggame, gemeenskapveiligheidsforums en gemeenskaps-polisiëringsforums).
+
+
+
+Ontwikkel 'n beleid
+
+
+
+Die skoolgemeenskap moet ooreenkom dat die skool 'n vuurwapenvrye sone gemaak word. 
+
+Die Veiligheidskomitee moet die VVS by die skool implementeer. 
+
+
+
+'n Skool kan slegs ' n vuurwapenvrye sone word as daar aan volgende vereistes voldoen word:
+
+
+
+Geen vuurwapens of ammunisie mag na die skoolterrein gebring word nie. Geen vuurwapens of ammunisie mag op die skoolperseel geberg word nie.
+
+Die skool moet as VVS geregistreer word en dan amptelik tot 'n VVS deur die Minister van Veiligheid en Sekuriteit verklaar word. Die plaaslike SAPD- verteenwoordiger sal met hierdie proses behulpsaam wees.
+
+
+
+Kennisgewingsborde wat duidelik aandui dat die skool 'n VVS is, moet by die ingange van die skool aangebring word.
+
+
+
+Aanvaar die beleid
+
+
+
+Nooi alle belanghebbendes na 'n vergadering en vra hulle steun vir die nuwe beleid oor vuurwapenvrye sones.
+
+
+
+Lig die gemeenskap in oor wat dit beteken om 'n vuurwapenvrye sone te wees.
+
+
+
+Die Veiligheidskomitee moet hierdie beleid implementeer. Handhaaf die skool as 'n VVS.
+
+Lig   nuwelinge in oor die VVS. 
+
+
+
+Skakel met ander VVS-skole en deel ervarings. Verken alternatiewe vir geweld. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	17
+
+Sones vry van handvuurwapens 
+
+
+
+'n Handvuurwapenvrye sone word geskep deur 'n vrywillige verklaring van 'n perseel tot 'n handvuurwapenvrye gebied deur die gemeenskap of eienaars daarvan. Dit het geen status ingevolge die Wet op Vuurwapenbeheer nie en kan slegs afgedwing word deur die toepassing van die gemenereg en wette rakende onregmatige betreding of oortreding. 
+
+
+
+
+
+Prosedures 
+
+
+
+Prosedures vir die verklaring tot handvuurwapenvrye sones is soortgelyk aan dié vir die verklaring van vuurwapenvrye sones. Die enigste verskil is die boetes wat daaraan verbind is. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+4.3     Visentering
+
+
+
+4.3.1   Om na willekeur te deursoek of op iets beslag te lê is verbode.
+
+
+
+In ooreenstemming met die algemene toepassing van die volgende Wette, die Kriminele Prosedure Wet, Wet 51 van 1977, die Dwelm en Dwelmhandel Wet, Wet 140 van 1992, en die Vuurwapenbeheer Wet van 2000, mag 'n polisieamptenaar sonder 'n lasbrief enige skool of persoon op die skoolperseel deursoek indien hy of sy redelike vermoede/suspisie het dat onwettige dwelms of gevaarlike voorwerpe teenwoordig mag wees op 'n skoolterrein.
+
+
+
+Ingevolge die Suid-Afrikaanse Skolewet, 84/1996: Regulasies vir Veiligheidsmaatreëls te Openbare Skole, paragraaf 4 (3), mag 'n polisiebeampte of, in sy afwesigheid, die prinsipaal of afgevaardigde, sonder 'n lasbrief,
+
+
+
+die terrein van enige openbare skool deursoek indien hy/sy 'n redelike suspisie het dat 'n gevaarlike voorwerp of onwettige dwelms op die skoolterrein , in teenstelling met die regulasies, teenwoordig is 
+
+
+
+enige persoon op die skoolterrein deursoek; en 
+
+
+
+beslag lê op enige gevaarlike voorwerp of onwettige dwelms teenwoordig op die openbare skoolterrein of op die persoon in oortreding van hierdie regulasies. 
+
+
+
+
+
+Deursoekings en beslagleggings moet ingesluit word in die skool se Gedragskode en Veiligheidsplan. 
+
+
+
+Skoolbeheerliggame en Veiligheidskomitees moet in kennis gestel word. 
+
+
+
+Amptelike briewe moet na ouers gestuur word om hulle in te lig aangaande die prosedures vir deursoekings en beslagleggings. 
+
+
+
+
+
+4.3.2   Prosedure vir deursoeking of beslaglegging
+
+
+
+Stel u Veiligeskolekoördineerder in die OBOS of die Veiligeskole-Inbelsentrum in kennis.
+
+
+
+Versoek 'n polisieamptenaar om die ondersoek te doen. In die afwesigheid van 'n polisiebeampte mag die prinsipaal of gedelegeerde opvoeder die ondersoek doen.
+
+Die prinsipaaal (wat regstegnies in beheer van die skool is) mag in die afwesigheid van 'n polisieamptenaar en waar redelike suspisie/vermoede (met voldoende inligting) bestaan, enige leerder deursoek vir die onwettige dwelms en gevaarlike voorwerpe. Gedurende die deursoeking moet die menswaardigheid te alle tye gerespekteer word en persone moet deur iemand van dieselfde geslag in privaatheid deursoek word. Die ontkleding en die deursoek van enige liggaamsopeninge mag nie op leerders toegepas word nie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	19
+
+Bylae A
+
+
+
+
+
+DIE NEGEPUNT VEILIGESKOLE-BEPLANNINGSPROSES
+
+
+
+
+
+
+
+Stap 1: Stig 'n Veiligheidskomitee
+
+
+
+
+
+WKOD: Afdeling: Veilige Skole het veiligheidstrukture ontwikkel vir skole om veiligheid op skoolvlak te ondersteun en aan te moedig.
+
+
+
+Die eerste stap sal wees die aanmoediging van 'n spangees binne die skool en die omliggende gemeenskap en 'n gewilligheid om betrokke te wees in 'n deurlopende proses van kritie evaluering en verandering .
+
+
+
+'n Skoolveiligheidskomitee (SVK) bestaande uit 'n wye verskeidenheid van diensverskaffers, is die belangrikste element in die ontwikkeling van 'n positiewe gesindheid teenoor kritie ontleding.
+
+
+
+
+
+Hoe word 'n Veiligheidskomitee saamgestel?
+
+
+
+
+
+Die SVK is 'n subkomitee van die SBL.
+
+
+
+Artikel 17(1) van die Wet op Beroepsgesondheid en -siektes bepaal dat daar op die skoolterrein een veiligheidsverteenwoordiger vir elke 20 - 50 werknemers moet wees. Die skoolgebaseerde veiligheidsbeampte sal hierdie mandaat vervul. Die skoolhoof moet 'n veilgiheidsbeampte, wat skriftelik daarvan verwittig moet word, aanstel.
+
+
+
+Die SVK moet bestaan uit lede van die SBL en verteenwoordigers van godsdienstige en sportliggame, bestuur, die plaaslike sakesektor, die plaaslike SAPD, plaaslike regering, ouers en gemeenskapsorganisasies.
+
+
+
+
+
+Areas van verantwoordelikheid van die SBL
+
+
+
+
+
+In ooreenstemming met die funksies soos uiteengesit in die Suid-Afrikaanse Skolewet is die areas van verantwoordelikheid die volgende:
+
+
+
+Toesighouding en monitering van die SVK Ontvangs van maandelikse vorderingsverslae Implementering van aanbevelings van die SVK Evaluering en bepaling van vordering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Areas van verantwoordelikheid van die SVK
+
+
+
+
+
+Onderneem 'n veiligheidsoudit. Stel maandelikse veiligheidsverslae saam. Stel veiligheidsplanne saam en hersien hulle.
+
+Gee advies ten opsigte van die keuse en implementering van strategieë. Onderneem 'n oudit van diensverskaffers.
+
+
+
+Beplan programme ten opsigte van veiligheid.
+
+
+
+Word verteenwoordig op die klusterveiligheidskomitee deur die skool se Veiligheidsbeampte en/of prinsipaal .
+
+
+
+
+
+Stap 2: Maak veiligheid deel van die skool se visie
+
+
+
+Hou 'n dinkskrum en formuleer dan 'n duidelike visie oor wat bereik moet word. Bepaal of die skool se huidige visieverklaring die SVK se visie inkorporeer. Vergelyk huidige toestande met die SVK se visie.
+
+
+
+Verkry skool- en gemeenskapskonsensus oor die visie.
+
+
+
+
+
+Stap 3: Onderneem 'n veiligheidsoudit
+
+
+
+Betrek ouers, studente, gemeenskapslede en personeel by die bepaling van die bestaandee misdaadtoestand te bepaal asook die bronne wat beskikbaar is om die huidige situasies te steun en aan te spreek.
+
+
+
+Hersien die bestaande databronne van die skool, die OBOS, Veiligeskole- inbelsentrum, die SAPD en die gemeenskap.
+
+
+
+Versamel relevante data oor die grondoorsake van misdaad. Bepaal die omvang en impak van die probleem. Identifiseer sekuriteitsgapings.
+
+
+
+Identifiseer die skool en gemeenskap se areas van verlangde veranderings. Identifiseer areas waar verbetering of verandering benodig word.
+
+
+
+Wat om te oudit
+
+
+
+Identifisering van onveilige gebiede binne die geboue sowel as op die speelgronde
+
+
+
+Identifisering van onderhoudstoerusting wat 'n gevaar kan inhou. So bv. word leerders nie toegelaat om toerusting soos grassnyers, kraggereedskap, ens. te gebruik nie.
+
+
+
+Voorsorg moet geneem word wanneer sekere onderhoudstoerusting gebruik word. Daar moet seker gemaak word dat die korrekte beskermende klere gedra word. Afbakening en aanduiding van parkeerruimte vir personeel, besoekers en leerders Reëls aangaande die bestuur van voertuie op die skoolterrein
+
+
+
+Voorsiening en versiening van brandblussersop die skoolterrein Vasstelling van stormskade wat gevaarlik kan wees
+
+Die versekering van die veilige en/of korrekte gebruik van sporttoerusting
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	21
+
+Koördinering van spesiale veiligheidsmaatreëls t.o.v. klaskamers, stoorkamers en gespesialiseerde onderriglokale (laboratoriums, houtwerk-, metaalwerkl- en naaldwerklokale, kombuise, ens.)
+
+
+
+Vermyding van die aanplanting van giftige plante
+
+
+
+
+
+Stap 4: Stel hoofdoelwitte
+
+
+
+Plaas kommer oor veiligheid in rangorde.
+
+
+
+Maak 'n lys van die hoë prioriteite wat optrede gedurende die huidige akademiese jaar vereis.
+
+
+
+Kies uit die volgende lys die rolspelers om hierdie doelwitte te bereik:
+
+
+
+
+
+Die skool Die gemeenskap Die SAPD 
+
+
+
+Die Gemeenskapsveiligheidsforum (GVF) Multi-sektorale Aksiespanne (MSAS) Munisipaliteite 
+
+
+
+Stap 5: Ontwikkel 'n veiligheidsplan Omgewingsontwerp
+
+
+
+Toepaslike omheining Beligting saans Alarms Publieke telefone Veiligheidshekke Hakiesdraad Maasdraad
+
+
+
+Veiligheid en sekuriteit op skoolterrein
+
+
+
+Toegangsbeheer
+
+
+
+
+
+Indringers/Betreders Ongemagtigde persone
+
+
+
+Besoeke deur die publiek en politieke partye Besoeke deur ouers
+
+
+
+Kontrakteurs wat op die skoolterrein werksaam is Kennisgewingsborde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Noodgevalle
+
+
+
+
+
+Bomdreigement Bendegeweld Brande/brandstigting Fratsweertoestande Besetting van skool Stedelike terrorisme Siektes Natuurlike rampe
+
+
+
+Visentering en beslaglegging
+
+
+
+
+
+Onwettige dwelms Gevaarlike voorwerpe Vuurwapens
+
+
+
+Ander moontlike kwessies
+
+
+
+
+
+Vandalisme Inbrake, roof en diefstal Hantering van finansies Laboratoriums
+
+Tegniese skole (masjinerie en gereedskap)
+
+
+
+Ongeluks- of gevalleregister (Skoolbeseringsvorm kan by Veiligeskolekoordineerder verkry word.)
+
+
+
+
+
+
+
+Veiligheidsopvoeding
+
+
+
+
+
+Selfmoord
+
+
+
+Misbruik
+
+
+
+Seksuele teistering
+
+
+
+Seksuele molestering
+
+
+
+Alkohol en dwelmmisbruik
+
+
+
+Liggaamlike en verbale misbruik
+
+
+
+Emosionele misbruik
+
+
+
+Ontvoering en menseroof
+
+
+
+Trauma
+
+
+
+Uitstappies en ander naskoolse aktiwiteite
+
+
+
+Noodhulp/Noodhulpstelle    moet    ingevolge    die    bepalings    van    die    Wet    op
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	23
+
+Beroepsgesondheid en -veiligheid medikasie uitsluit Skolierpatrollie
+
+
+
+Stokkiesdraai Leerders in gevaar
+
+
+
+Gemeenskapsbetrokkenheid
+
+
+
+
+
+Ouers
+
+
+
+Gemeenskapspolisiëringsforums (GPFs)
+
+
+
+GVFs
+
+
+
+SAPD
+
+
+
+Munisipaliteite - MSAS
+
+
+
+Unistede
+
+
+
+Buurtwag
+
+
+
+NRO's
+
+
+
+GBO's
+
+
+
+Godsdiensliggame
+
+
+
+
+
+Stap 6: Kies en implementeer strategieë
+
+
+
+Kies strategieë, optredes en bronne om beplande doelwitte te verwesenlik. Dra verantwoordelikhede, tydlyne en sleutel meetbare doelwitte (SMD) oor. Ontwikkel werkverrigtingsaanduiders.
+
+
+
+Stap 7: Onderneem 'n oudit van diensverskaffers in die gebied
+
+
+
+Bepaal watter bronne wat uit die gemeenskap kom, bystand kan verleen indien hulp van buite gesoek word, soos:
+
+
+
+Buurtwag, SAPD, Veiligeskolekoördineerder, Veiligeskole-inbelsentrum, Gewapende Reaksie, MSAS, GVF, Openbare Orde, Munisipale Polisie, Bende-eenheid, Misdaadinligting
+
+
+
+Gesondheidsklinieke, Daghospitaal, Noodhulp, privaat mediese praktisyn Berader: Sielkundige
+
+
+
+Welsyn:   PAWK, SANKA, NIMRO, FAMSA, LIFELINE, dwelm- en alkoholsentrums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Step 8: Skep klusterstrukture
+
+
+
+Stel 'n Klusterveigheidskomitee gebaseer op geografiese groepering van skoolveiligheidskomitees saam.
+
+
+
+Skep 'n grondwet.
+
+
+
+Reël gesamentlike werkswinkels en programme. Formuleer 'n Klusterveiligheidsplan Monitor skoolprogram.
+
+
+
+Stap 9: Evalueer en bepaal vordering
+
+
+
+Monitor die skoolprogram.
+
+
+
+Vra advies aan vanaf of maak aanbevelings aan die WKOD. Formuleer 'n ontwikkelingsplan.
+
+
+
+Evalueer en bepaal vordering. Monitor die implementering van die plan. Stel vas of doelwitte bereik word.
+
+
+
+Herassesseer die SVK's, komiteelede en prioriteite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	25
+
+Bylae B
+
+
+
+
+
+ANSOEKPROSEDURES INGEVOLGE DIE WET OP VERGOEDING VIR BEROEPSBESERINGS- EN SIEKTES (WVBS)
+
+
+
+Kennisgewing van ongeluk deur werknemer aan werkgewer
+
+
+
+'n Skriftelike of verbale kennisgewing van 'n ongeluk moet so gou as moontlik nadat die ongeluk plaasgevind het, deur of namens die betrokke werknemer aan die werkgewer deurgegee word en 'n kennisgewing van die ongeluk kan ook so gou as moontlik aan die kommissaris op die voorgeskrewe wyse deurgegee word.
+
+
+
+Kennisgewing van ongeluk deur die werkgewer aan die kommissaris
+
+
+
+Die werkgewer moet binne sewe dae nadat hy kennis ontvang het van 'n ongeluk of op 'n ander wyse verneem dat 'n werknemer in 'n ongeluk betrokke was, aan die kommissaris op die voorgeskrewe wyse verslag doen.
+
+
+
+Ondersoek deur kommissaris rakende die ongeluk
+
+
+
+Die kommissaris sal, nadat hy kennis ontvang het van 'n ongeluk of op 'n ander wyse verneem het dat 'n werknemer 'n ongeluk gehad het, ondersoek instel soos hy of sy dit mag nodig ag wat hom of haar in staat sal stel om te besluit oor enige eis of las ingevolge die wet.
+
+
+
+Besonderhede om die eis te staaf
+
+
+
+'n Werknemer wat 'n ongeluk gehad het, moet wanneer die ongeluk gerapporteer word of daarna, op versoek van die werkgewer of kommissaris sodanige inligting en dokumente verskaf, soos voorgeskryf, of soos deur die werkgewer of kommissaris besluit. Die werkgewer moet alle inligting wat hy ontvang het, binne 14 dae na ontvangs aan die kommissaris deurgee.
+
+
+
+Eis om vergoeding
+
+
+
+'n Eis om vergoeding ingevolge die Wet moet op die voorgeskrewe wyse aan die kommissaris of werkgewer of die betrokke wedersydse assosiasie, wat ookal die geval mag wees, voorgelê word deur of namens die eiser, binne 12 maande na die datum van die ongeluk of, in die geval van dood, binne 12 maande na die datum van die dood.
+
+
+
+Voorskrif
+
+
+
+'n Reg op voordele sal kragtens die Wet verval as die bepaalde ongeluk nie onder die aandag van die kommissaris of die werkgewer of die betrokke wedersydse assosiasie, wat ookal die geval mag wees, binne 12 maande na die datum van die ongeluk gebring is nie.
+
+
+
+Oorweging van eise
+
+
+
+Die kommissaris sal die eis vir vergoeding oorweeg en beoordeel en kan vir daardie doel 'n ondersoek uitvoer, of hy of sy kan die eis formeel aanhoor.
+
+
+
+
+
+
+
+
+
+26	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Bylae C
+
+
+
+VERANTWOORDELIKHEDE VAN DIE ROLSPELERS IN DIE NASLEEP VAN 'N KRISIS
+
+
+
+Die kontroleur (wat die prinsipaal kan wees) moet beheer oorneem. Beseerde kinders en volwassenes moet mediese behandeling ontvang. Inligting oor identifikasie moet enigeen wat beseer is, vergesel. Die skool se gedelegeerde Veiligheidskomiteelede moet met die volgende rolspelers skakel:
+
+
+
+SAPD Mediese personeel Media
+
+
+
+Ouers
+
+
+
+·
+
+
+
+Prinsipaal se rol
+
+
+
+Moet die skool se Veiligheidskomitee opdrag gee om beheer te neem oor die toestand.
+
+
+
+Moet sigbaar, beskikbaar en ondersteunend wees. Moet gerugte weerlê deur aan almal die feite te verskaf.
+
+Moet kommunikeer met die OBOS-multifunksionele span, Veilige Skole en die SBL. Moet die familie van die oorledene of beseerde persoon kontak. Moet opgedateerde inligting aan alle betrokkenes verskaf.
+
+
+
+Opvoeder se rol
+
+
+
+Moet akkurate inligting aan leerders verskaf. Moet klasbesprekings lei.
+
+
+
+Moet gerugte weerlê. Moet vrae beantwoord.
+
+Moet 'n model van 'n gepaste reaksie opstel. Gee verlof vir die uitdrukking van 'n reeks emosies. Moet leerders wat berading benodig, identifiseer.
+
+
+
+Moet aktiwiteite voorsien wat trauma sal verminder en uitdrukking van emosies deur middel van kunswerk, musiek en skryfkuns sal teweegbring.
+
+
+
+Sit kurrikulum opsy soos benodig. Bespreek begrafnisprosedures insluitend gebruike en etiket. Moedig ouers aan om hulle kinders na begrafnisse te vergesel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	27
+
+Die rol van die Veiligeskolekoördineerder, die sielkundige en die maatskaplike werker
+
+
+
+Wees beskibaar. Kanselleer alle ander afsprake.
+
+
+
+Soek 'n gepaste lokaal vir ondervraging, berading en in-diepte terapie. Ondersteun die skool.
+
+
+
+Soek beradingshulp via die Veiligeskole-inbelsentrum.
+
+
+
+Hou rekords van betrokke leerders en opvoeders en voorsien opvolging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+
+Bylae D
+
+
+
+WETGEWENDE RAAMWERK EN ANDER MANDATE
+
+
+
+Grondwet van Suid-Afrika (Wet 108/1996) Grondwet van die Provinsie Wes-Kaap (1997)
+
+Tweede Wysigingswetsontwerp op Kriminele Prosedure (Wet 85/1997)] Wet op die Indiensneming van Opvoeders (WIO) (Wet 76/1998) Wet op die Kontrolering van Vuurwapens (Wet 60/2000) Staatskoerant 22754/2001: Kennisgewingnr. 1040
+
+
+
+Nasionale Misdaadvoorkomingstrategie (NMVS) (Nasionale HOP- kantoor, 1996) Nasionale Onderwysbeleidswet (Wet 27/1996)
+
+
+
+Wet op Beroepsgesondheid en Veiligheid (WBGV) (Wet 85/1993)
+
+
+
+
+
+Wet op Vergoeding vir Beroepsbeserings en -siektes (WVBS) (Wet 181/1993) Suid-Afrikaanse Skolewet (SASW) (Wet 84/1996)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings	29
+
+Bylae E
+
+
+
+KONTAKNOMMERS VAN DIE AFDELING: VEILIGE SKOLE
+
+
+
+
+
+
+
+
+
+Afleidingbestuurder
+
+
+
+
+
+Nariman Khan
+
+082 377 8073
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veiligeskolekoördineerders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS-Sentraal
+
+
+
+
+
+Karen Jansen
+
+082 462 8916
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS-Suid
+
+
+
+
+
+Brian Jeftha
+
+(021) 370 2098
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS-Noord
+
+
+
+
+
+Grace Ziegler
+
+082 434 4494
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS-Oos
+
+
+
+
+
+Funiswa Didishe
+
+084 660 1001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS Weskus/Wynland
+
+
+
+
+
+Tony Johnson
+
+082 218 8359
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS Breederivier/Overberg
+
+
+
+
+
+Bertram Jacobs
+
+083 234 5290
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBOS Suid-Kaap/Karoo
+
+
+
+
+
+Anton Titus
+
+083 391 0041
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veiligeskole-inbelsentrum
+
+0800 45 46 47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30	Hantering van Veiligheid en Sekuriteit in WKOD-Inrigtings
+

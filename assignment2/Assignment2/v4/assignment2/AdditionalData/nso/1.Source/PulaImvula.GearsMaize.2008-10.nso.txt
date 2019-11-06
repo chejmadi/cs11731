@@ -1,0 +1,141 @@
+Gears (Maize)											Sepedi
+
+Go kwešiša kamano ya dikere 
+
+
+
+Instructions:
+
+Folio strap: Tirišometšhene
+
+Byline: Tshedimošo ye e tšwa mo go thuto ya Dikontraka tša Temo 
+
+Photos: 	Dikere le kamano (Gears and ratios)
+
+Keremeno (Sprocket)
+
+Kere ye e hlomeletšwego ditrapo (Pedal Gear)
+
+Segapiwa (The Driven)
+
+Segapedi (Driver)
+
+Leotwanakere (Gear wheel)
+
+	
+
+Metšhene ye mentši e diriša dikere. Mohlala wo mobotse ke paesekela yeo e nago le dikere tšeo di nolofatšago mošomo wa monamedi, kudu merotogeng. Ka tlwaelo paesekela e na le leotwanakere (papetlasediko) le legolo leo le hlomeletšwego ditrapo, gammogo le maotwanakere ao a fapanago ka bogolo leotwaneng la ka morago. Ge ditrapo di gatwa, ketane e dikološa maotwanakere a ka morago. 
+
+Lebela papetlasediko (leotwanakere) yeo e hlomeletšwego ditrapo mme o bapiše bogolo bja yona le bogolo bja maotwanakere ao a lego leotwaneng la ka morago la paesekela. Na o lemoga eng? 
+
+Batho ba bantši ba kile ba namela paesekela morotogeng. Boima bja go gapela paesekela bo oketšega go ya ka tshekamo ya morotoga mme ka tlwaelo monamedi o tla fetola dikere go nolofatša mošomo wa gagwe. Ge monamedi a fetola dikere, ketane e tloga kereng ye nnyane ya tshelela kereng ye kgolo ya meno a go feta a kere ye nnyane, seo se nolofatšago mošomo wa go dikološa ditrapo. Kgapelo ya paesekela morotogeng e nolofala go ya ka koketšo ya meno a kere ya ka morago le ge lebelo la paesekela le fokotšega.
+
+Go ka diragala eng ge monamedi wa paesekela yo a rotogago mmoto a fetola dikere go tloga go kere ye kgolo go ya go ye nnyane? Kgapelo ya paesekela e tla nolofala goba e tla thatafala?
+
+Kamano ya dikere (gear ratio - velocity ratio)
+
+Lebaka le le dirago gore kgapelo ya paesekela morotogeng e nolofala ge dikere di fetolwa, ke seo se bitšwago kamano ya dikere (gear ratio) goba (velocity ratio). Kamano ya dikere e ka akanywa ka sebopego sa dipalo mme mehlala e tšweletšwa mo tlase. Ka motheo kamano e sepelelana le palo ya meno ao a lego leotwanengkere. Ketane yona ga e amege mme e a hlokomologwa kakanyong ye. 
+
+
+
+MOHLALA:
+
+Ge kere ye kgolo ya ka pele (pedal gear) e dikologa gatee, kere ye nnyane ya ka morago (sprocket gear) e tla dikologa gakae?
+
+
+
+PALO YA MENO A KERE YA KA PELE 	=     MENO A 60 = 2 (KERE YA KA MORAGO E DIKOLOGA GABEDI)
+
+PALO YA MENO A KERE YA KA MORAGO      MENO A 30
+
+
+
+Kamano ya dikere ke 			1 		: 		2
+
+ KERE YA KA KERE YA 		KA PELE MORAGO
+
+ 	
+
+
+
+Mohlala wo o bontšha gore nako ye nngwe le ye nngwe ge kere ya ka pele e dikologa gatee, kere ya ka morago e dikologa gabedi, seo se nolofatšago kgapelo ya paesekela morotogeng.
+
+
+
+
+
+Leka dipotšišo tše di latelago:
+
+Ge kere ya ka pele (pedal gear) e dikologa gatee, kere ya ka morago (sprocket gear) e dikologa gakae?
+
+
+
+PALO YA MENO A KERE YA KA PELE 	=     __________ = 
+
+PALO YA MENO A KERE YA KA MORAGO      
+
+
+
+Kamano ya dikere ke 			1 		: 		
+
+ KERE YA KA KERE YA 		KA PELE MORAGO
+
+
+
+ Ge kere ya ka pele (pedal gear) e dikologa gatee, kere ya ka morago (sprocket gear) e dikologa gakae?
+
+PALO YA MENO A KERE YA KA PELE 	=     __________ = 
+
+PALO YA MENO A KERE YA KA MORAGO      
+
+
+
+Kamano ya dikere ke 			1 		: 		
+
+ KERE YA KA KERE YA 		KA PELE MORAGO
+
+Ge kere ya ka pele (pedal gear) e dikologa gatee, kere ya ka morago (sprocket gear) e dikologa gakae?
+
+PALO YA MENO A KERE YA KA PELE 	=     __________ = 
+
+PALO YA MENO A KERE YA KA MORAGO      
+
+
+
+Kamano ya dikere ke 			1 		: 		
+
+ KERE YA KA KERE YA 		KA PELE MORAGO
+
+
+
+Kamano ya dikere e huetša lebelo bjang?
+Kamano ya dikere e re botša lebelo leo kere ye e itšego e dikologago ka lona ge kere yeo e bapišwa le ye nngwe. 
+
+Ge kere ya ka pele (input gear) ye e nago le meno a 10, ye e dikologago ka lebelo la 5 rpms, e kgokaganywa le kere ya ka morago (output gear) ye e nago le meno a 50, kere ya ka morago e tla dikologa ka lebelo la 1 rpm. 
+
+Ka lebaka lang?
+Ka ge kamano ya dikere tše e le 50:10... goba 5:1
+
+Ge kere ye nnyane (ke go re ya ka morago) e dikologa 1x, kere ye kgolo (ke go re ya ka pele) e dikologa 1/5x. Ka mantšu a mangwe, ge kere ye nnyane e dikologa gahlano, kere ye kgolo e dikologa gatee. Ka go realo kere ye kgolo e dikologa ka lebelo la 1/5 = 1rpm mola ye nnyane e dikologa ka lebelo la 5 rpms. 
+
+Seemo e tla ba sefe ge kamano ya dikere e le 1:3?
+Seemong se kere ya ka pele (input gear) e feta ya ka morago (output gear) ka bogolo gararo (3x). 
+
+Ge kere ya ka pele e dikologa ka lebelo la 1rpm, ya ka morago e tla dikologa ka lebelo la 3rpms. Ka fao, ge kere ya ka pele e dikologa ka lebelo la 20 rpms, lebelo la kere ya ka morago e tla ba 60 rpms.
+
+Segapedi le Segapiwa
+
+Segapedi ke kere yeo e nago le maatlathwii (direct power). Mo mohlaleng wa rena wa paesekela motho yo a e nametšego o e gapela pele ka go gata ditrapo. Kere ye kgolo ye e hlomeletšwego ditrapo ke yona ‘segapedi’ (ke yona e bago le maatla ka go dikološwa ke monamedi) mme kere ye nnyane ya ka morago ke ‘segapiwa’. Ga se gore kere ye kgolo ke segapedi sa ye nnyane ka mehla – bogolo ga bo bohlokwa. Se se lego bohlokwa ke gore maatla a fihla kereng efe pele?
+
+
+
+Elelwa gore ge go na le dikeremeno (sprockets) tše mmalwa tšeo di kgokaganywago ke diketane, go ka ba le keremeno ye nngwe ye e hlomoletšwego šafong yona yeo, ye e bago segapedi sa molokoloko wo mongwe wa dikere (next sequence). 
+
+
+
+Ge o lekola molokoloko wa dikere go bohlokwa go lebelela bogolo bja dikere/dikeremeno. Dikeremeno di huetša lebelo leo šafo e dikologago ka lona. Lebelo (tikologo) la šafo ke lona le laolago lebelo leo kelopeu (seed mechanism) e dikologago ka lona mme se gape se laola bokaakang bja peu ye e bjalwago. Ge lebelo la šafo le okeletšwa, peu ye e bjalwago e a okeletšwa. 
+
+
+
+Ge o beakanya plantere mme wa lemoga gore e bjala peu ye ntši go feta, o tla tseba gore šafo ya mafelelo yeo e gapelago kelopeu e dikologa ka lebelo le le fetišago mme o swanetše go fokotša lebelo leo. Mokgwa o noši woo ka wona lebelo la šafo yeo le ka fokotšwago ke go fetola bogolo bja dikeremeno tše di gapelago šafo yeo.
+
